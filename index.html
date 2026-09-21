@@ -452,6 +452,9 @@ const BOTP=new Set(['gd','us','km']);
 const isBot=()=>BOTP.has(st.prod)||st.typ==='bots';
 const st={m:'2026-08',typ:'all',prod:'atf',act:'all',plat:'all',chan:'all',mgr:'all',org:'on',sb:'off',kpi:'orders',kpiT:'bar'};
 const MLIST=Object.keys(META.months).sort();
+// по умолчанию — текущий месяц (по дате устройства); если его ещё нет в данных — последний доступный
+{const d=new Date(), cm=d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0');
+ st.m=MLIST.includes(cm)?cm:MLIST.filter(m=>m<=cm).pop()||MLIST[MLIST.length-1];}
 const CH={};['plat','chan','prod','mgr'].forEach(k=>CH[k]={ms:['spend'],t:'line',off:new Set(),sig:''});
 const TOTCOL='#7c3aed';
 const METRICS=[['spend','Расход','money'],['orders','Заказы','n'],['osum','Сумма заказов','money'],
