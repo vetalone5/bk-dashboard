@@ -291,29 +291,6 @@ svg.at .seg:hover{stroke:#0f172a;stroke-width:1.2}
   <p class="sub" id="plnote" style="margin-top:10px"></p>
 </div>
 
-<div class="card">
-  <h2><span id="cut-h">Разрез месяца</span> <span class="hint">график и таблица · блоки сворачиваются</span></h2>
-  <details class="cutbox"><summary>По площадкам <em id="em-plat"></em></summary>
-    <div class="cutbody"><div id="ch-plat"></div><div class="tblbox sm"><table id="sp-plat"></table></div></div></details>
-  <details class="cutbox"><summary>По каналам <em id="em-chan"></em></summary>
-    <div class="cutbody"><div id="ch-chan"></div><div class="tblbox sm"><table id="sp-chan"></table></div></div></details>
-  <details class="cutbox"><summary>По продуктам <em id="em-prod"></em><span class="qm" data-t="Этот блок всегда показывает все продукты, независимо от фильтра «Продукт» в шапке — иначе он вырождался бы в одну строку.">?</span></summary>
-    <div class="cutbody"><div id="ch-prod"></div><div class="tblbox sm"><table id="sp-prod"></table></div></div></details>
-  <details class="cutbox"><summary>По менеджерам <em id="em-mgr"></em></summary>
-    <div class="cutbody"><div id="ch-mgr"></div><div class="tblbox sm"><table id="sp-mgr"></table></div></div></details>
-</div>
-
-<div class="card">
-  <h2>План-факт: площадки → каналы → интеграции <span class="hint">кликай по треугольнику, чтобы раскрыть; вправо — разбивка по неделям</span></h2>
-  <div class="ctrl">
-    <button class="btn" onclick="expandAll(1)">Развернуть всё</button>
-    <button class="btn" onclick="expandAll(0)">Свернуть всё</button>
-    <button class="btn" onclick="expandAll(2)">Только каналы</button>
-  </div>
-  <div class="tblbox"><table id="tbl"></table></div>
-  <p class="sub" id="tblnote" style="margin-top:10px"></p>
-</div>
-
 <div class="grid2">
   <div class="mini"><h3><span id="best-h">Лучшие по CPO</span><span id="best-qm"></span></h3><p class="sub" id="best-sub">все размещения дешевле 400 ₽</p><div id="best"></div></div>
   <div class="mini"><h3 id="worst-h">Слив бюджета</h3><p class="sub" id="worst-sub">топ-20 по ДРР, ссылки на публикации</p><div id="worst"></div></div>
@@ -386,6 +363,35 @@ svg.at .seg:hover{stroke:#0f172a;stroke-width:1.2}
   </div>
 </details>
 
+
+<details class="q" id="detbox">
+  <summary>Детализация: разрез месяца и план-факт по площадкам → каналам → интеграциям <em>свёрнуто, раскрыть по клику</em></summary>
+  <div class="qbody">
+<div class="card">
+  <h2><span id="cut-h">Разрез месяца</span> <span class="hint">график и таблица · блоки сворачиваются</span></h2>
+  <details class="cutbox"><summary>По площадкам <em id="em-plat"></em></summary>
+    <div class="cutbody"><div id="ch-plat"></div><div class="tblbox sm"><table id="sp-plat"></table></div></div></details>
+  <details class="cutbox"><summary>По каналам <em id="em-chan"></em></summary>
+    <div class="cutbody"><div id="ch-chan"></div><div class="tblbox sm"><table id="sp-chan"></table></div></div></details>
+  <details class="cutbox"><summary>По продуктам <em id="em-prod"></em><span class="qm" data-t="Этот блок всегда показывает все продукты, независимо от фильтра «Продукт» в шапке — иначе он вырождался бы в одну строку.">?</span></summary>
+    <div class="cutbody"><div id="ch-prod"></div><div class="tblbox sm"><table id="sp-prod"></table></div></div></details>
+  <details class="cutbox"><summary>По менеджерам <em id="em-mgr"></em></summary>
+    <div class="cutbody"><div id="ch-mgr"></div><div class="tblbox sm"><table id="sp-mgr"></table></div></div></details>
+</div>
+
+<div class="card">
+  <h2>План-факт: площадки → каналы → интеграции <span class="hint">кликай по треугольнику, чтобы раскрыть; вправо — разбивка по неделям</span></h2>
+  <div class="ctrl">
+    <button class="btn" onclick="expandAll(1)">Развернуть всё</button>
+    <button class="btn" onclick="expandAll(0)">Свернуть всё</button>
+    <button class="btn" onclick="expandAll(2)">Только каналы</button>
+  </div>
+  <div class="tblbox"><table id="tbl"></table></div>
+  <p class="sub" id="tblnote" style="margin-top:10px"></p>
+</div>
+
+  </div>
+</details>
 
 </div><!-- /tab-main -->
 <div id="tab-attr" hidden>
