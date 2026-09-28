@@ -810,6 +810,13 @@ function renderKpiChart(){
         s+=`<circle cx="${X(i)}" cy="${Y(v)}" r="3.6" fill="#fff" stroke="${se.col}" stroke-width="2"/>`;
         if(series.length<=2) s+=`<text class="axl" x="${X(i)}" y="${Y(v)-8}" text-anchor="middle" style="fill:${se.col};font-weight:600">${mfmt(v,lab[1]==='rate'?'n1':lab[1])}</text>`;});});
   }
+  // зоны наведения на график-линию: подсказка с составом бюджета за период
+  if(split&&!bars){
+    for(let i=0;i<n;i++){
+      const x0=i===0?pl:(X(i-1)+X(i))/2, x1=i===n-1?(W-pr):(X(i)+X(i+1))/2;
+      s+=`<rect x="${x0}" y="${pt}" width="${Math.max(1,x1-x0)}" height="${Math.max(1,Y(lo)-pt)}" fill="transparent" onmousemove="showTipRaw(SPTIP[${i}],this)" onmouseleave="hideTip()"/>`;
+    }
+  }
   s+='</svg>';
   const leg=key==='rate'?series.map(se=>`<span class="lg"><i style="background:${se.col}"></i>${se.name}</span>`).join('')
     :(split?allSeries.map(se=>`<span class="lg${KPIOFF.has(se.name)?' off':''}" style="cursor:pointer" onclick="togKpi('${se.name.replace(/'/g,"\\'")}')"><i style="background:${se.col}"></i>${se.name}</span>`).join(''):'');
