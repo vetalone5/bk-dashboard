@@ -697,30 +697,33 @@ function expandAll(mode){
 const KPILAB={reg:['Регистрации','n'],cpa:['CPA','money'],plc:['Размещений','n'],aov:['Средний чек','money'],selfbuy:['Самовыкупы','n'],spend:['Расход','money'],orders:['Заказы','n'],osum:['Сумма заказов','money'],buyouts:['Выкупы','n'],
  revenue:['Выручка','money'],clicks:['Клики','n'],cpo:['CPO','money'],drr:['ДРР','pct'],rate:['Рейтинг карточек','rate'],leads:['Контакты Авито','n']};
 // ---------- разбивка бюджета по блокам (плитка «Бюджет») ----------
+const SPLITK=['spend','orders'];
 const SPB=[
- ['Внутренняя реклама Ozon','#16a34a', r=>r.act==='Внутренняя реклама'&&r.plat==='Ozon'],
- ['Внутренняя реклама WB','#2563eb', r=>r.act==='Внутренняя реклама'&&r.plat==='Wildberries'],
- ['Продвижение Авито','#ea580c', r=>r.act==='Авито'],
- ['Посев → Ozon','#7c3aed', r=>r.act==='Инфлюенс-посев'&&r.plat==='Ozon'],
- ['Посев → Wildberries','#0891b2', r=>r.act==='Инфлюенс-посев'&&r.plat==='Wildberries'],
- ['Посев → сайт','#d97706', r=>r.act==='Инфлюенс-посев'&&String(r.plat||'').indexOf('Сайт')===0],
- ['Боты — закупка трафика','#db2777', r=>r.plat==='Бот']
+ {n:'Внутренняя реклама Ozon',col:'#16a34a',f:r=>r.act==='Внутренняя реклама'&&r.plat==='Ozon'},
+ {n:'Внутренняя реклама WB',col:'#2563eb',f:r=>r.act==='Внутренняя реклама'&&r.plat==='Wildberries'},
+ {n:'Авито',alt:{spend:'Продвижение Авито'},col:'#ea580c',f:r=>r.act==='Авито'},
+ {n:'Органика',col:'#64748b',f:r=>r.act==='Органика'},
+ {n:'Посев → Ozon',col:'#7c3aed',f:r=>r.act==='Инфлюенс-посев'&&r.plat==='Ozon'},
+ {n:'Посев → Wildberries',col:'#0891b2',f:r=>r.act==='Инфлюенс-посев'&&r.plat==='Wildberries'},
+ {n:'Посев → сайт',col:'#d97706',f:r=>r.act==='Инфлюенс-посев'&&String(r.plat||'').indexOf('Сайт')===0},
+ {n:'Боты — закупка трафика',col:'#db2777',f:r=>r.plat==='Бот'},
+ {n:'Боты → продажи',col:'#be123c',f:r=>r.act==='Бот → продажи'}
 ];
 let KPIOFF=new Set(), SPTIP=[];
-function spendSeries(){
+function blockSeries(key){
   const src=sel().filter(r=>!r.info).map(r=>({...r,w:recWv(r)}));
   const used=new Set(); const out=[];
   SPB.forEach(b=>{
-    const rs=src.filter(r=>!used.has(r)&&b[2](r)); rs.forEach(r=>used.add(r));
+    const rs=src.filter(r=>!used.has(r)&&b.f(r)); rs.forEach(r=>used.add(r));
     if(!rs.length)return;
-    const v=aggW(rs,true).map(x=>x[0]||0);
-    if(v.some(x=>x>0)) out.push({name:b[0],col:b[1],v});
+    const v=aggW(rs,true).map(x=>mval(x,key)||0);
+    if(v.some(x=>x>0)) out.push({name:(b.alt&&b.alt[key])||b.n,col:b.col,v});
   });
   const rest=src.filter(r=>!used.has(r));
-  if(rest.length){const v=aggW(rest,true).map(x=>x[0]||0); if(v.some(x=>x>0)) out.push({name:'Прочее',col:'#94a3b8',v});}
+  if(rest.length){const v=aggW(rest,true).map(x=>mval(x,key)||0); if(v.some(x=>x>0)) out.push({name:'Прочее',col:'#94a3b8',v});}
   return out;
 }
-function togKpi(nm){ if(KPIOFF.has(nm))KPIOFF.delete(nm); else KPIOFF.add(nm); renderKpiChart(); }
+function togKpi(nm){ const k=st.kpi+'|'+nm; if(KPIOFF.has(k))KPIOFF.delete(k); else KPIOFF.add(k); renderKpiChart(); }
 function setKpiSplit(){ st.kpiSplit=st.kpiSplit==='on'?'off':'on'; renderKpiChart(); }
 function setKpi(k){st.kpi=k;render();}
 function setKpiT(t){st.kpiT=t;renderKpiChart();}
@@ -741,22 +744,23 @@ function renderKpiChart(){
     const v=isAll()?MLIST.map(m=>rs.filter(r=>r.m===m).reduce((a,r)=>a+r.leads.reduce((x,y)=>x+y,0),0)||null)
                    :[0,1,2,3,4].map(i=>rs.reduce((a,r)=>a+(r.leads[i]||0),0)||null);
     series=[{name:'Контакты Авито',col:'#ea580c',v}];
-  } else if(key==='spend'&&st.kpiSplit==='on'){
-    series=spendSeries();
+  } else if(SPLITK.includes(key)&&st.kpiSplit==='on'){
+    series=blockSeries(key);
   } else {
     series=[{name:lab[0],col:TOTCOL,v:MODEL.total.w.map(x=>mval(x,key))}];
   }
-  const split=(key==='spend'&&st.kpiSplit==='on'&&series.length>0);
+  const split=(SPLITK.includes(key)&&st.kpiSplit==='on'&&series.length>0);
   const allSeries=series;
-  if(split) series=series.filter(se=>!KPIOFF.has(se.name));
+  const offK=nm=>KPIOFF.has(key+'|'+nm);
+  if(split) series=series.filter(se=>!offK(se.name));
   const stacked=split&&st.kpiT==='bar';
   if(split){
     SPTIP=L.map((l,i)=>{
       const tt=allSeries.reduce((a,se)=>a+(se.v[i]||0),0);
-      let h=`<div style="font-weight:650">${l}</div><div style="margin-top:2px">Бюджет всего: <b>${rub(Math.round(tt))}</b></div>`;
+      let h=`<div style="font-weight:650">${l}</div><div style="margin-top:2px">${lab[0]} всего: <b>${mfmt(tt,lab[1])}</b></div>`;
       allSeries.filter(se=>(se.v[i]||0)>0).sort((a,b)=>b.v[i]-a.v[i]).forEach(se=>{
-        h+=`<div style="display:flex;gap:6px;align-items:center;margin-top:3px${KPIOFF.has(se.name)?';opacity:.45':''}"><i style="display:inline-block;width:9px;height:9px;border-radius:2px;background:${se.col};flex:none"></i><span>${se.name}</span><b style="margin-left:auto">${rub(Math.round(se.v[i]))}</b><span style="opacity:.65;min-width:34px;text-align:right">${tt?Math.round(se.v[i]/tt*100):0}%</span></div>`;});
-      if(!tt) h+='<div style="opacity:.7;margin-top:3px">расхода не было</div>';
+        h+=`<div style="display:flex;gap:6px;align-items:center;margin-top:3px${offK(se.name)?';opacity:.45':''}"><i style="display:inline-block;width:9px;height:9px;border-radius:2px;background:${se.col};flex:none"></i><span>${se.name}</span><b style="margin-left:auto">${mfmt(Math.round(se.v[i]),lab[1])}</b><span style="opacity:.65;min-width:34px;text-align:right">${tt?Math.round(se.v[i]/tt*100):0}%</span></div>`;});
+      if(!tt) h+='<div style="opacity:.7;margin-top:3px">за этот период данных нет</div>';
       return h;
     });
   }
@@ -819,16 +823,17 @@ function renderKpiChart(){
   }
   s+='</svg>';
   const leg=key==='rate'?series.map(se=>`<span class="lg"><i style="background:${se.col}"></i>${se.name}</span>`).join('')
-    :(split?allSeries.map(se=>`<span class="lg${KPIOFF.has(se.name)?' off':''}" style="cursor:pointer" onclick="togKpi('${se.name.replace(/'/g,"\\'")}')"><i style="background:${se.col}"></i>${se.name}</span>`).join(''):'');
+    :(split?allSeries.map(se=>`<span class="lg${offK(se.name)?' off':''}" style="cursor:pointer" onclick="togKpi('${se.name.replace(/'/g,"\\'")}')"><i style="background:${se.col}"></i>${se.name}</span>`).join(''):'');
   const ic=st.kpiT==='bar'
     ?'<g fill="currentColor"><rect x="1" y="7" width="3" height="6" rx="1"/><rect x="5.5" y="3" width="3" height="10" rx="1"/><rect x="10" y="9" width="3" height="4" rx="1"/></g>'
     :'<polyline points="1,11 5,6 9,8 13,2" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>';
   const nx=st.kpiT==='bar'?'line':'bar';
   const btn=`<button class="cyc" onclick="setKpiT('${nx}')" data-t="Вид: ${st.kpiT==='bar'?'столбцы':'линия'}. Нажми — переключится на ${nx==='bar'?'столбцы':'линию'}"><svg viewBox="0 0 14 14">${ic}</svg></button>`;
   const spIc='<g fill="currentColor"><rect x="1" y="2" width="12" height="3" rx="1"/><rect x="1" y="6" width="8" height="3" rx="1" opacity=".6"/><rect x="1" y="10" width="5" height="3" rx="1" opacity=".35"/></g>';
-  const spBtn=key==='spend'?`<button class="cyc${st.kpiSplit==='on'?' act':''}" onclick="setKpiSplit()" data-t="${st.kpiSplit==='on'?'Бюджет разложен по блокам. Нажми — свернётся в общий итог':'Показан общий итог. Нажми — разложу бюджет по блокам'}"><svg viewBox="0 0 14 14">${spIc}</svg></button>`:'';
-  const hint=split?(st.kpiT==='bar'?'Наведи на столбец — покажу состав бюджета. Клик по названию в легенде убирает блок из расчёта'
-                                   :'Каждая линия — свой блок бюджета. Клик по названию в легенде убирает блок'):
+  const what=key==='spend'?'бюджет':'заказы';
+  const spBtn=SPLITK.includes(key)?`<button class="cyc${st.kpiSplit==='on'?' act':''}" onclick="setKpiSplit()" data-t="${st.kpiSplit==='on'?'Разложено по источникам. Нажми — свернётся в общий итог':'Показан общий итог. Нажми — разложу '+what+' по источникам'}"><svg viewBox="0 0 14 14">${spIc}</svg></button>`:'';
+  const hint=split?(st.kpiT==='bar'?'Наведи на столбец — покажу состав. Клик по названию в легенде убирает источник из расчёта'
+                                   :'Каждая линия — свой источник. Клик по названию в легенде убирает источник'):
                    'Кликни по любой плашке выше, чтобы посмотреть её динамику';
   document.getElementById('kpichart').innerHTML=
     `<div style="display:flex;align-items:center;gap:10px"><div><h4>${lab[0]} ${isAll()?'по месяцам':'по неделям'}</h4>
