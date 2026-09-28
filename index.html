@@ -697,7 +697,9 @@ function expandAll(mode){
 const KPILAB={reg:['Регистрации','n'],cpa:['CPA','money'],plc:['Размещений','n'],aov:['Средний чек','money'],selfbuy:['Самовыкупы','n'],spend:['Расход','money'],orders:['Заказы','n'],osum:['Сумма заказов','money'],buyouts:['Выкупы','n'],
  revenue:['Выручка','money'],clicks:['Клики','n'],cpo:['CPO','money'],drr:['ДРР','pct'],rate:['Рейтинг карточек','rate'],leads:['Контакты Авито','n']};
 // ---------- разбивка бюджета по блокам (плитка «Бюджет») ----------
-const SPLITK=['spend','orders'];
+const STACKK=['spend','orders','osum','clicks'];          // складываются — можно стопкой
+const RATIOK=['aov','cpo','drr'];                          // доли/средние — только рядом или линиями
+const SPLITK=STACKK.concat(RATIOK);
 const SPB=[
  {n:'Внутренняя реклама Ozon',col:'#16a34a',f:r=>r.act==='Внутренняя реклама'&&r.plat==='Ozon'},
  {n:'Внутренняя реклама WB',col:'#2563eb',f:r=>r.act==='Внутренняя реклама'&&r.plat==='Wildberries'},
@@ -710,17 +712,29 @@ const SPB=[
  {n:'Боты → продажи',col:'#be123c',f:r=>r.act==='Бот → продажи'}
 ];
 let KPIOFF=new Set(), SPTIP=[];
+const SPLAB=k=>k==='drr'?'ДРР от суммы заказов':((KPILAB[k]||['',''])[0]||'');
+// ДРР по источникам считаем от СУММЫ ЗАКАЗОВ, а не от выручки: выручка по источникам
+// пока не разнесена (у строк внутренней рекламы она нулевая, всё лежит в органике).
+function bval(x,key){
+  if(key==='drr') return x[6]?x[0]/x[6]*100:null;
+  return mval(x,key);
+}
 function blockSeries(key){
   const src=sel().filter(r=>!r.info).map(r=>({...r,w:recWv(r)}));
+  const ratio=RATIOK.includes(key), needSpend=(key==='cpo'||key==='drr');
   const used=new Set(); const out=[];
+  const mk=(rs,name,col)=>{
+    if(!rs.length)return;
+    const W=aggW(rs,true);
+    if(needSpend&&!W.some(x=>x[0]>0))return;            // бесплатные источники в CPO и ДРР не показываем
+    const v=W.map(x=>{const q=bval(x,key); return ratio?(q==null?null:q):(q||0);});
+    if(v.some(x=>x!=null&&x>0)) out.push({name,col,v});
+  };
   SPB.forEach(b=>{
     const rs=src.filter(r=>!used.has(r)&&b.f(r)); rs.forEach(r=>used.add(r));
-    if(!rs.length)return;
-    const v=aggW(rs,true).map(x=>mval(x,key)||0);
-    if(v.some(x=>x>0)) out.push({name:(b.alt&&b.alt[key])||b.n,col:b.col,v});
+    mk(rs,(b.alt&&b.alt[key])||b.n,b.col);
   });
-  const rest=src.filter(r=>!used.has(r));
-  if(rest.length){const v=aggW(rest,true).map(x=>mval(x,key)||0); if(v.some(x=>x>0)) out.push({name:'Прочее',col:'#94a3b8',v});}
+  mk(src.filter(r=>!used.has(r)),'Прочее','#94a3b8');
   return out;
 }
 function togKpi(nm){ const k=st.kpi+'|'+nm; if(KPIOFF.has(k))KPIOFF.delete(k); else KPIOFF.add(k); renderKpiChart(); }
@@ -753,14 +767,27 @@ function renderKpiChart(){
   const allSeries=series;
   const offK=nm=>KPIOFF.has(key+'|'+nm);
   if(split) series=series.filter(se=>!offK(se.name));
-  const stacked=split&&st.kpiT==='bar';
+  const stacked=split&&st.kpiT==='bar'&&STACKK.includes(key);
+  const ratioK=RATIOK.includes(key);
   if(split){
     SPTIP=L.map((l,i)=>{
-      const tt=allSeries.reduce((a,se)=>a+(se.v[i]||0),0);
-      let h=`<div style="font-weight:650">${l}</div><div style="margin-top:2px">${lab[0]} всего: <b>${mfmt(tt,lab[1])}</b></div>`;
-      allSeries.filter(se=>(se.v[i]||0)>0).sort((a,b)=>b.v[i]-a.v[i]).forEach(se=>{
-        h+=`<div style="display:flex;gap:6px;align-items:center;margin-top:3px${offK(se.name)?';opacity:.45':''}"><i style="display:inline-block;width:9px;height:9px;border-radius:2px;background:${se.col};flex:none"></i><span>${se.name}</span><b style="margin-left:auto">${mfmt(Math.round(se.v[i]),lab[1])}</b><span style="opacity:.65;min-width:34px;text-align:right">${tt?Math.round(se.v[i]/tt*100):0}%</span></div>`;});
-      if(!tt) h+='<div style="opacity:.7;margin-top:3px">за этот период данных нет</div>';
+      const row=(se,right)=>`<div style="display:flex;gap:6px;align-items:center;margin-top:3px${offK(se.name)?';opacity:.45':''}"><i style="display:inline-block;width:9px;height:9px;border-radius:2px;background:${se.col};flex:none"></i><span>${se.name}</span><b style="margin-left:auto">${mfmt(se.v[i],lab[1])}</b>${right}</div>`;
+      let h=`<div style="font-weight:650">${l}</div>`;
+      if(ratioK){
+        const all=MODEL.total.w[i], ov=key==='drr'?bval(all,'drr'):mval(all,key);
+        h+=`<div style="margin-top:2px">${SPLAB(key)} в среднем: <b>${mfmt(ov,lab[1])}</b></div>`;
+        const list=allSeries.filter(se=>se.v[i]!=null);
+        list.sort((a,b)=>key==='aov'?b.v[i]-a.v[i]:a.v[i]-b.v[i]);
+        list.forEach(se=>h+=row(se,''));
+        if(!list.length) h+='<div style="opacity:.7;margin-top:3px">за этот период данных нет</div>';
+        if(key==='drr') h+='<div style="opacity:.7;margin-top:5px;font-size:11px">ДРР здесь — расход ÷ сумма заказов. Выручка по источникам пока не разнесена.</div>';
+      } else {
+        const tt=allSeries.reduce((a,se)=>a+(se.v[i]||0),0);
+        h+=`<div style="margin-top:2px">${lab[0]} всего: <b>${mfmt(tt,lab[1])}</b></div>`;
+        allSeries.filter(se=>(se.v[i]||0)>0).sort((a,b)=>b.v[i]-a.v[i]).forEach(se=>
+          h+=row(se,`<span style="opacity:.65;min-width:34px;text-align:right">${tt?Math.round(se.v[i]/tt*100):0}%</span>`));
+        if(!tt) h+='<div style="opacity:.7;margin-top:3px">за этот период данных нет</div>';
+      }
       return h;
     });
   }
@@ -830,13 +857,15 @@ function renderKpiChart(){
   const nx=st.kpiT==='bar'?'line':'bar';
   const btn=`<button class="cyc" onclick="setKpiT('${nx}')" data-t="Вид: ${st.kpiT==='bar'?'столбцы':'линия'}. Нажми — переключится на ${nx==='bar'?'столбцы':'линию'}"><svg viewBox="0 0 14 14">${ic}</svg></button>`;
   const spIc='<g fill="currentColor"><rect x="1" y="2" width="12" height="3" rx="1"/><rect x="1" y="6" width="8" height="3" rx="1" opacity=".6"/><rect x="1" y="10" width="5" height="3" rx="1" opacity=".35"/></g>';
-  const what=key==='spend'?'бюджет':'заказы';
+  const what=SPLAB(key).toLowerCase();
   const spBtn=SPLITK.includes(key)?`<button class="cyc${st.kpiSplit==='on'?' act':''}" onclick="setKpiSplit()" data-t="${st.kpiSplit==='on'?'Разложено по источникам. Нажми — свернётся в общий итог':'Показан общий итог. Нажми — разложу '+what+' по источникам'}"><svg viewBox="0 0 14 14">${spIc}</svg></button>`:'';
-  const hint=split?(st.kpiT==='bar'?'Наведи на столбец — покажу состав. Клик по названию в легенде убирает источник из расчёта'
-                                   :'Каждая линия — свой источник. Клик по названию в легенде убирает источник'):
+  const hint=split?(ratioK?(st.kpiT==='bar'?'Столбики рядом — по источникам, складывать их нельзя. Наведи на период, чтобы увидеть все значения'
+                                            :'Каждая линия — свой источник. Наведи на период, чтобы сравнить. Клик по названию убирает источник')
+                          :(st.kpiT==='bar'?'Наведи на столбец — покажу состав. Клик по названию в легенде убирает источник из расчёта'
+                                           :'Каждая линия — свой источник. Клик по названию в легенде убирает источник')):
                    'Кликни по любой плашке выше, чтобы посмотреть её динамику';
   document.getElementById('kpichart').innerHTML=
-    `<div style="display:flex;align-items:center;gap:10px"><div><h4>${lab[0]} ${isAll()?'по месяцам':'по неделям'}</h4>
+    `<div style="display:flex;align-items:center;gap:10px"><div><h4>${split?SPLAB(key):lab[0]} ${isAll()?'по месяцам':'по неделям'}</h4>
      <p>${hint}</p></div><div style="margin-left:auto;display:flex;gap:6px">${spBtn}${btn}</div></div>
      ${leg?'<div class="leg" style="margin-bottom:6px">'+leg+'</div>':''}${s}`;
 }
