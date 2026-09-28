@@ -141,6 +141,7 @@ border:solid #fff;border-width:0 1.6px 1.6px 0;transform:rotate(42deg)}
 .cyc{display:inline-flex;align-items:center;justify-content:center;width:28px;height:26px;
 border:1px solid var(--line);background:#fff;border-radius:7px;cursor:pointer;color:var(--muted);padding:0}
 .cyc:hover{color:var(--ink);border-color:#94a3b8}
+.cyc.act{color:#fff;background:#0f172a;border-color:#0f172a}
 .cyc svg{width:14px;height:14px;display:block}
 .leg{display:flex;gap:6px;flex-wrap:wrap}
 .lg{display:inline-flex;align-items:center;gap:5px;padding:3px 9px;border:1px solid var(--line);
@@ -471,7 +472,7 @@ const TAGS={avito:['таблица подрядчика','t-none'],art:['арт�
 const PRODS={atf:'AMINOTRIGGERFISH',appl:'Аппликатор Ермакова',gd:'Бот «Зелёный доктор»',us:'Бот «Умный сад»',km:'Бот «Клёвое место»'};
 const BOTP=new Set(['gd','us','km']);
 const isBot=()=>BOTP.has(st.prod)||st.typ==='bots';
-const st={m:'2026-08',typ:'all',prod:'atf',act:'all',plat:'all',chan:'all',mgr:'all',org:'on',sb:'off',kpi:'orders',kpiT:'bar'};
+const st={m:'2026-08',typ:'all',prod:'atf',act:'all',plat:'all',chan:'all',mgr:'all',org:'on',sb:'off',kpi:'orders',kpiT:'bar',kpiSplit:'on'};
 const MLIST=Object.keys(META.months).sort();
 try{document.addEventListener('DOMContentLoaded',()=>{
   const e=document.getElementById('upd-d'); if(e)e.textContent=META.updated||'';
@@ -695,6 +696,32 @@ function expandAll(mode){
 // ---------- разрезы ----------
 const KPILAB={reg:['Регистрации','n'],cpa:['CPA','money'],plc:['Размещений','n'],aov:['Средний чек','money'],selfbuy:['Самовыкупы','n'],spend:['Расход','money'],orders:['Заказы','n'],osum:['Сумма заказов','money'],buyouts:['Выкупы','n'],
  revenue:['Выручка','money'],clicks:['Клики','n'],cpo:['CPO','money'],drr:['ДРР','pct'],rate:['Рейтинг карточек','rate'],leads:['Контакты Авито','n']};
+// ---------- разбивка бюджета по блокам (плитка «Бюджет») ----------
+const SPB=[
+ ['Внутренняя реклама Ozon','#16a34a', r=>r.act==='Внутренняя реклама'&&r.plat==='Ozon'],
+ ['Внутренняя реклама WB','#2563eb', r=>r.act==='Внутренняя реклама'&&r.plat==='Wildberries'],
+ ['Продвижение Авито','#ea580c', r=>r.act==='Авито'],
+ ['Посев → Ozon','#7c3aed', r=>r.act==='Инфлюенс-посев'&&r.plat==='Ozon'],
+ ['Посев → Wildberries','#0891b2', r=>r.act==='Инфлюенс-посев'&&r.plat==='Wildberries'],
+ ['Посев → сайт','#d97706', r=>r.act==='Инфлюенс-посев'&&String(r.plat||'').indexOf('Сайт')===0],
+ ['Боты — закупка трафика','#db2777', r=>r.plat==='Бот']
+];
+let KPIOFF=new Set(), SPTIP=[];
+function spendSeries(){
+  const src=sel().filter(r=>!r.info).map(r=>({...r,w:recWv(r)}));
+  const used=new Set(); const out=[];
+  SPB.forEach(b=>{
+    const rs=src.filter(r=>!used.has(r)&&b[2](r)); rs.forEach(r=>used.add(r));
+    if(!rs.length)return;
+    const v=aggW(rs,true).map(x=>x[0]||0);
+    if(v.some(x=>x>0)) out.push({name:b[0],col:b[1],v});
+  });
+  const rest=src.filter(r=>!used.has(r));
+  if(rest.length){const v=aggW(rest,true).map(x=>x[0]||0); if(v.some(x=>x>0)) out.push({name:'Прочее',col:'#94a3b8',v});}
+  return out;
+}
+function togKpi(nm){ if(KPIOFF.has(nm))KPIOFF.delete(nm); else KPIOFF.add(nm); renderKpiChart(); }
+function setKpiSplit(){ st.kpiSplit=st.kpiSplit==='on'?'off':'on'; renderKpiChart(); }
 function setKpi(k){st.kpi=k;render();}
 function setKpiT(t){st.kpiT=t;renderKpiChart();}
 function renderKpiChart(){
@@ -714,10 +741,27 @@ function renderKpiChart(){
     const v=isAll()?MLIST.map(m=>rs.filter(r=>r.m===m).reduce((a,r)=>a+r.leads.reduce((x,y)=>x+y,0),0)||null)
                    :[0,1,2,3,4].map(i=>rs.reduce((a,r)=>a+(r.leads[i]||0),0)||null);
     series=[{name:'Контакты Авито',col:'#ea580c',v}];
+  } else if(key==='spend'&&st.kpiSplit==='on'){
+    series=spendSeries();
   } else {
     series=[{name:lab[0],col:TOTCOL,v:MODEL.total.w.map(x=>mval(x,key))}];
   }
+  const split=(key==='spend'&&st.kpiSplit==='on'&&series.length>0);
+  const allSeries=series;
+  if(split) series=series.filter(se=>!KPIOFF.has(se.name));
+  const stacked=split&&st.kpiT==='bar';
+  if(split){
+    SPTIP=L.map((l,i)=>{
+      const tt=allSeries.reduce((a,se)=>a+(se.v[i]||0),0);
+      let h=`<div style="font-weight:650">${l}</div><div style="margin-top:2px">Бюджет всего: <b>${rub(Math.round(tt))}</b></div>`;
+      allSeries.filter(se=>(se.v[i]||0)>0).sort((a,b)=>b.v[i]-a.v[i]).forEach(se=>{
+        h+=`<div style="display:flex;gap:6px;align-items:center;margin-top:3px${KPIOFF.has(se.name)?';opacity:.45':''}"><i style="display:inline-block;width:9px;height:9px;border-radius:2px;background:${se.col};flex:none"></i><span>${se.name}</span><b style="margin-left:auto">${rub(Math.round(se.v[i]))}</b><span style="opacity:.65;min-width:34px;text-align:right">${tt?Math.round(se.v[i]/tt*100):0}%</span></div>`;});
+      if(!tt) h+='<div style="opacity:.7;margin-top:3px">расхода не было</div>';
+      return h;
+    });
+  }
   let mx=0,mn=Infinity;
+  if(stacked){for(let i=0;i<n;i++){let a=0;series.forEach(se=>a+=(se.v[i]||0));if(a>mx)mx=a;} mn=0;}
   series.forEach(s=>s.v.forEach(v=>{if(v!=null){if(v>mx)mx=v;if(v<mn)mn=v;}}));
   if(!isFinite(mn))mn=0;
   if(!mx)mx=1;
@@ -737,7 +781,21 @@ function renderKpiChart(){
        `<text class="axl" x="${pl-8}" y="${y+3}" text-anchor="end">${mfmt(v,lab[1]==='rate'?'n1':lab[1])}</text>`;}
   const lx=bars?(i=>pl+slot*i+slot/2):X;
   L.forEach((l,i)=>s+=`<text class="axl" x="${lx(i)}" y="${H-7}" text-anchor="middle">${l}</text>`);
-  if(bars){
+  if(stacked){
+    const bw=slot*0.62;
+    for(let i=0;i<n;i++){
+      const tt=series.reduce((a,se)=>a+(se.v[i]||0),0);
+      const x=pl+slot*i+slot*0.19;
+      s+=`<rect x="${x}" y="${pt}" width="${bw}" height="${Math.max(1,Y(lo)-pt)}" fill="transparent" onmousemove="showTipRaw(SPTIP[${i}],this)" onmouseleave="hideTip()"/>`;
+      if(!tt) continue;
+      let acc=0;
+      series.forEach(se=>{const v=se.v[i]||0; if(v<=0)return;
+        const y0=Y(acc), y1=Y(acc+v); acc+=v;
+        const hh=y0-y1;
+        s+=`<rect x="${x}" y="${y1}" width="${bw}" height="${Math.max(1,hh>4?hh-1:hh)}" fill="${se.col}" onmousemove="showTipRaw(SPTIP[${i}],this)" onmouseleave="hideTip()"><title>${se.name}</title></rect>`;});
+      s+=`<text class="axl" x="${x+bw/2}" y="${Y(tt)-6}" text-anchor="middle" style="fill:#475569;font-weight:600;pointer-events:none">${mfmt(tt,lab[1])}</text>`;
+    }
+  } else if(bars){
     const m=series.length, bw=slot*0.62/m;
     for(let i=0;i<n;i++) series.forEach((se,j)=>{
       const v=se.v[i]; if(v==null||v<=0)return;
@@ -750,18 +808,24 @@ function renderKpiChart(){
       s+=`<path d="${d}" fill="none" stroke="${se.col}" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>`;
       se.v.forEach((v,i)=>{if(v==null)return;
         s+=`<circle cx="${X(i)}" cy="${Y(v)}" r="3.6" fill="#fff" stroke="${se.col}" stroke-width="2"/>`;
-        s+=`<text class="axl" x="${X(i)}" y="${Y(v)-8}" text-anchor="middle" style="fill:${se.col};font-weight:600">${mfmt(v,lab[1]==='rate'?'n1':lab[1])}</text>`;});});
+        if(series.length<=2) s+=`<text class="axl" x="${X(i)}" y="${Y(v)-8}" text-anchor="middle" style="fill:${se.col};font-weight:600">${mfmt(v,lab[1]==='rate'?'n1':lab[1])}</text>`;});});
   }
   s+='</svg>';
-  const leg=key==='rate'?series.map(se=>`<span class="lg"><i style="background:${se.col}"></i>${se.name}</span>`).join(''):'';
+  const leg=key==='rate'?series.map(se=>`<span class="lg"><i style="background:${se.col}"></i>${se.name}</span>`).join('')
+    :(split?allSeries.map(se=>`<span class="lg${KPIOFF.has(se.name)?' off':''}" style="cursor:pointer" onclick="togKpi('${se.name.replace(/'/g,"\\'")}')"><i style="background:${se.col}"></i>${se.name}</span>`).join(''):'');
   const ic=st.kpiT==='bar'
     ?'<g fill="currentColor"><rect x="1" y="7" width="3" height="6" rx="1"/><rect x="5.5" y="3" width="3" height="10" rx="1"/><rect x="10" y="9" width="3" height="4" rx="1"/></g>'
     :'<polyline points="1,11 5,6 9,8 13,2" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>';
   const nx=st.kpiT==='bar'?'line':'bar';
-  const btn=`<button class="cyc" style="margin-left:auto" onclick="setKpiT('${nx}')" data-t="Вид: ${st.kpiT==='bar'?'столбцы':'линия'}. Нажми — переключится на ${nx==='bar'?'столбцы':'линию'}"><svg viewBox="0 0 14 14">${ic}</svg></button>`;
+  const btn=`<button class="cyc" onclick="setKpiT('${nx}')" data-t="Вид: ${st.kpiT==='bar'?'столбцы':'линия'}. Нажми — переключится на ${nx==='bar'?'столбцы':'линию'}"><svg viewBox="0 0 14 14">${ic}</svg></button>`;
+  const spIc='<g fill="currentColor"><rect x="1" y="2" width="12" height="3" rx="1"/><rect x="1" y="6" width="8" height="3" rx="1" opacity=".6"/><rect x="1" y="10" width="5" height="3" rx="1" opacity=".35"/></g>';
+  const spBtn=key==='spend'?`<button class="cyc${st.kpiSplit==='on'?' act':''}" onclick="setKpiSplit()" data-t="${st.kpiSplit==='on'?'Бюджет разложен по блокам. Нажми — свернётся в общий итог':'Показан общий итог. Нажми — разложу бюджет по блокам'}"><svg viewBox="0 0 14 14">${spIc}</svg></button>`:'';
+  const hint=split?(st.kpiT==='bar'?'Наведи на столбец — покажу состав бюджета. Клик по названию в легенде убирает блок из расчёта'
+                                   :'Каждая линия — свой блок бюджета. Клик по названию в легенде убирает блок'):
+                   'Кликни по любой плашке выше, чтобы посмотреть её динамику';
   document.getElementById('kpichart').innerHTML=
     `<div style="display:flex;align-items:center;gap:10px"><div><h4>${lab[0]} ${isAll()?'по месяцам':'по неделям'}</h4>
-     <p>Кликни по любой плашке выше, чтобы посмотреть её динамику</p></div>${btn}</div>
+     <p>${hint}</p></div><div style="margin-left:auto;display:flex;gap:6px">${spBtn}${btn}</div></div>
      ${leg?'<div class="leg" style="margin-bottom:6px">'+leg+'</div>':''}${s}`;
 }
 function pendOf(name){
