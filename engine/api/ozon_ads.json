@@ -1,16 +1,16 @@
 {
  "2026-10": {
-  "spend": 17563,
-  "orders": 127,
-  "sum": 210411,
-  "clicks": 2460,
-  "shows": 120785,
+  "spend": 26873,
+  "orders": 194,
+  "sum": 334321,
+  "clicks": 3518,
+  "shows": 169401,
   "weeks": [
    {
-    "spend": 17563,
-    "orders": 127,
-    "sum": 210411,
-    "clicks": 2460
+    "spend": 26873,
+    "orders": 194,
+    "sum": 334321,
+    "clicks": 3518
    },
    {
     "spend": 0,
@@ -40,24 +40,24 @@
   "campaigns": [
    {
     "name": "Оплата за заказ: выбранные товары",
-    "spend": 13746,
-    "orders": 85,
-    "sum": 127403,
-    "clicks": 1724
+    "spend": 21152,
+    "orders": 130,
+    "sum": 209117,
+    "clicks": 2345
    },
    {
     "name": "Оплата за клик 30.08.2026",
-    "spend": 2761,
-    "orders": 40,
-    "sum": 69016,
-    "clicks": 571
+    "spend": 4165,
+    "orders": 61,
+    "sum": 111150,
+    "clicks": 951
    },
    {
     "name": "Аппликатор тест",
-    "spend": 1055,
-    "orders": 2,
-    "sum": 13992,
-    "clicks": 165
+    "spend": 1557,
+    "orders": 3,
+    "sum": 14054,
+    "clicks": 222
    }
   ]
  },

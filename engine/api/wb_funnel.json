@@ -35,14 +35,14 @@
  "_note": "Август и раньше — в замороженном снимке frozen.json, здесь не дублируются",
  "2026-10": {
   "atf": {
-   "orders": 27,
-   "sum": 37627,
+   "orders": 39,
+   "sum": 53717,
    "buyouts": 0,
    "buysum": 0,
-   "clicks": 795,
+   "clicks": 1303,
    "rating": 4.7,
    "weeks": [
-    27,
+    39,
     0,
     0,
     0,
@@ -54,7 +54,7 @@
    "sum": 0,
    "buyouts": 0,
    "buysum": 0,
-   "clicks": 8,
+   "clicks": 13,
    "rating": 4.9,
    "weeks": [
     0,

@@ -66,44 +66,44 @@
   ]
  },
  "2026-10": {
-  "spend": 841,
-  "orders": 5,
-  "sum": 6365,
-  "clicks": 119,
-  "shows": 1844,
-  "cancel": 2,
+  "spend": 2395,
+  "orders": 11,
+  "sum": 14817,
+  "clicks": 353,
+  "shows": 10141,
+  "cancel": 3,
   "campaigns": [
    {
-    "name": "01.09_АТ СПС",
-    "spend": 666,
-    "orders": 5,
-    "sum": 6365,
-    "clicks": 90,
-    "shows": 721
+    "name": "Кампания от 02.09.2026",
+    "spend": 1384,
+    "orders": 3,
+    "sum": 4633,
+    "clicks": 220,
+    "shows": 8872
    },
    {
-    "name": "Кампания от 02.09.2026",
-    "spend": 154,
-    "orders": 0,
-    "sum": 0,
-    "clicks": 29,
-    "shows": 992
+    "name": "01.09_АТ СПС",
+    "spend": 983,
+    "orders": 8,
+    "sum": 10184,
+    "clicks": 133,
+    "shows": 1106
    },
    {
     "name": "28.09_ПОИСК АТ",
-    "spend": 21,
+    "spend": 26,
     "orders": 0,
     "sum": 0,
     "clicks": 0,
-    "shows": 128
+    "shows": 155
    },
    {
     "name": "кампания 38631976",
-    "spend": 1,
+    "spend": 2,
     "orders": 0,
     "sum": 0,
     "clicks": 0,
-    "shows": 3
+    "shows": 7
    }
   ]
  },
