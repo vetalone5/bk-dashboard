@@ -1,0 +1,670 @@
+{
+ "content": {
+  "2026-10": {
+   "polniy": {
+    "s": 18,
+    "c": 26,
+    "cart": 6,
+    "o_sess": 5,
+    "o_attr": 6,
+    "sum": 10622
+   },
+   "v5": {
+    "s": 43,
+    "c": 44,
+    "cart": 20,
+    "o_sess": 3,
+    "o_attr": 3,
+    "sum": 5400
+   },
+   "t31": {
+    "s": 35,
+    "c": 37,
+    "cart": 6,
+    "o_sess": 1,
+    "o_attr": 2,
+    "sum": 3600
+   },
+   "klevaya_karta": {
+    "s": 1,
+    "c": 1,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "t32": {
+    "s": 9,
+    "c": 10,
+    "cart": 2,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "t32 2": {
+    "s": 4,
+    "c": 5,
+    "cart": 4,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "v1": {
+    "s": 4,
+    "c": 5,
+    "cart": 2,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "cherv": {
+    "s": 1,
+    "c": 0,
+    "cart": 1,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "video": {
+    "s": 2,
+    "c": 2,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   }
+  },
+  "2026-09": {
+   "t31": {
+    "s": 1268,
+    "c": 1418,
+    "cart": 460,
+    "o_sess": 44,
+    "o_attr": 57,
+    "sum": 97564
+   },
+   "polniy": {
+    "s": 217,
+    "c": 237,
+    "cart": 56,
+    "o_sess": 20,
+    "o_attr": 35,
+    "sum": 65474
+   },
+   "t32": {
+    "s": 1302,
+    "c": 1509,
+    "cart": 288,
+    "o_sess": 28,
+    "o_attr": 40,
+    "sum": 64590
+   },
+   "t30": {
+    "s": 503,
+    "c": 527,
+    "cart": 151,
+    "o_sess": 25,
+    "o_attr": 43,
+    "sum": 54239
+   },
+   "post": {
+    "s": 218,
+    "c": 231,
+    "cart": 65,
+    "o_sess": 20,
+    "o_attr": 22,
+    "sum": 50595
+   },
+   "video": {
+    "s": 440,
+    "c": 477,
+    "cart": 241,
+    "o_sess": 14,
+    "o_attr": 22,
+    "sum": 33414
+   },
+   "v5": {
+    "s": 169,
+    "c": 180,
+    "cart": 66,
+    "o_sess": 9,
+    "o_attr": 10,
+    "sum": 18000
+   },
+   "t27": {
+    "s": 24,
+    "c": 24,
+    "cart": 7,
+    "o_sess": 1,
+    "o_attr": 4,
+    "sum": 6105
+   },
+   "klevaya_karta": {
+    "s": 29,
+    "c": 28,
+    "cart": 8,
+    "o_sess": 2,
+    "o_attr": 3,
+    "sum": 3853
+   },
+   "Kiev_karta": {
+    "s": 31,
+    "c": 35,
+    "cart": 7,
+    "o_sess": 1,
+    "o_attr": 2,
+    "sum": 3329
+   },
+   "cherv": {
+    "s": 14,
+    "c": 14,
+    "cart": 4,
+    "o_sess": 1,
+    "o_attr": 1,
+    "sum": 1600
+   },
+   "doppostvk": {
+    "s": 8,
+    "c": 9,
+    "cart": 2,
+    "o_sess": 1,
+    "o_attr": 1,
+    "sum": 1200
+   },
+   "victorstepanych": {
+    "s": 1,
+    "c": 1,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "т27": {
+    "s": 6,
+    "c": 6,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "3_m1_04_09": {
+    "s": 1,
+    "c": 1,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "т28": {
+    "s": 2,
+    "c": 2,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "stories": {
+    "s": 65,
+    "c": 70,
+    "cart": 19,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "blog": {
+    "s": 14,
+    "c": 13,
+    "cart": 11,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "v1": {
+    "s": 8,
+    "c": 8,
+    "cart": 3,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   }
+  }
+ },
+ "term": {
+  "2026-10": {
+   "270926_m1": {
+    "s": 4,
+    "c": 4,
+    "cart": 1,
+    "o_sess": 0,
+    "o_attr": 1,
+    "sum": 1712
+   },
+   "litvinvk": {
+    "s": 4,
+    "c": 5,
+    "cart": 2,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "max_m1_290926": {
+    "s": 21,
+    "c": 22,
+    "cart": 7,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "1.10": {
+    "s": 4,
+    "c": 5,
+    "cart": 4,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "m1_290926": {
+    "s": 1,
+    "c": 1,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "200926_m1": {
+    "s": 1,
+    "c": 1,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "m1_240926": {
+    "s": 11,
+    "c": 10,
+    "cart": 6,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "ьфч_ь1_290926": {
+    "s": 4,
+    "c": 3,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "video": {
+    "s": 2,
+    "c": 2,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "130926_m1": {
+    "s": 1,
+    "c": 1,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   }
+  },
+  "2026-09": {
+   "270926_m1": {
+    "s": 145,
+    "c": 155,
+    "cart": 43,
+    "o_sess": 22,
+    "o_attr": 32,
+    "sum": 61316
+   },
+   "m_1_4": {
+    "s": 282,
+    "c": 294,
+    "cart": 74,
+    "o_sess": 10,
+    "o_attr": 21,
+    "sum": 26787
+   },
+   "video": {
+    "s": 383,
+    "c": 417,
+    "cart": 222,
+    "o_sess": 10,
+    "o_attr": 15,
+    "sum": 24914
+   },
+   "m1_240926": {
+    "s": 273,
+    "c": 276,
+    "cart": 124,
+    "o_sess": 11,
+    "o_attr": 13,
+    "sum": 22021
+   },
+   "litvinvk": {
+    "s": 244,
+    "c": 247,
+    "cart": 120,
+    "o_sess": 8,
+    "o_attr": 10,
+    "sum": 13187
+   },
+   "max_m1_290926": {
+    "s": 178,
+    "c": 196,
+    "cart": 47,
+    "o_sess": 6,
+    "o_attr": 7,
+    "sum": 12600
+   },
+   "max_1709": {
+    "s": 210,
+    "c": 219,
+    "cart": 59,
+    "o_sess": 3,
+    "o_attr": 6,
+    "sum": 9516
+   },
+   "max_m1_220926": {
+    "s": 263,
+    "c": 284,
+    "cart": 77,
+    "o_sess": 4,
+    "o_attr": 5,
+    "sum": 7916
+   },
+   "130926_m1": {
+    "s": 166,
+    "c": 184,
+    "cart": 68,
+    "o_sess": 3,
+    "o_attr": 5,
+    "sum": 7454
+   },
+   "youohotnikinao": {
+    "s": 27,
+    "c": 29,
+    "cart": 12,
+    "o_sess": 4,
+    "o_attr": 6,
+    "sum": 7200
+   },
+   "m1_4": {
+    "s": 88,
+    "c": 99,
+    "cart": 35,
+    "o_sess": 4,
+    "o_attr": 6,
+    "sum": 7141
+   },
+   "Fishing_Stavropol": {
+    "s": 40,
+    "c": 47,
+    "cart": 8,
+    "o_sess": 3,
+    "o_attr": 5,
+    "sum": 6300
+   },
+   "rybalkaudachnaya": {
+    "s": 20,
+    "c": 20,
+    "cart": 7,
+    "o_sess": 1,
+    "o_attr": 4,
+    "sum": 5329
+   },
+   "max_m1_15_09": {
+    "s": 138,
+    "c": 112,
+    "cart": 30,
+    "o_sess": 4,
+    "o_attr": 4,
+    "sum": 5200
+   },
+   "14_09_m1": {
+    "s": 57,
+    "c": 64,
+    "cart": 14,
+    "o_sess": 4,
+    "o_attr": 4,
+    "sum": 5100
+   },
+   "050926_m1": {
+    "s": 23,
+    "c": 27,
+    "cart": 6,
+    "o_sess": 2,
+    "o_attr": 4,
+    "sum": 4800
+   },
+   "fishing_Moscow": {
+    "s": 36,
+    "c": 41,
+    "cart": 10,
+    "o_sess": 1,
+    "o_attr": 2,
+    "sum": 3650
+   },
+   "200926_m1": {
+    "s": 49,
+    "c": 50,
+    "cart": 17,
+    "o_sess": 1,
+    "o_attr": 1,
+    "sum": 2729
+   },
+   "240926_m1": {
+    "s": 12,
+    "c": 13,
+    "cart": 1,
+    "o_sess": 0,
+    "o_attr": 1,
+    "sum": 1800
+   },
+   "ьфч_ь1_290926": {
+    "s": 46,
+    "c": 48,
+    "cart": 9,
+    "o_sess": 1,
+    "o_attr": 1,
+    "sum": 1800
+   },
+   "ohotnikinao": {
+    "s": 13,
+    "c": 15,
+    "cart": 3,
+    "o_sess": 0,
+    "o_attr": 1,
+    "sum": 1300
+   },
+   "sl_fishing": {
+    "s": 24,
+    "c": 35,
+    "cart": 4,
+    "o_sess": 1,
+    "o_attr": 1,
+    "sum": 1300
+   },
+   "club187241993": {
+    "s": 8,
+    "c": 9,
+    "cart": 1,
+    "o_sess": 1,
+    "o_attr": 1,
+    "sum": 1300
+   },
+   "vanorybak": {
+    "s": 30,
+    "c": 32,
+    "cart": 17,
+    "o_sess": 0,
+    "o_attr": 1,
+    "sum": 1200
+   },
+   "pug": {
+    "s": 4,
+    "c": 4,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "acc3868c198cbd4a0778b054": {
+    "s": 1,
+    "c": 1,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "m1": {
+    "s": 3,
+    "c": 3,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "syilers": {
+    "s": 65,
+    "c": 70,
+    "cart": 19,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "m1_3": {
+    "s": 7,
+    "c": 8,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "https://max.ru/rybalka_kazan_fishing": {
+    "s": 1,
+    "c": 1,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "TAz62IvarhreupeVWAwOLTP6R8EY_0-2O7jKs9CK0tM": {
+    "s": 10,
+    "c": 9,
+    "cart": 4,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "tiktok": {
+    "s": 14,
+    "c": 13,
+    "cart": 11,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "slavkaivanov5497": {
+    "s": 9,
+    "c": 8,
+    "cart": 3,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "channel_Ribalka25": {
+    "s": 12,
+    "c": 13,
+    "cart": 5,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "se13290293_biz": {
+    "s": 14,
+    "c": 14,
+    "cart": 4,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "zvuksekta": {
+    "s": 2,
+    "c": 2,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "we_and_nature": {
+    "s": 17,
+    "c": 19,
+    "cart": 4,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "sakhahunter": {
+    "s": 2,
+    "c": 2,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "udachnaya_rybalca": {
+    "s": 17,
+    "c": 17,
+    "cart": 8,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "max_m1_1509": {
+    "s": 14,
+    "c": 12,
+    "cart": 5,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "max_15_09_m1": {
+    "s": 13,
+    "c": 9,
+    "cart": 2,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "max_m1_240926": {
+    "s": 1,
+    "c": 1,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "tiktok_m1_300926": {
+    "s": 6,
+    "c": 6,
+    "cart": 1,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   },
+   "m1_290926": {
+    "s": 1,
+    "c": 2,
+    "cart": 0,
+    "o_sess": 0,
+    "o_attr": 0,
+    "sum": 0
+   }
+  }
+ }
+}

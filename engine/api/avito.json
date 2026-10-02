@@ -1,0 +1,182 @@
+{
+ "_src": "API Авито (коннектор avito-biokinetika). Заказы — avito_orders по неделям дашборда; показы, просмотры, контакты, расход — avito_stats по дням. Обновлено 02.10.2026",
+ "product_rule": {
+  "appl": [
+   "аппликатор",
+   "ермаков"
+  ],
+  "_default": "atf"
+ },
+ "2026-09": {
+  "atf": {
+   "weeks": [
+    {
+     "shows": 718,
+     "views": 34,
+     "contacts": 5,
+     "spend": 65,
+     "orders": 3,
+     "sum": 300,
+     "buy": 3,
+     "buysum": 300,
+     "cancel": 0,
+     "transit": 0
+    },
+    {
+     "shows": 58316,
+     "views": 5075,
+     "contacts": 42,
+     "spend": 14658,
+     "orders": 6,
+     "sum": 3426,
+     "buy": 5,
+     "buysum": 2683,
+     "cancel": 1,
+     "transit": 0
+    },
+    {
+     "shows": 153092,
+     "views": 13335,
+     "contacts": 115,
+     "spend": 21701,
+     "orders": 21,
+     "sum": 18083,
+     "buy": 14,
+     "buysum": 12180,
+     "cancel": 7,
+     "transit": 0
+    },
+    {
+     "shows": 145325,
+     "views": 10394,
+     "contacts": 49,
+     "spend": 17114,
+     "orders": 7,
+     "sum": 6090,
+     "buy": 5,
+     "buysum": 4350,
+     "cancel": 1,
+     "transit": 1
+    },
+    {
+     "shows": 60356,
+     "views": 4144,
+     "contacts": 16,
+     "spend": 6919,
+     "orders": 6,
+     "sum": 4450,
+     "buy": 1,
+     "buysum": 100,
+     "cancel": 0,
+     "transit": 5
+    }
+   ],
+   "msgs": 226,
+   "calls": 1,
+   "selfbuy": [
+    3,
+    0,
+    0,
+    0,
+    0
+   ],
+   "selfbuy_sum": [
+    300,
+    0,
+    0,
+    0,
+    0
+   ],
+   "note": "Выкуп = статусы delivered + closed. Самовыкупы — число от Виталия (3 в сентябре), вычитаются из заказов и выкупов; 3 заказа по 100 ₽ от 01.09"
+  }
+ },
+ "2026-10": {
+  "atf": {
+   "weeks": [
+    {
+     "shows": 21445,
+     "views": 1407,
+     "contacts": 7,
+     "spend": 2284,
+     "orders": 1,
+     "sum": 870,
+     "buy": 0,
+     "buysum": 0,
+     "cancel": 0,
+     "transit": 1
+    },
+    {
+     "shows": 0,
+     "views": 0,
+     "contacts": 0,
+     "spend": 0,
+     "orders": 0,
+     "sum": 0,
+     "buy": 0,
+     "buysum": 0,
+     "cancel": 0,
+     "transit": 0
+    },
+    {
+     "shows": 0,
+     "views": 0,
+     "contacts": 0,
+     "spend": 0,
+     "orders": 0,
+     "sum": 0,
+     "buy": 0,
+     "buysum": 0,
+     "cancel": 0,
+     "transit": 0
+    },
+    {
+     "shows": 0,
+     "views": 0,
+     "contacts": 0,
+     "spend": 0,
+     "orders": 0,
+     "sum": 0,
+     "buy": 0,
+     "buysum": 0,
+     "cancel": 0,
+     "transit": 0
+    },
+    {
+     "shows": 0,
+     "views": 0,
+     "contacts": 0,
+     "spend": 0,
+     "orders": 0,
+     "sum": 0,
+     "buy": 0,
+     "buysum": 0,
+     "cancel": 0,
+     "transit": 0
+    }
+   ],
+   "msgs": 7,
+   "calls": 0,
+   "selfbuy": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "selfbuy_sum": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "note": "01–02.10"
+  }
+ },
+ "rating": {
+  "seller": 5.0,
+  "reviews": 5,
+  "date": "2026-10-02"
+ },
+ "_note": "Август и раньше — в frozen.json"
+}

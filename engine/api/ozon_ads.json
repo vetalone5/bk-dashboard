@@ -1,0 +1,133 @@
+{
+ "2026-10": {
+  "spend": 17563,
+  "orders": 127,
+  "sum": 210411,
+  "clicks": 2460,
+  "shows": 120785,
+  "weeks": [
+   {
+    "spend": 17563,
+    "orders": 127,
+    "sum": 210411,
+    "clicks": 2460
+   },
+   {
+    "spend": 0,
+    "orders": 0,
+    "sum": 0,
+    "clicks": 0
+   },
+   {
+    "spend": 0,
+    "orders": 0,
+    "sum": 0,
+    "clicks": 0
+   },
+   {
+    "spend": 0,
+    "orders": 0,
+    "sum": 0,
+    "clicks": 0
+   },
+   {
+    "spend": 0,
+    "orders": 0,
+    "sum": 0,
+    "clicks": 0
+   }
+  ],
+  "campaigns": [
+   {
+    "name": "Оплата за заказ: выбранные товары",
+    "spend": 13746,
+    "orders": 85,
+    "sum": 127403,
+    "clicks": 1724
+   },
+   {
+    "name": "Оплата за клик 30.08.2026",
+    "spend": 2761,
+    "orders": 40,
+    "sum": 69016,
+    "clicks": 571
+   },
+   {
+    "name": "Аппликатор тест",
+    "spend": 1055,
+    "orders": 2,
+    "sum": 13992,
+    "clicks": 165
+   }
+  ]
+ },
+ "2026-09": {
+  "spend": 166632,
+  "orders": 1351,
+  "sum": 1970471,
+  "clicks": 23258,
+  "shows": 924722,
+  "weeks": [
+   {
+    "spend": 11020,
+    "orders": 121,
+    "sum": 144572,
+    "clicks": 1175
+   },
+   {
+    "spend": 16395,
+    "orders": 176,
+    "sum": 215907,
+    "clicks": 1363
+   },
+   {
+    "spend": 32364,
+    "orders": 313,
+    "sum": 374968,
+    "clicks": 6924
+   },
+   {
+    "spend": 62199,
+    "orders": 446,
+    "sum": 712373,
+    "clicks": 8656
+   },
+   {
+    "spend": 44654,
+    "orders": 295,
+    "sum": 522651,
+    "clicks": 5140
+   }
+  ],
+  "campaigns": [
+   {
+    "name": "Оплата за заказ: выбранные товары",
+    "spend": 116274,
+    "orders": 809,
+    "sum": 1161346,
+    "clicks": 12326
+   },
+   {
+    "name": "Оплата за клик 30.08.2026",
+    "spend": 40962,
+    "orders": 531,
+    "sum": 763065,
+    "clicks": 10306
+   },
+   {
+    "name": "Аппликатор тест",
+    "spend": 9396,
+    "orders": 7,
+    "sum": 41260,
+    "clicks": 626
+   },
+   {
+    "name": "Оплата за клик 09.08.2026",
+    "spend": 0,
+    "orders": 4,
+    "sum": 4800,
+    "clicks": 0
+   }
+  ]
+ }
+}

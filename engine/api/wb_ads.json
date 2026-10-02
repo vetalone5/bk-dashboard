@@ -1,0 +1,111 @@
+{
+ "2026-09": {
+  "spend": 71367,
+  "orders": 556,
+  "sum": 647162,
+  "clicks": 11218,
+  "shows": 331394,
+  "cancel": 115,
+  "campaigns": [
+   {
+    "name": "Кампания от 02.09.2026",
+    "spend": 46267,
+    "orders": 258,
+    "sum": 298613,
+    "clicks": 7796,
+    "shows": 280009
+   },
+   {
+    "name": "01.09_АТ СПС",
+    "spend": 18573,
+    "orders": 269,
+    "sum": 314360,
+    "clicks": 2557,
+    "shows": 21611
+   },
+   {
+    "name": "28.09_ПОИСК АТ",
+    "spend": 4092,
+    "orders": 16,
+    "sum": 21182,
+    "clicks": 700,
+    "shows": 24974
+   },
+   {
+    "name": "14.09Аппликатор",
+    "spend": 2064,
+    "orders": 0,
+    "sum": 0,
+    "clicks": 129,
+    "shows": 3509
+   },
+   {
+    "name": "кампания 38631976",
+    "spend": 349,
+    "orders": 12,
+    "sum": 12083,
+    "clicks": 34,
+    "shows": 1278
+   },
+   {
+    "name": "23.06_АТ",
+    "spend": 20,
+    "orders": 1,
+    "sum": 924,
+    "clicks": 2,
+    "shows": 6
+   },
+   {
+    "name": "кампания 38891785",
+    "spend": 1,
+    "orders": 0,
+    "sum": 0,
+    "clicks": 0,
+    "shows": 6
+   }
+  ]
+ },
+ "2026-10": {
+  "spend": 841,
+  "orders": 5,
+  "sum": 6365,
+  "clicks": 119,
+  "shows": 1844,
+  "cancel": 2,
+  "campaigns": [
+   {
+    "name": "01.09_АТ СПС",
+    "spend": 666,
+    "orders": 5,
+    "sum": 6365,
+    "clicks": 90,
+    "shows": 721
+   },
+   {
+    "name": "Кампания от 02.09.2026",
+    "spend": 154,
+    "orders": 0,
+    "sum": 0,
+    "clicks": 29,
+    "shows": 992
+   },
+   {
+    "name": "28.09_ПОИСК АТ",
+    "spend": 21,
+    "orders": 0,
+    "sum": 0,
+    "clicks": 0,
+    "shows": 128
+   },
+   {
+    "name": "кампания 38631976",
+    "spend": 1,
+    "orders": 0,
+    "sum": 0,
+    "clicks": 0,
+    "shows": 3
+   }
+  ]
+ },
+ "_note": "Август и раньше — в frozen.json. Дневной разбивки расхода WB по API нет; недельную раскладку сборщик делает пропорционально дням месяца."
+}

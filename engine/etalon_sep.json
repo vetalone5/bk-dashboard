@@ -1,0 +1,22288 @@
+{
+"records": [
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "TikTok",
+"act": "Инфлюенс-посев",
+"name": "https://www.tiktok.com/@batya_ilin",
+"link": "https://vt.tiktok.com/ZSVKS2TKF/",
+"date": "01.09",
+"tag": "promo",
+"mgr": "Елена",
+"w": [
+[
+31500.0,
+2.0,
+2.0,
+2160.0,
+0,
+1,
+2160.0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v1",
+"camp": null,
+"ckey": null,
+"reach": 585100.0,
+"subs": 84300.0,
+"day": "2026-09-01",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "https://vk.ru/batya_ilin",
+"link": "https://vk.ru/clip-235277864_456239553?c=1",
+"date": "05.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+21500.0,
+10,
+6.0,
+11800.0,
+201.0,
+1,
+13187,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v1",
+"camp": "vendor_org_4202727_at",
+"ckey": [
+"camp",
+"vendor_org_4202727_at"
+],
+"reach": 148800.0,
+"subs": 60500.0,
+"day": "2026-09-05",
+"utmp": {
+"camp": "vendor_org_4202727_at"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "https://max.ru/batya_ilin",
+"link": "https://max.ru/batya_ilin/AaBdXlvIQR8",
+"date": "01.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0.0,
+2,
+2.0,
+3800.0,
+34.0,
+1,
+2400,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v1",
+"camp": "vendor_org_4202727_ilinmax",
+"ckey": [
+"camp",
+"vendor_org_4202727_ilinmax"
+],
+"reach": 1823.0,
+"subs": 2600.0,
+"day": "2026-09-01",
+"utmp": {
+"camp": "vendor_org_4202727_ilinmax"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "https://vk.ru/fishinglifetv",
+"link": "https://vk.ru/wall-226894765_699",
+"date": "03.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0.0,
+0,
+9.0,
+17100.0,
+51.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t30",
+"camp": "vendor_org_4202727_fishinglifetvdop",
+"ckey": [
+"camp",
+"vendor_org_4202727_fishinglifetvdop"
+],
+"reach": 1002.0,
+"subs": 7800.0,
+"day": "2026-09-03",
+"utmp": {
+"camp": "vendor_org_4202727_fishinglifetvdop"
+},
+"src": "api",
+"shared": {
+"key": "fishinglifetvdop",
+"n": 2,
+"o": 1
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "YouTube",
+"act": "Инфлюенс-посев",
+"name": "ОРЗ ТВ - Охотники и Рыболовы ЗАПОЛЯРЬЯ",
+"link": "https://www.youtube.com/watch?v=nSfzw0ZV1RM",
+"date": "08.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+36750.0,
+6,
+6.0,
+11400.0,
+27.0,
+1,
+7200,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "своя подача общая",
+"camp": "vendor_org_4202727_youohotnikinao",
+"ckey": [
+"camp",
+"vendor_org_4202727_youohotnikinao"
+],
+"reach": 17000.0,
+"subs": 171000.0,
+"day": "2026-09-08",
+"utmp": {
+"camp": "vendor_org_4202727_youohotnikinao",
+"cont": "video",
+"term": "youohotnikinao",
+"src": "youtube",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "https://vk.ru/ohotnikinao",
+"link": "https://vk.ru/ohotnikinao?z=video-7653648_456239864",
+"date": "08.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0.0,
+1,
+1.0,
+2100.0,
+11.0,
+1,
+1300,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "своя подача общая",
+"camp": "vendor_org_4202727_ohotnikinao",
+"ckey": [
+"camp",
+"vendor_org_4202727_ohotnikinao"
+],
+"reach": 5200.0,
+"subs": 7500.0,
+"day": "2026-09-08",
+"utmp": {
+"camp": "vendor_org_4202727_ohotnikinao",
+"cont": "video",
+"term": "ohotnikinao",
+"src": "vk",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "https://vk.ru/syilers",
+"link": "https://vk.ru/story-212140642_456241030",
+"date": "08.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0.0,
+0,
+1.0,
+2400.0,
+68.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "своя подача общая",
+"camp": "vendor_org_4202727_vkrusyilers",
+"ckey": [
+"camp",
+"vendor_org_4202727_vkrusyilers"
+],
+"reach": 28930.0,
+"subs": 72000.0,
+"day": "2026-09-08",
+"utmp": {
+"camp": "vendor_org_4202727_vkrusyilers",
+"cont": "stories",
+"term": "syilers",
+"src": "vk",
+"med": "video"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "https://vk.ru/dimon_dloger",
+"link": "https://vk.ru/clip-232644511_456239777?c=1",
+"date": "11.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+29950.0,
+32,
+60.0,
+67700.0,
+603.0,
+1,
+43369,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v4",
+"camp": "vendor_org_4202727_dimon_dloger",
+"ckey": [
+"camp",
+"vendor_org_4202727_dimon_dloger"
+],
+"reach": 307900.0,
+"subs": 18700.0,
+"day": "2026-09-11",
+"utmp": {
+"camp": "vendor_org_4202727_dimon_dloger"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "TikTok",
+"act": "Инфлюенс-посев",
+"name": "https://www.tiktok.com/@bloger_dimon",
+"link": "https://vt.tiktok.com/ZSqfQ5b88",
+"date": "11.09",
+"tag": "promo",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+32150.0,
+0,
+0,
+0,
+0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v4",
+"camp": null,
+"ckey": null,
+"reach": 111900.0,
+"subs": 40700.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "https://max.ru/channel_Dimon_Bloger",
+"link": "https://max.ru/channel_Dimon_Bloger",
+"date": "11.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3000.0,
+3,
+4.0,
+5900.0,
+109.0,
+1,
+3700,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v4",
+"camp": "vendor_org_4202727_maxchannel_Dimon_Bloger",
+"ckey": [
+"camp",
+"vendor_org_4202727_maxchannel_Dimon_Bloger"
+],
+"reach": 3789.0,
+"subs": 7220.0,
+"day": "2026-09-11",
+"utmp": {
+"camp": "vendor_org_4202727_maxchannel_Dimon_Bloger"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Простая Рыбалка🐟",
+"link": "https://t.me/ribalka_prostaya/31130",
+"date": "10.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+20979.0,
+2,
+2.0,
+3800.0,
+39.0,
+1,
+2400,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t30",
+"camp": "vendor_org_4202727_ribalka_prostaya",
+"ckey": [
+"camp",
+"vendor_org_4202727_ribalka_prostaya"
+],
+"reach": 24302.0,
+"subs": 152000.0,
+"day": "2026-09-10",
+"utmp": {
+"camp": "vendor_org_4202727_ribalka_prostaya"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "rybalka_severozapad",
+"link": "https://max.ru/rybalka_severozapad/AaCMlZAhLfQ",
+"date": "10.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1510.0,
+6,
+7.0,
+7600.0,
+37.0,
+1,
+7469,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t30",
+"camp": "vendor_org_4202727_https://max.ru/rybalka_severozapad",
+"ckey": [
+"camp",
+"vendor_org_4202727_https://max.ru/rybalka_severozapad"
+],
+"reach": 1814.0,
+"subs": 5000.0,
+"day": "2026-09-10",
+"utmp": {
+"camp": "vendor_org_4202727_https://max.ru/rybalka_severozapad"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка | Рыбанутые | Охота | Туризм",
+"link": "https://max.ru/rybanutyye/AaCQVylgLM4",
+"date": "11.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+11328.0,
+20,
+20.0,
+35200.0,
+298.0,
+1,
+24699,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t30",
+"camp": "vendor_org_4202727_rybanutyyet30",
+"ckey": [
+"camp",
+"vendor_org_4202727_rybanutyyet30"
+],
+"reach": 19700.0,
+"subs": 71500.0,
+"day": "2026-09-11",
+"utmp": {
+"camp": "vendor_org_4202727_rybanutyyet30"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка Воронеж. Чат",
+"link": "https://t.me/rybalka_vrn/156708",
+"date": "11.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2097.0,
+0,
+0.0,
+0,
+28.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t30",
+"camp": "vendor_org_4202727_rybalka_vrn",
+"ckey": [
+"camp",
+"vendor_org_4202727_rybalka_vrn"
+],
+"reach": 2302.0,
+"subs": 1300.0,
+"day": "2026-09-11",
+"utmp": {
+"camp": "vendor_org_4202727_rybalka_vrn"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка",
+"link": "https://max.ru/life_fishing/AaCZkNqHdb0",
+"date": "13.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3496.0,
+15,
+16.0,
+32900.0,
+143.0,
+1,
+19671,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t30",
+"camp": "vendor_org_4202727_life_fishing",
+"ckey": [
+"camp",
+"vendor_org_4202727_life_fishing"
+],
+"reach": 4906.0,
+"subs": 25900.0,
+"day": "2026-09-13",
+"utmp": {
+"camp": "vendor_org_4202727_life_fishing"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "https://vk.ru/fishinglifetv",
+"link": "https://vk.ru/wall-226894765_699?w=story-226894765_456239037%2Fowner_feed-226894765",
+"date": "11.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+22000.0,
+1,
+11.0,
+20100.0,
+263.0,
+1,
+1200,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v4",
+"camp": "vendor_org_4202727_fishinglifetvdop",
+"ckey": [
+"camp",
+"vendor_org_4202727_fishinglifetvdop"
+],
+"reach": 23983.0,
+"subs": 7800.0,
+"day": "2026-09-11",
+"utmp": {
+"camp": "vendor_org_4202727_fishinglifetvdop"
+},
+"src": "api",
+"shared": {
+"key": "fishinglifetvdop",
+"n": 2,
+"o": 1
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "YouTube",
+"act": "Инфлюенс-посев",
+"name": "https://www.youtube.com/@slavkaivanov5497",
+"link": "https://youtube.com/shorts/yRe3U-VjnO0?si=9P_G8F7NPaKb2Zo7",
+"date": "12.09",
+"tag": "promo",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+29448.0,
+6.0,
+6.0,
+3538.0,
+4.0,
+1,
+3538.0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v4",
+"camp": null,
+"ckey": null,
+"reach": 279000.0,
+"subs": 305000.0,
+"day": "2026-09-12",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "https://t.me/SlavkaIvanovTv",
+"link": "https://t.me/SlavkaIvanovTv/1127",
+"date": "12.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0.0,
+0,
+0.0,
+0,
+23.0,
+1,
+0.0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "v4",
+"camp": "vendor_org_4202727_slavkaivanov5497 ",
+"ckey": [
+"camp",
+"vendor_org_4202727_slavkaivanov5497 "
+],
+"reach": 609.0,
+"subs": 4900.0,
+"day": "2026-09-12",
+"utmp": {
+"camp": "vendor_org_4202727_slavkaivanov5497 "
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "TikTok",
+"act": "Инфлюенс-посев",
+"name": "www.tiktok.com/@vyacheslav19916",
+"link": "https://vt.tiktok.com/ZSqHX9VUe/",
+"date": "12.09",
+"tag": "promo",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+38112.0,
+4.0,
+4.0,
+2418.0,
+0,
+1,
+2418.0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v4",
+"camp": null,
+"ckey": null,
+"reach": 313000.0,
+"subs": 178000.0,
+"day": "2026-09-12",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Иванов МАХ",
+"link": "https://max.ru/join/BdpFb_OnAKVK9ZwJMX7JSGH7jZmsUHACR6T_8yOR5BI",
+"date": "12.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0.0,
+0,
+0,
+0,
+0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v4",
+"camp": "vendor_org_4202727_ivanovmax",
+"ckey": [
+"camp",
+"vendor_org_4202727_ivanovmax"
+],
+"reach": 503.0,
+"subs": 3600.0,
+"day": "2026-09-12",
+"utmp": {
+"camp": "vendor_org_4202727_ivanovmax"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "https://vk.com/clips/vyacheslav246",
+"link": "vk.com/clip-228281080_456239149?c=1",
+"date": "12.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+19912.0,
+15,
+15.0,
+36900.0,
+368.0,
+1,
+24914,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v4",
+"camp": "vendor_org_4202727_vkvyacheslav246",
+"ckey": [
+"camp",
+"vendor_org_4202727_vkvyacheslav246"
+],
+"reach": 213000.0,
+"subs": 9700.0,
+"day": "2026-09-12",
+"utmp": {
+"camp": "vendor_org_4202727_vkvyacheslav246"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "appl",
+"plat": "Wildberries",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Сад и огород и дача",
+"link": "https://max.ru/join/__OvnQb3bzZzI5byvALgfigzQA1gwIo0ZNxBfYXDAyg",
+"date": "11.09",
+"tag": "art",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+19580.0,
+0,
+0,
+0,
+70.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": null,
+"camp": null,
+"ckey": null,
+"reach": 24890.0,
+"subs": 58400.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "appl",
+"plat": "Wildberries",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Дачные секреты | Дача и Огород",
+"link": "https://max.ru/prosto_dacha/AaCVgcZ8GDY",
+"date": "12.09",
+"tag": "art",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2097.0,
+0,
+0,
+0,
+14.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": null,
+"camp": null,
+"ckey": null,
+"reach": 3097.0,
+"subs": 29300.0,
+"day": "2026-09-12",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "appl",
+"plat": "Wildberries",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Дача | Сад и Огород",
+"link": "https://max.ru/join/L5jEV8WiwQ0PnORs9PzpP4qBAZttshkSFmnpokCbgPs",
+"date": "11.09",
+"tag": "art",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+4195.0,
+0,
+0,
+0,
+17.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": null,
+"camp": null,
+"ckey": null,
+"reach": 11390.0,
+"subs": 30100.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "appl",
+"plat": "Wildberries",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Дачные советы. Сад и огород",
+"link": "https://max.ru/dachniesoveti/AaCZkfVVLoY",
+"date": "13.09",
+"tag": "art",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+8391.0,
+0,
+0,
+0,
+27.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": null,
+"camp": null,
+"ckey": null,
+"reach": 8963.0,
+"subs": 10400.0,
+"day": "2026-09-13",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "appl",
+"plat": "Wildberries",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "ДАЧА ДЛЯ ДУШИ ✅ I СОВЕТЫ САДОВОДАМ И",
+"link": "https://max.ru/public223173343",
+"date": "11.09",
+"tag": "art",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+907.0,
+0.0,
+0,
+0,
+13.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": null,
+"camp": null,
+"ckey": null,
+"reach": 1078.0,
+"subs": 4200.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "appl",
+"plat": "Wildberries",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Моя Дача. Сад и огород",
+"link": "https://telegram.me/dacha_my",
+"date": "11.09",
+"tag": "art",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2097.0,
+0.0,
+0,
+0,
+25.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": null,
+"camp": null,
+"ckey": null,
+"reach": 4905.0,
+"subs": 286000.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "TikTok",
+"act": "Инфлюенс-посев",
+"name": "http://tiktok.com/@budni_zubareva",
+"link": "https://vt.tiktok.com/ZSqpcwWMU/",
+"date": "17.09",
+"tag": "promo",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+8353.0,
+0,
+0,
+0,
+0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v1",
+"camp": null,
+"ckey": null,
+"reach": 56500.0,
+"subs": 11700.0,
+"day": "2026-09-17",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "https://vk.ru/budni_zubareva",
+"link": "https://vk.ru/clip-236832541_456239267?c=1",
+"date": "17.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3553.0,
+1.0,
+1.0,
+2400.0,
+6.0,
+1,
+2400.0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "v1",
+"camp": "1",
+"ckey": [
+"camp",
+"1"
+],
+"reach": 7600.0,
+"subs": 3700.0,
+"day": "2026-09-17",
+"utmp": {
+"camp": "1"
+},
+"shared": {
+"key": "1",
+"n": 2,
+"o": 1.0
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "YouTube",
+"act": "Инфлюенс-посев",
+"name": "https://youtube.com/@budni_zubareva",
+"link": "https://youtube.com/shorts/kUBgu_gtu9M?si=s8s8zRp5driIQUHc",
+"date": "17.09",
+"tag": "promo",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+5000.0,
+0,
+0,
+0,
+0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v1",
+"camp": null,
+"ckey": null,
+"reach": 27000.0,
+"subs": 3000.0,
+"day": "2026-09-17",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "TikTok",
+"act": "Инфлюенс-посев",
+"name": "https://www.tiktok.com/@semenov.alexander",
+"link": "https://www.tiktok.com/@semenov.alexander/video/7685735317101415688",
+"date": "15.09",
+"tag": "promo",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+53100.0,
+0,
+0,
+0,
+0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v5",
+"camp": null,
+"ckey": null,
+"reach": 260400.0,
+"subs": 106800.0,
+"day": "2026-09-15",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "YouTube",
+"act": "Инфлюенс-посев",
+"name": "https://youtube.com/@official.semenov",
+"link": "https://www.youtube.com/shorts/LK9adofQvpw",
+"date": "15.09",
+"tag": "promo",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+17300.0,
+0,
+0,
+0,
+0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v5",
+"camp": null,
+"ckey": null,
+"reach": 97000.0,
+"subs": 9500.0,
+"day": "2026-09-15",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "appl",
+"plat": "Wildberries",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "namechtala",
+"link": "https://vk.ru/story-211242042_456248667",
+"date": "18.09",
+"tag": "art",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+31570.0,
+0.0,
+0,
+0,
+339.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": null,
+"camp": null,
+"ckey": null,
+"reach": 38290.0,
+"subs": 137000.0,
+"day": "2026-09-18",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Сиимоновы",
+"link": "https://t.me/simoniata/15098",
+"date": "19.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+5500.0,
+1,
+1.0,
+2400.0,
+7.0,
+1,
+1529,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_simoniata",
+"ckey": [
+"camp",
+"vendor_org_4202727_simoniata"
+],
+"reach": 1500.0,
+"subs": 10890.0,
+"day": "2026-09-19",
+"utmp": {
+"camp": "vendor_org_4202727_simoniata"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "simoniatamax",
+"link": "https://max.ru/simoniata/AaC4n18id-w",
+"date": "19.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+10500.0,
+1,
+1.0,
+1529.0,
+38.0,
+1,
+1529,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_simoniatamax",
+"ckey": [
+"camp",
+"vendor_org_4202727_simoniatamax"
+],
+"reach": 3544.0,
+"subs": 5900.0,
+"day": "2026-09-19",
+"utmp": {
+"camp": "vendor_org_4202727_simoniatamax"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "relaxcomedy",
+"link": "https://vk.ru/wall-211691270_11342",
+"date": "16.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+22000.0,
+11,
+11.0,
+33000.0,
+159.0,
+1,
+25850,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_relaxcomedy",
+"ckey": [
+"camp",
+"vendor_org_4202727_relaxcomedy"
+],
+"reach": 75000.0,
+"subs": 52000.0,
+"day": "2026-09-16",
+"utmp": {
+"camp": "vendor_org_4202727_relaxcomedy"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "dadvision",
+"link": "https://vk.ru/wall-236887004_658",
+"date": "16.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+15000.0,
+7,
+7.0,
+21300.0,
+13.0,
+1,
+16629,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_dadvision",
+"ckey": [
+"camp",
+"vendor_org_4202727_dadvision"
+],
+"reach": 43900.0,
+"subs": 9700.0,
+"day": "2026-09-16",
+"utmp": {
+"camp": "vendor_org_4202727_dadvision"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "greenpapan_blog",
+"link": "https://vk.ru/wall-51070170_9362",
+"date": "18.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+16350.0,
+13,
+13.0,
+28800.0,
+59.0,
+1,
+20148,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_greenpapan_blog",
+"ckey": [
+"camp",
+"vendor_org_4202727_greenpapan_blog"
+],
+"reach": 56000.0,
+"subs": 10200.0,
+"day": "2026-09-18",
+"utmp": {
+"camp": "vendor_org_4202727_greenpapan_blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "DostupnayaRybalka",
+"link": "https://vk.ru/aliexfisher?z=photo-136853349_457276135%2Falbum-136853349_0%2Frev",
+"date": "18.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+4000.0,
+0.0,
+0.0,
+0,
+43.0,
+1,
+0.0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_DostupnayaRybalka",
+"ckey": [
+"camp",
+"vendor_org_4202727_DostupnayaRybalka"
+],
+"reach": 4309.0,
+"subs": 1900.0,
+"day": "2026-09-18",
+"utmp": {
+"camp": "vendor_org_4202727_DostupnayaRybalka",
+"cont": "t31",
+"src": "telegram",
+"med": "blog"
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "aliexfisher",
+"link": "https://t.me/DostupnayaRybalka/7990",
+"date": "18.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+26000.0,
+6,
+6.0,
+16600.0,
+302.0,
+1,
+10924,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_vkaliexfisher",
+"ckey": [
+"camp",
+"vendor_org_4202727_vkaliexfisher"
+],
+"reach": 24379.0,
+"subs": 28000.0,
+"day": "2026-09-18",
+"utmp": {
+"camp": "vendor_org_4202727_vkaliexfisher",
+"cont": "t31",
+"src": "vk",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Клёвое место | Рыбалка",
+"link": "https://max.ru/join/uCdz6lLBZaKQQ-TBrM1kCaXNxdhno0LlLSpv1_WO-yI",
+"date": "17.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+4755.0,
+7,
+8.0,
+21000.0,
+168.0,
+1,
+13116,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_klevoemesto",
+"ckey": [
+"camp",
+"vendor_org_4202727_klevoemesto"
+],
+"reach": 6790.0,
+"subs": 33000.0,
+"day": "2026-09-17",
+"utmp": {
+"camp": "vendor_org_4202727_klevoemesto"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "rubalkarussia",
+"link": "https://max.ru/rubalkarussia/AaCunOlNUfQ",
+"date": "17.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1888.0,
+0,
+0,
+0,
+47.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_rubalkarussia",
+"ckey": [
+"camp",
+"vendor_org_4202727_rubalkarussia"
+],
+"reach": 2543.0,
+"subs": 8100.0,
+"day": "2026-09-17",
+"utmp": {
+"camp": "vendor_org_4202727_rubalkarussia"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Рыболовная сводка Спб",
+"link": "https://t.me/rybalka_spb_lenoblasti/26621",
+"date": "18.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3356.0,
+0,
+0,
+0,
+24.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_rybalka_spb_lenoblasti",
+"ckey": [
+"camp",
+"vendor_org_4202727_rybalka_spb_lenoblasti"
+],
+"reach": 4192.0,
+"subs": 35500.0,
+"day": "2026-09-18",
+"utmp": {
+"camp": "vendor_org_4202727_rybalka_spb_lenoblasti"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка в спб чат",
+"link": "https://t.me/dumbfishspb/501064",
+"date": "17.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1398.0,
+0,
+0,
+0,
+21.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_dumbfishspb",
+"ckey": [
+"camp",
+"vendor_org_4202727_dumbfishspb"
+],
+"reach": 2682.0,
+"subs": 11300.0,
+"day": "2026-09-17",
+"utmp": {
+"camp": "vendor_org_4202727_dumbfishspb"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка Казань чат",
+"link": "https://telegram.me/kazanfisher/116977",
+"date": "17.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+839.0,
+1,
+1.0,
+1529.0,
+33.0,
+1,
+1529,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_kazanfisher",
+"ckey": [
+"camp",
+"vendor_org_4202727_kazanfisher"
+],
+"reach": 1928.0,
+"subs": 3400.0,
+"day": "2026-09-17",
+"utmp": {
+"camp": "vendor_org_4202727_kazanfisher"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "ТОЧКИ КЛЁВА РУССКАЯ РЫБАЛКА 4",
+"link": "https://max.ru/rf4map/AaC1rfbIIKI",
+"date": "18.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+314.0,
+0,
+0,
+0,
+50.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "опрос",
+"camp": null,
+"ckey": null,
+"reach": 973.0,
+"subs": 6933.0,
+"day": "2026-09-18",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка СПб и Карелия",
+"link": "https://max.ru/fishingspb1/AaCziRtzWqI",
+"date": "18.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+503.0,
+0,
+0,
+0,
+16.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "опрос",
+"camp": null,
+"ckey": null,
+"reach": 696.0,
+"subs": 3300.0,
+"day": "2026-09-18",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка",
+"link": "https://max.ru/ylov_ribaka/AaC0LX28KqI",
+"date": "18.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1188.0,
+0,
+0,
+0,
+32.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "опрос",
+"camp": null,
+"ckey": null,
+"reach": 1439.0,
+"subs": 10240.0,
+"day": "2026-09-18",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка фидер спб",
+"link": "https://max.ru/feederspb/AaCy41ZNJiA",
+"date": "18.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+587.0,
+0,
+0,
+0,
+6.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "опрос",
+"camp": null,
+"ckey": null,
+"reach": 570.0,
+"subs": 2204.0,
+"day": "2026-09-18",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "РЫБАЛКА В МОСКВЕ И ПОДМОСКОВЬЕ",
+"link": "https://t.me/rubalkamoskva/43973",
+"date": "18.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+419.0,
+0,
+0,
+0,
+10.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "опрос",
+"camp": null,
+"ckey": null,
+"reach": 810.0,
+"subs": 8699.0,
+"day": "2026-09-18",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "avto_dvizg",
+"link": "https://vk.ru/wall-165180619_132415",
+"date": "18.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+16350.0,
+4,
+5.0,
+12000.0,
+186.0,
+1,
+6116,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_avto_dvizg",
+"ckey": [
+"camp",
+"vendor_org_4202727_avto_dvizg"
+],
+"reach": 17900.0,
+"subs": 32100.0,
+"day": "2026-09-18",
+"utmp": {
+"camp": "vendor_org_4202727_avto_dvizg"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "https://vk.ru/batya_ilin",
+"link": "https://vk.ru/wall-235277864_27244",
+"date": "19.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+16350.0,
+0,
+8.0,
+13900.0,
+29.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_vk.rubatya_ilin",
+"ckey": [
+"camp",
+"vendor_org_4202727_vk.rubatya_ilin"
+],
+"reach": 21200.0,
+"subs": 60500.0,
+"day": "2026-09-19",
+"utmp": {
+"camp": "vendor_org_4202727_vk.rubatya_ilin"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "https://max.ru/batya_ilin",
+"link": "https://max.ru/batya_ilin/AaC30kbQID0",
+"date": "19.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0.0,
+0,
+0,
+0,
+19.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_maxrubatya_ilin",
+"ckey": [
+"camp",
+"vendor_org_4202727_maxrubatya_ilin"
+],
+"reach": 1000.0,
+"subs": 2600.0,
+"day": "2026-09-19",
+"utmp": {
+"camp": "vendor_org_4202727_maxrubatya_ilin"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка с Иванычем",
+"link": "https://max.ru/join/kvs60m93OU3-oc3VRfehLDVbvVymDAR0Q-Rcs0e3qDY",
+"date": "20.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2937.0,
+2,
+1.0,
+2400.0,
+118.0,
+1,
+3058,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_ivanich",
+"ckey": [
+"camp",
+"vendor_org_4202727_ivanich"
+],
+"reach": 3436.0,
+"subs": 9000.0,
+"day": "2026-09-20",
+"utmp": {
+"camp": "vendor_org_4202727_ivanich",
+"cont": "t31",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Русская рыбалка крейзи",
+"link": "https://telegram.me/rf4crazyft/80192",
+"date": "20.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+352.0,
+2,
+1.0,
+2400.0,
+3.0,
+1,
+3058,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_ruskayacrazy",
+"ckey": [
+"camp",
+"vendor_org_4202727_ruskayacrazy"
+],
+"reach": 690.0,
+"subs": 11565.0,
+"day": "2026-09-20",
+"utmp": {
+"camp": "vendor_org_4202727_ruskayacrazy",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "макавозы",
+"link": "https://vk.ru/club211182784?w=story-211182784_456240270%2Fowner_feed-211182784",
+"date": "20.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+16350.0,
+1,
+0,
+0,
+429.0,
+1,
+1800,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_club211182784",
+"ckey": [
+"camp",
+"vendor_org_4202727_club211182784"
+],
+"reach": 18290.0,
+"subs": 38200.0,
+"day": "2026-09-20",
+"utmp": {
+"camp": "vendor_org_4202727_club211182784",
+"cont": "t31",
+"src": "vk",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "https://t.me/makovozovy",
+"link": "https://t.me/makovozovy/68707",
+"date": "20.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+16350.0,
+1,
+1.0,
+2600.0,
+69.0,
+1,
+1800,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_makovozovy",
+"ckey": [
+"camp",
+"vendor_org_4202727_makovozovy"
+],
+"reach": 21090.0,
+"subs": 32890.0,
+"day": "2026-09-20",
+"utmp": {
+"camp": "vendor_org_4202727_makovozovy",
+"cont": "t31",
+"src": "telegram",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "YouTube",
+"act": "Инфлюенс-посев",
+"name": "Северная рыбалка /Nord fishing",
+"link": "https://youtu.be/rkx_oIUERaM?t=291",
+"date": "27.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+83933.85,
+18.0,
+18.0,
+48420.0,
+144.0,
+1,
+48420.0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "v1",
+"camp": null,
+"ckey": null,
+"reach": 63000.0,
+"subs": 119000.0,
+"day": "2026-09-27",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "stas_blogs",
+"link": "https://t.me/stas_blogs/175",
+"date": "22.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+14980.0,
+1.0,
+1.0,
+2400.0,
+219.0,
+1,
+2400.0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t31",
+"camp": null,
+"ckey": null,
+"reach": 14700.0,
+"subs": 15100.0,
+"day": "2026-09-22",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "A_lfa_live",
+"link": "https://t.me/A_lfa_live/2609",
+"date": "22.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+17120.0,
+3,
+4.0,
+5200.0,
+104.0,
+1,
+5400,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_A_lfa_live",
+"ckey": [
+"camp",
+"vendor_org_4202727_A_lfa_live"
+],
+"reach": 20120.0,
+"subs": 22564.0,
+"day": "2026-09-22",
+"utmp": {
+"camp": "vendor_org_4202727_A_lfa_live",
+"cont": "t31",
+"src": "telegram",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "big_zozh",
+"link": "https://vk.ru/wall-184497761_301",
+"date": "22.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+21400.0,
+3,
+3.0,
+8300.0,
+118.0,
+1,
+5929,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_vk.rubig_zozh",
+"ckey": [
+"camp",
+"vendor_org_4202727_vk.rubig_zozh"
+],
+"reach": 38290.0,
+"subs": 27700.0,
+"day": "2026-09-22",
+"utmp": {
+"camp": "vendor_org_4202727_vk.rubig_zozh",
+"cont": "t31",
+"src": "vk",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "papavkyrse",
+"link": "https://t.me/papavkyrse/2507",
+"date": "23.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+16500.0,
+1,
+0,
+0,
+36.0,
+1,
+1800,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_papavkyrse",
+"ckey": [
+"camp",
+"vendor_org_4202727_papavkyrse"
+],
+"reach": 18300.0,
+"subs": 18082.0,
+"day": "2026-09-23",
+"utmp": {
+"camp": "vendor_org_4202727_papavkyrse",
+"cont": "t31",
+"src": "vk",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Мужская гильдия",
+"link": "https://t.me/Mans_Clan/2441",
+"date": "26.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+16500.0,
+2.0,
+2.0,
+2400.0,
+20.0,
+1,
+2400.0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_mushckaygildiy",
+"ckey": [
+"camp",
+"vendor_org_4202727_mushckaygildiy"
+],
+"reach": 31400.0,
+"subs": 34057.0,
+"day": "2026-09-26",
+"utmp": {
+"camp": "vendor_org_4202727_mushckaygildiy",
+"cont": "t31",
+"src": "telegram",
+"med": "blog"
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Русская рыбалка нев",
+"link": "https://max.ru/channel_rus_fishin/AaDMhyZVaXg",
+"date": "23.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+594.0,
+0,
+0,
+0,
+28.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_max.ruchannel_rus_fishin",
+"ckey": [
+"camp",
+"vendor_org_4202727_max.ruchannel_rus_fishin"
+],
+"reach": 993.0,
+"subs": 3300.0,
+"day": "2026-09-23",
+"utmp": {
+"camp": "vendor_org_4202727_max.ruchannel_rus_fishin",
+"cont": "t31",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Охота рыбалка отдых",
+"link": "https://max.ru/join/-MJhyPPkgreSIoYuLu0lh-AJuR-cShsiv9NjhUZbTuM",
+"date": "23.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1118.0,
+3,
+3.0,
+7200.0,
+77.0,
+1,
+4729,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_ohotarybalka",
+"ckey": [
+"camp",
+"vendor_org_4202727_ohotarybalka"
+],
+"reach": 1864.0,
+"subs": 9500.0,
+"day": "2026-09-23",
+"utmp": {
+"camp": "vendor_org_4202727_ohotarybalka",
+"cont": "t31",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка в ростова ВРР",
+"link": "https://max.ru/rybalkavrostove/AaDIueixF3g",
+"date": "21.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1888.0,
+5,
+4.0,
+12000.0,
+53.0,
+1,
+7636,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_rybalkavrostove",
+"ckey": [
+"camp",
+"vendor_org_4202727_rybalkavrostove"
+],
+"reach": 1989.0,
+"subs": 3100.0,
+"day": "2026-09-21",
+"utmp": {
+"camp": "vendor_org_4202727_rybalkavrostove",
+"cont": "t31",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "УДачная рыбалка",
+"link": "https://max.ru/rybalkaudachnaya/AaDIhVdSUJs",
+"date": "21.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2797.0,
+2,
+4.0,
+4800.0,
+42.0,
+1,
+3129,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_rybalkaudachnaya",
+"ckey": [
+"camp",
+"vendor_org_4202727_rybalkaudachnaya"
+],
+"reach": 4134.0,
+"subs": 7600.0,
+"day": "2026-09-21",
+"utmp": {
+"camp": "vendor_org_4202727_rybalkaudachnaya",
+"cont": "t31",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка снасти обзоры",
+"link": "https://max.ru/aliekemp/AaDIf94PF3g",
+"date": "21.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+293.0,
+0,
+0,
+0,
+13.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_aliekemp",
+"ckey": [
+"camp",
+"vendor_org_4202727_aliekemp"
+],
+"reach": 498.0,
+"subs": 586.0,
+"day": "2026-09-21",
+"utmp": {
+"camp": "vendor_org_4202727_aliekemp",
+"cont": "t31",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "с полем охота и рыбалка",
+"link": "https://max.ru/join/TAz62IvarhreupeVWAwOLTP6R8EY_0-2O7jKs9CK0tM",
+"date": "23.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+377.0,
+1,
+1.0,
+2400.0,
+24.0,
+1,
+1521,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_spolem",
+"ckey": [
+"camp",
+"vendor_org_4202727_spolem"
+],
+"reach": 1034.0,
+"subs": 2800.0,
+"day": "2026-09-23",
+"utmp": {
+"camp": "vendor_org_4202727_spolem",
+"cont": "t31",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка 25 - Рыбалка Приморский край и ДВ",
+"link": "https://max.ru/channel_Ribalka25/AaDLWRbjdXg",
+"date": "23.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1069.0,
+2,
+2.0,
+7000.0,
+23.0,
+1,
+5458,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_channel_Ribalka25",
+"ckey": [
+"camp",
+"vendor_org_4202727_channel_Ribalka25"
+],
+"reach": 1296.0,
+"subs": 1800.0,
+"day": "2026-09-23",
+"utmp": {
+"camp": "vendor_org_4202727_channel_Ribalka25",
+"cont": "t31",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Водитель рф",
+"link": "https://max.ru/id560405164432_biz/AaDSqjWlakU",
+"date": "24.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+4195.0,
+1,
+1.0,
+2600.0,
+53.0,
+1,
+1520,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t32",
+"camp": "vendor_org_4202727_voditelrf",
+"ckey": [
+"camp",
+"vendor_org_4202727_voditelrf"
+],
+"reach": 5339.0,
+"subs": 25500.0,
+"day": "2026-09-24",
+"utmp": {
+"camp": "vendor_org_4202727_voditelrf",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка | Рыбанутые | Охота | Туризм",
+"link": "https://max.ru/rybanutyye/AaDSAr2CekU",
+"date": "24.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+11328.0,
+30,
+17.0,
+41000.0,
+594.0,
+1,
+48442,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t32",
+"camp": "vendor_org_4202727_rybanutyye",
+"ckey": [
+"cont",
+"t32"
+],
+"reach": 13928.0,
+"subs": 71500.0,
+"day": "2026-09-24",
+"utmp": {
+"camp": "vendor_org_4202727_rybanutyye",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"camp0": "vendor_org_4202727_rybanutyye",
+"src": "api",
+"shared": {
+"key": "t32",
+"n": 5,
+"o": 40
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Мы родились в сибири",
+"link": "https://max.ru/ch_602408dd140d5e56b2f80f26/AaDY9JY8QkU",
+"date": "25.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1538.0,
+0,
+0,
+0,
+18.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t32",
+"camp": "vendor_org_4202727_myrodilisvsibiri",
+"ckey": [
+"camp",
+"vendor_org_4202727_myrodilisvsibiri"
+],
+"reach": 3789.0,
+"subs": 6800.0,
+"day": "2026-09-25",
+"utmp": {
+"camp": "vendor_org_4202727_myrodilisvsibiri",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "дальнобойщики",
+"link": "https://max.ru/vk_dalnoboy/AaDQJaOWOkU",
+"date": "24.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1398.0,
+1,
+1.0,
+2400.0,
+27.0,
+1,
+1600,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t32",
+"camp": "vendor_org_4202727_dolnoboishiki",
+"ckey": [
+"camp",
+"vendor_org_4202727_dolnoboishiki"
+],
+"reach": 3448.0,
+"subs": 8900.0,
+"day": "2026-09-24",
+"utmp": {
+"camp": "vendor_org_4202727_dolnoboishiki",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "в курской деревне",
+"link": "https://max.ru/ch_600bd9ea0424210ae70922c8/AaDPbRtuePg",
+"date": "23.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+5594.0,
+1,
+1.0,
+2400.0,
+38.0,
+1,
+1600,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t32",
+"camp": "vendor_org_4202727_vkurskoyderevne",
+"ckey": [
+"camp",
+"vendor_org_4202727_vkurskoyderevne"
+],
+"reach": 6733.0,
+"subs": 12800.0,
+"day": "2026-09-23",
+"utmp": {
+"camp": "vendor_org_4202727_vkurskoyderevne",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "СВО сводки",
+"link": "https://max.ru/bestnogotochki/AaDS3xkUGEU",
+"date": "24.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+5734.0,
+2,
+1.0,
+2600.0,
+67.0,
+1,
+3230,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t32",
+"camp": "vendor_org_4202727_svodkisvo",
+"ckey": [
+"cont",
+"t32"
+],
+"reach": 6645.0,
+"subs": 39200.0,
+"day": "2026-09-24",
+"utmp": {
+"camp": "vendor_org_4202727_svodkisvo",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"camp0": "vendor_org_4202727_svodkisvo",
+"src": "api",
+"shared": {
+"key": "t32",
+"n": 5,
+"o": 40
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Клёвое место | Рыбалка",
+"link": "https://max.ru/join/uCdz6lLBZaKQQ-TBrM1kCaXNxdhno0LlLSpv1_WO-yI",
+"date": "24.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3566.0,
+5,
+3.0,
+7400.0,
+248.0,
+1,
+8074,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t32",
+"camp": "vendor_org_4202727_klevoemesto",
+"ckey": [
+"cont",
+"t32"
+],
+"reach": 5016.0,
+"subs": 33000.0,
+"day": "2026-09-24",
+"utmp": {
+"camp": "vendor_org_4202727_klevoemesto",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"src": "api",
+"shared": {
+"key": "t32",
+"n": 5,
+"o": 40
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбацкий канал | Рыбалка",
+"link": "https://max.ru/ribalka_fishing24/AaDSAsPnUkU",
+"date": "24.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3776.0,
+6,
+4.0,
+9600.0,
+193.0,
+1,
+9720,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t32",
+"camp": "vendor_org_4202727_rybatskiykanal",
+"ckey": [
+"camp",
+"vendor_org_4202727_rybatskiykanal"
+],
+"reach": 4707.0,
+"subs": 19200.0,
+"day": "2026-09-24",
+"utmp": {
+"camp": "vendor_org_4202727_rybatskiykanal",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "rubalkarussia",
+"link": "https://max.ru/rubalkarussia/AaDScAuhBEU",
+"date": "24.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1258.0,
+1,
+1.0,
+2400.0,
+64.0,
+1,
+1521,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t32",
+"camp": "vendor_org_4202727_rybalkarussii",
+"ckey": [
+"camp",
+"vendor_org_4202727_rybalkarussii"
+],
+"reach": 1278.0,
+"subs": 7800.0,
+"day": "2026-09-24",
+"utmp": {
+"camp": "vendor_org_4202727_rybalkarussii",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "сводки сво",
+"link": "https://max.ru/bestnogotochki",
+"date": "25.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1328.0,
+2,
+1.0,
+2600.0,
+44.0,
+1,
+3230,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t32",
+"camp": "vendor_org_4202727_svodkisvo",
+"ckey": [
+"cont",
+"t32"
+],
+"reach": 3854.0,
+"subs": 13700.0,
+"day": "2026-09-25",
+"utmp": {
+"camp": "vendor_org_4202727_svodkisvo",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"camp0": "vendor_org_4202727_svodkisvo",
+"src": "api",
+"shared": {
+"key": "t32",
+"n": 5,
+"o": 40
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Мужские хитрости",
+"link": "https://max.ru/men_115/AaDSAsDkYkU",
+"date": "24.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2237.0,
+1,
+0,
+0,
+36.0,
+1,
+1600,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t32",
+"camp": "vendor_org_4202727_mychskaygildiy",
+"ckey": [
+"camp",
+"vendor_org_4202727_mychskaygildiy"
+],
+"reach": 3400.0,
+"subs": 6000.0,
+"day": "2026-09-24",
+"utmp": {
+"camp": "vendor_org_4202727_mychskaygildiy",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Автоновости авто",
+"link": "https://max.ru/murom_navashino/AaDRzJfrNEU",
+"date": "24.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1118.0,
+1,
+1.0,
+2400.0,
+17.0,
+1,
+1600,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t32",
+"camp": "vendor_org_4202727_avtomobiln avto",
+"ckey": [
+"camp",
+"vendor_org_4202727_avtomobiln avto"
+],
+"reach": 2325.0,
+"subs": 7200.0,
+"day": "2026-09-24",
+"utmp": {
+"camp": "vendor_org_4202727_avtomobiln avto",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Лешка забавный",
+"link": "https://max.ru/club230588680/AaDPiRquOkU",
+"date": "24.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2797.0,
+0,
+0,
+0,
+14.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t32",
+"camp": "vendor_org_4202727_leshkazabavniy",
+"ckey": [
+"camp",
+"vendor_org_4202727_leshkazabavniy"
+],
+"reach": 2875.0,
+"subs": 4100.0,
+"day": "2026-09-24",
+"utmp": {
+"camp": "vendor_org_4202727_leshkazabavniy",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Новости Ростова",
+"link": "https://max.ru/rostovnews61/AaDe3-h4JkU",
+"date": "26.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2657.0,
+1,
+1.0,
+2600.0,
+33.0,
+1,
+1800,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t32",
+"camp": "vendor_org_4202727_https://max.ru/rostovnews61",
+"ckey": [
+"camp",
+"vendor_org_4202727_https://max.ru/rostovnews61"
+],
+"reach": 6039.0,
+"subs": 22200.0,
+"day": "2026-09-26",
+"utmp": {
+"camp": "vendor_org_4202727_https://max.ru/rostovnews61",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Краснода Новости",
+"link": "https://max.ru/krdns/AaDjKwOsNkU",
+"date": "27.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+4600.0,
+1,
+1.0,
+2600.0,
+42.0,
+1,
+1800,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t32",
+"camp": "vendor_org_4202727_krdns",
+"ckey": [
+"camp",
+"vendor_org_4202727_krdns"
+],
+"reach": 6025.0,
+"subs": 22100.0,
+"day": "2026-09-27",
+"utmp": {
+"camp": "vendor_org_4202727_krdns",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Жизнь в деревне",
+"link": "https://max.ru/club228966716/AaDeUbcYGkU",
+"date": "26.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+5594.0,
+0,
+0,
+0,
+46.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t32",
+"camp": "vendor_org_4202727_club228966716",
+"ckey": [
+"camp",
+"vendor_org_4202727_club228966716"
+],
+"reach": 6598.0,
+"subs": 12800.0,
+"day": "2026-09-26",
+"utmp": {
+"camp": "vendor_org_4202727_club228966716",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "greenpapan_blog",
+"link": "https://vk.ru/storieswall-51070170_9362",
+"date": "28.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+21400.0,
+1,
+1.0,
+2600.0,
+119.0,
+1,
+1614,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_greenpapan_blog",
+"ckey": [
+"cont",
+"t32"
+],
+"reach": 29091.0,
+"subs": 10200.0,
+"day": "2026-09-28",
+"utmp": {
+"camp": "vendor_org_4202727_greenpapan_blog",
+"cont": "t32",
+"src": "vk",
+"med": "blog"
+},
+"src": "api",
+"shared": {
+"key": "t32",
+"n": 5,
+"o": 40
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Марина и Вовчик",
+"link": "https://max.ru/marina_vovchik/AaDlhqisREU",
+"date": "28.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+839.0,
+0,
+0,
+0,
+11.0,
+1,
+0,
+0
+]
+],
+"est": false,
+"scn": "t32",
+"camp": "vendor_org_4202727_marina_vovchik",
+"ckey": [
+"camp",
+"vendor_org_4202727_marina_vovchik"
+],
+"reach": 2563.0,
+"subs": 6000.0,
+"day": "2026-09-28",
+"utmp": {
+"camp": "vendor_org_4202727_marina_vovchik",
+"cont": "t32",
+"src": "max",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "papa.optimist.offical",
+"link": "https://vk.ru/papa.optimist.offical?z=137273932_457239331%2Falbum-137273932_0%2Frev",
+"date": "29.09",
+"tag": "utm",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+21400.0,
+5,
+4.0,
+11300.0,
+98.0,
+1,
+9929,
+0
+]
+],
+"est": false,
+"scn": "t31",
+"camp": "vendor_org_4202727_papa.optimist.offical",
+"ckey": [
+"camp",
+"vendor_org_4202727_papa.optimist.offical"
+],
+"reach": 24902.0,
+"subs": 15900.0,
+"day": "2026-09-29",
+"utmp": {
+"camp": "vendor_org_4202727_papa.optimist.offical",
+"cont": "t31",
+"src": "vk",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "TikTok",
+"act": "Инфлюенс-посев",
+"name": "viktorlife24",
+"link": "https://vt.tiktok.com/ZSbAYA7vJ/",
+"date": "29.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+53500.0,
+0,
+0,
+0,
+0,
+1,
+0,
+0
+]
+],
+"est": true,
+"scn": "v1",
+"camp": null,
+"ckey": null,
+"reach": 32100.0,
+"subs": 33000.0,
+"day": "2026-09-29",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "syilers2019",
+"link": "https://max.ru/syilers2019/AaDsKHTAHUQ",
+"date": "28.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+16350.0,
+0,
+0,
+0,
+0,
+1,
+0,
+0
+]
+],
+"est": true,
+"scn": "t31",
+"camp": null,
+"ckey": null,
+"reach": 0,
+"subs": 16912.0,
+"day": "2026-09-28",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Канал не указан",
+"act": "Инфлюенс-посев",
+"name": "life_cts",
+"link": "https://vk.ru/wall-235741278_947",
+"date": "28.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+16050.0,
+0,
+0,
+0,
+0,
+1,
+0,
+0
+]
+],
+"est": true,
+"scn": "t31",
+"camp": null,
+"ckey": null,
+"reach": 49700.0,
+"subs": 11200.0,
+"day": "2026-09-28",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "official.semenov",
+"link": "https://vk.ru/clip-231449213_456239416?c=1",
+"date": "29.09",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+38300.0,
+0,
+0,
+0,
+0,
+1,
+0,
+0
+]
+],
+"est": true,
+"scn": "v5",
+"camp": "1",
+"ckey": [
+"camp",
+"1"
+],
+"reach": 89800.0,
+"subs": 33800.0,
+"day": "2026-09-29",
+"utmp": {
+"camp": "1"
+},
+"shared": {
+"key": "1",
+"n": 2,
+"o": 1.0
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Сайт trigger-fish.ru",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Охота и Рыбалка | Рыболовно Охотничье - Братст",
+"link": "https://vk.ru/wall-214025433_411359",
+"date": "01.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+571.0,
+0,
+0,
+0,
+29.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 11933.0,
+"subs": 160900.0,
+"day": "2026-09-01",
+"utmp": {},
+"src": "tilda"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Сайт trigger-fish.ru",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка на Руси",
+"link": "https://vk.ru/wall-93717228_96666",
+"date": "01.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+142.0,
+0,
+0,
+0,
+7.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 1522.0,
+"subs": 30300.0,
+"day": "2026-09-01",
+"utmp": {},
+"src": "tilda"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбацкий канал | Рыбалка",
+"link": "https://max.ru/ribalka_fishing24/AaBc19PkI_8",
+"date": "01.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+3776.0,
+0.0,
+0.0,
+0,
+19.0,
+1,
+0.0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 4900.0,
+"subs": 19428.0,
+"day": "2026-09-01",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Сайт trigger-fish.ru",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка в Ростове и Ростовской области",
+"link": "https://vk.ru/wall-2426451_892047",
+"date": "02.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+3571.0,
+0,
+0,
+0,
+83.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t2",
+"camp": null,
+"ckey": [
+"cont",
+"rubalka"
+],
+"reach": 12002.0,
+"subs": 60900.0,
+"day": "2026-09-02",
+"utmp": {
+"cont": "rubalka",
+"src": "vk",
+"med": "cpc"
+},
+"src": "tilda"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Сайт trigger-fish.ru",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Рыболовный клуб \"БерФишинг\"",
+"link": "https://vk.ru/wall-151125921_286672",
+"date": "02.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+141.0,
+0,
+0,
+0,
+43.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t2",
+"camp": null,
+"ckey": [
+"cont",
+"berfish"
+],
+"reach": 6625.0,
+"subs": 15300.0,
+"day": "2026-09-02",
+"utmp": {
+"cont": "berfish",
+"src": "vk",
+"med": "cpc"
+},
+"src": "tilda"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка в Ростове | РВР",
+"link": "https://max.ru/rybalkavrostove/AaBr13rTGkA",
+"date": "04.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+2097.0,
+0,
+0.0,
+0,
+147.0,
+1,
+171,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": "vendor_org_4202727",
+"ckey": [
+"src",
+"ybalkavrostove/max"
+],
+"reach": 1881.0,
+"subs": 2755.0,
+"day": "2026-09-04",
+"utmp": {
+"camp": "vendor_org_4202727",
+"src": "ybalkavrostove",
+"med": "max"
+},
+"camp0": "vendor_org_4202727",
+"src": "api",
+"shared": {
+"key": "vendor_org_4202727",
+"n": 7,
+"o": 1
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка",
+"link": "https://max.ru/telefishing/AaBsTBdXFIk",
+"date": "04.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+3216.0,
+0,
+0.0,
+0,
+105.0,
+1,
+171,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": "vendor_org_4202727",
+"ckey": [
+"src",
+"telefishing/max"
+],
+"reach": 3954.0,
+"subs": 26500.0,
+"day": "2026-09-04",
+"utmp": {
+"camp": "vendor_org_4202727",
+"src": "telefishing",
+"med": "max"
+},
+"camp0": "vendor_org_4202727",
+"src": "api",
+"shared": {
+"key": "vendor_org_4202727",
+"n": 7,
+"o": 1
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Клёвое место",
+"link": "https://max.ru/c/-72893882017859/AaBsFnS0DEA",
+"date": "05.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+5944.0,
+0,
+0.0,
+0,
+301.0,
+1,
+171,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": "vendor_org_4202727",
+"ckey": [
+"src",
+"klevoe_mesto/max"
+],
+"reach": 6746.0,
+"subs": 34500.0,
+"day": "2026-09-05",
+"utmp": {
+"camp": "vendor_org_4202727",
+"src": "klevoe_mesto",
+"med": "max"
+},
+"camp0": "vendor_org_4202727",
+"src": "api",
+"shared": {
+"key": "vendor_org_4202727",
+"n": 7,
+"o": 1
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "YouTube",
+"act": "Инфлюенс-посев",
+"name": "Ribachim Inache",
+"link": "https://youtu.be/9leqZjgtqlI?si=1fs6DinrjEVcCrbb",
+"date": "05.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+7500.0,
+4,
+0.0,
+0,
+43.0,
+1,
+4800,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "V4",
+"camp": "vendor_org_4202727_ribachim_inache",
+"ckey": [
+"camp",
+"vendor_org_4202727_ribachim_inache"
+],
+"reach": 7901.0,
+"subs": 89000.0,
+"day": "2026-09-05",
+"utmp": {
+"camp": "vendor_org_4202727_ribachim_inache",
+"term": "050926_m1",
+"src": "youtube",
+"med": "video"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка в Нижнем Новгороде",
+"link": "https://max.ru/channel_Rybalka_52/AaBtr26iVc8",
+"date": "05.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+755.0,
+0,
+0.0,
+0,
+30.0,
+1,
+171,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": "vendor_org_4202727",
+"ckey": [
+"src",
+"Rybalka_52/max"
+],
+"reach": 654.0,
+"subs": 1381.0,
+"day": "2026-09-05",
+"utmp": {
+"camp": "vendor_org_4202727",
+"src": "Rybalka_52",
+"med": "max"
+},
+"camp0": "vendor_org_4202727",
+"src": "api",
+"shared": {
+"key": "vendor_org_4202727",
+"n": 7,
+"o": 1
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка Урал",
+"link": "https://max.ru/Rybalka_Ural/AaBsSJ4ZcEA",
+"date": "05.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+559.0,
+0.0,
+0.0,
+0,
+18.0,
+1,
+0.0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t3",
+"camp": null,
+"ckey": null,
+"reach": 479.0,
+"subs": 1124.0,
+"day": "2026-09-05",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Всем КЛЕВА!",
+"link": "https://max.ru/vsemkleva/AaBwVOQKUAA",
+"date": "05.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+713.0,
+0,
+0.0,
+0,
+16.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": "vendor_org_4202727_max",
+"ckey": [
+"cont",
+"m1_3_0409"
+],
+"reach": 537.0,
+"subs": 456.0,
+"day": "2026-09-05",
+"utmp": {
+"camp": "vendor_org_4202727_max",
+"cont": "m1_3_0409",
+"src": "vsemkleva",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_max",
+"src": "api",
+"shared": {
+"key": "max",
+"n": 2,
+"o": 0
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Лодочник",
+"link": "https://max.ru/lodka/AaBtGFk-DeA",
+"date": "05.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+839.0,
+0,
+0.0,
+0,
+41.0,
+1,
+171,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": "vendor_org_4202727",
+"ckey": [
+"src",
+"lodka/max"
+],
+"reach": 846.0,
+"subs": 1761.0,
+"day": "2026-09-05",
+"utmp": {
+"camp": "vendor_org_4202727",
+"src": "lodka",
+"med": "max"
+},
+"camp0": "vendor_org_4202727",
+"src": "api",
+"shared": {
+"key": "vendor_org_4202727",
+"n": 7,
+"o": 1
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Дневник рыбака | Рыбалка",
+"link": "https://max.ru/fish_journal/AaBs-GjTO-A",
+"date": "05.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+1006.0,
+0,
+0.0,
+0,
+24.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": "vendor_org_4202727_max",
+"ckey": [
+"camp",
+"vendor_org_4202727_max"
+],
+"reach": 1261.0,
+"subs": 5936.0,
+"day": "2026-09-05",
+"utmp": {
+"camp": "vendor_org_4202727_max"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Сайт trigger-fish.ru",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Порыбачим вместе, точка отрыва.",
+"link": "https://vk.ru/wall-231857780_531",
+"date": "06.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+357.0,
+0,
+0,
+0,
+0.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 81.0,
+"subs": 376.0,
+"day": "2026-09-06",
+"utmp": {},
+"src": "tilda"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "ТрофейНый 🎣",
+"link": "https://max.ru/trofeysaratov/AaBxcSGcPaA",
+"date": "06.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+1230.0,
+0,
+0.0,
+0,
+31.0,
+1,
+171,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t4",
+"camp": "vendor_org_4202727",
+"ckey": [
+"src",
+"trofeysaratov/max"
+],
+"reach": 796.0,
+"subs": 5300.0,
+"day": "2026-09-06",
+"utmp": {
+"camp": "vendor_org_4202727",
+"src": "trofeysaratov",
+"med": "max"
+},
+"camp0": "vendor_org_4202727",
+"src": "api",
+"shared": {
+"key": "vendor_org_4202727",
+"n": 7,
+"o": 1
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "К-к-Клюёт!",
+"link": "https://max.ru/channel_kluet_fishing/AaBxA1EYWaA",
+"date": "06.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+469.0,
+1,
+0.0,
+0,
+56.0,
+1,
+174,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t4",
+"camp": "vendor_org_4202727",
+"ckey": [
+"src",
+"kluet_fishing/max"
+],
+"reach": 679.0,
+"subs": 3686.0,
+"day": "2026-09-06",
+"utmp": {
+"camp": "vendor_org_4202727",
+"src": "kluet_fishing",
+"med": "max"
+},
+"camp0": "vendor_org_4202727",
+"src": "api",
+"shared": {
+"key": "vendor_org_4202727",
+"n": 7,
+"o": 1
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Астраханская рыбалка и охота",
+"link": "https://max.ru/astrafishing30/AaBxA0SobaA",
+"date": "06.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+2643.0,
+0,
+0.0,
+0,
+92.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t4",
+"camp": "vendor_org_4202727_max",
+"ckey": [
+"src",
+"strafishing30/cpc"
+],
+"reach": 3334.0,
+"subs": 7689.0,
+"day": "2026-09-06",
+"utmp": {
+"camp": "vendor_org_4202727_max",
+"src": "strafishing30",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_max",
+"src": "api",
+"shared": {
+"key": "max",
+"n": 2,
+"o": 0
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Сайт trigger-fish.ru",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Улов Рыболов",
+"link": "https://vk.ru/wall-229964760_10351",
+"date": "06.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+7142.0,
+0,
+0,
+0,
+8.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t4",
+"camp": null,
+"ckey": null,
+"reach": 2620.0,
+"subs": 15700.0,
+"day": "2026-09-06",
+"utmp": {},
+"src": "tilda"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Сайт trigger-fish.ru",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка в г.Россошь и Черноземье",
+"link": "https://vk.ru/wall-106803333_127676",
+"date": "07.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+142.0,
+0,
+0,
+0,
+1.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 226.0,
+"subs": 15499.0,
+"day": "2026-09-07",
+"utmp": {},
+"src": "tilda"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Егор Рыбак Гришин",
+"link": "https://vk.ru/wall-226872833_346679",
+"date": "07.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+21200.0,
+0,
+0.0,
+0,
+15.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": "vendor_org_4202727_egorrybak57",
+"ckey": [
+"camp",
+"vendor_org_4202727_egorrybak57"
+],
+"reach": 62700.0,
+"subs": 416000.0,
+"day": "2026-09-07",
+"utmp": {
+"camp": "vendor_org_4202727_egorrybak57",
+"term": "m1",
+"src": "vk",
+"med": "video"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Отчёты Рыбалка СПб",
+"link": "https://t.me/fishingspb1/64489",
+"date": "09.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+600.0,
+0,
+0.0,
+0.0,
+8.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t1",
+"camp": "vendor_org_4202727_fishingspb1",
+"ckey": [
+"camp",
+"vendor_org_4202727_fishingspb1"
+],
+"reach": 1331.0,
+"subs": 18855.0,
+"day": "2026-09-09",
+"utmp": {
+"camp": "vendor_org_4202727_fishingspb1",
+"src": "telegram",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "РЫБАЛКА В МОСКВЕ И ПОДМОСКОВЬЕ",
+"link": "https://t.me/rubalkamoskva/43687",
+"date": "09.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+600.0,
+0,
+0.0,
+0,
+8.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": "vendor_org_4202727_rubalkamoskva",
+"ckey": [
+"camp",
+"vendor_org_4202727_rubalkamoskva"
+],
+"reach": 1241.0,
+"subs": 8700.0,
+"day": "2026-09-09",
+"utmp": {
+"camp": "vendor_org_4202727_rubalkamoskva",
+"src": "telegram",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "КАРЕЛЬСКАЯ РЫБАЛКА",
+"link": "https://t.me/karelian_fishing/13648",
+"date": "09.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+600.0,
+0,
+0.0,
+0,
+14.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": "vendor_org_4202727_karelian_fishing",
+"ckey": [
+"camp",
+"vendor_org_4202727_karelian_fishing"
+],
+"reach": 395.0,
+"subs": 3100.0,
+"day": "2026-09-09",
+"utmp": {
+"camp": "vendor_org_4202727_karelian_fishing",
+"src": "telegram",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "egor_moskvich",
+"link": "https://vk.ru/wall-223529843_13837",
+"date": "09.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+32100.0,
+2,
+2.0,
+2800.0,
+34.0,
+1,
+2400,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t2",
+"camp": "vendor_org_4202727_egor_moskvich",
+"ckey": [
+"camp",
+"vendor_org_4202727_egor_moskvich"
+],
+"reach": 47900.0,
+"subs": 41700.0,
+"day": "2026-09-09",
+"utmp": {
+"camp": "vendor_org_4202727_egor_moskvich",
+"src": "vk",
+"med": "video"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка | Рыбанутые | Охота | Туризм",
+"link": "https://max.ru/rybanutyye/AaCL1VXXb6k",
+"date": "13.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+15000.0,
+21,
+17.0,
+21233.0,
+264.0,
+1,
+26787,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": "vendor_org_4202727_rybanutyye",
+"ckey": [
+"term",
+"m_1_4"
+],
+"reach": 16700.0,
+"subs": 37400.0,
+"day": "2026-09-13",
+"utmp": {
+"camp": "vendor_org_4202727_rybanutyye",
+"term": "m_1_4",
+"src": "blog",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_rybanutyye",
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Диалоги про рыбалку",
+"link": "https://max.ru/club220872293/AaCL1VHEJVk",
+"date": "10.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+4800.0,
+6,
+2.0,
+2498.0,
+66.0,
+1,
+7141,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t2",
+"camp": "vendor_org_4202727_club220872293",
+"ckey": [
+"camp",
+"vendor_org_4202727_club220872293"
+],
+"reach": 5000.0,
+"subs": 22900.0,
+"day": "2026-09-10",
+"utmp": {
+"camp": "vendor_org_4202727_club220872293",
+"term": "m1_4",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Люди у которых всегда клюет",
+"link": "https://vk.ru/wall-225676079_59447",
+"date": "10.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+53500.0,
+5,
+5.0,
+6190.0,
+39.0,
+1,
+6193,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": "vendor_org_4202727_vsegda_klyuyet",
+"ckey": [
+"camp",
+"vendor_org_4202727_vsegda_klyuyet"
+],
+"reach": 76486.0,
+"subs": 131431.0,
+"day": "2026-09-10",
+"utmp": {
+"camp": "vendor_org_4202727_vsegda_klyuyet",
+"src": "vk",
+"med": "video"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "AKTIVE FISHING",
+"link": "https://vk.ru/wall-227143597_1590",
+"date": "10.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+10700.0,
+0,
+0.0,
+0,
+6.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": "vendor_org_4202727_club227143597",
+"ckey": [
+"camp",
+"vendor_org_4202727_club227143597"
+],
+"reach": 27634.0,
+"subs": 11500.0,
+"day": "2026-09-10",
+"utmp": {
+"camp": "vendor_org_4202727_club227143597",
+"term": "m1_3",
+"src": "vk",
+"med": "video"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Алиса в стране рыбаков",
+"link": "https://vk.ru/wall-230576737_16970",
+"date": "10.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+42800.0,
+7,
+7.0,
+9352.0,
+92.0,
+1,
+9347,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": "vendor_org_4202727_club230576737",
+"ckey": [
+"camp",
+"vendor_org_4202727_club230576737"
+],
+"reach": 102634.0,
+"subs": 37400.0,
+"day": "2026-09-10",
+"utmp": {
+"camp": "vendor_org_4202727_club230576737",
+"src": "vk",
+"med": "video"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка в МАКС",
+"link": "https://max.ru/club220872293/AaCL1VHEJVk",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3200.0,
+6.0,
+6.0,
+7140.0,
+85.0,
+1,
+7141.0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 0,
+"subs": 12965.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Бурундуки 63 - Рыбалка - Туризм - Отдых",
+"link": "https://vk.ru/wall-232670445_726",
+"date": "12.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+5000.0,
+1,
+0.0,
+0,
+4.0,
+1,
+1200,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": "vendor_org_4202727_club232670445",
+"ckey": [
+"camp",
+"vendor_org_4202727_club232670445"
+],
+"reach": 1515.0,
+"subs": 967.0,
+"day": "2026-09-12",
+"utmp": {
+"camp": "vendor_org_4202727_club232670445",
+"src": "vk",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Рыбацкое - Невский район",
+"link": "https://telegram.me/novosti_rybatskogo/8677",
+"date": "09.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+559.0,
+0,
+0,
+0,
+3.0,
+1,
+0,
+3.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 630.0,
+"subs": 4333.0,
+"day": "2026-09-09",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка с Just Hook Up",
+"link": "https://t.me/justhookup1010/1500",
+"date": "09.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+5594.0,
+0,
+0,
+0,
+0,
+1,
+0,
+168.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1456.0,
+"subs": 8563.0,
+"day": "2026-09-09",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Ультралайт Мормышинг Микроджиг - Рыбалка",
+"link": "https://telegram.me/ultraspin/36512",
+"date": "09.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2797.0,
+0,
+0,
+0,
+0,
+1,
+0,
+30.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 956.0,
+"subs": 5561.0,
+"day": "2026-09-09",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка",
+"link": "https://t.me/telefishing/9763",
+"date": "09.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+699.0,
+0,
+0,
+0,
+0,
+1,
+0,
+8.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 613.0,
+"subs": 14759.0,
+"day": "2026-09-09",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Сайт trigger-fish.ru",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Парни, которые всегда ловят! Рыбалка",
+"link": "https://vk.ru/wall-230805554_843",
+"date": "08.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1000.0,
+0,
+0,
+0,
+11.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": null,
+"ckey": null,
+"reach": 1274.0,
+"subs": 2567.0,
+"day": "2026-09-08",
+"utmp": {},
+"src": "tilda"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Сайт trigger-fish.ru",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка Про",
+"link": "https://vk.ru/wall-119682343_60725",
+"date": "08.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+357.0,
+0,
+0,
+0,
+4.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": null,
+"ckey": null,
+"reach": 1946.0,
+"subs": 25500.0,
+"day": "2026-09-08",
+"utmp": {},
+"src": "tilda"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Сайт trigger-fish.ru",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка в Липецке и Липецкой области",
+"link": "https://vk.ru/wall-47977000_13400",
+"date": "08.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+357.0,
+0,
+0,
+0,
+0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": null,
+"ckey": null,
+"reach": 2218.0,
+"subs": 6300.0,
+"day": "2026-09-08",
+"utmp": {},
+"src": "tilda"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Сайт trigger-fish.ru",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "ДОНСКИЕ РЫБАКИ",
+"link": "https://vk.ru/wall-225090979_5326",
+"date": "09.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1428.0,
+0,
+0,
+0,
+33.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": null,
+"ckey": null,
+"reach": 2005.0,
+"subs": 6000.0,
+"day": "2026-09-09",
+"utmp": {},
+"src": "tilda"
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Русская рыбалка 4 | Барахолка | РР4",
+"link": "https://telegram.me/RussianFishBaraxolka/8292",
+"date": "09.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+249.0,
+0,
+0,
+0,
+0,
+1,
+0,
+2.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 236.0,
+"subs": 3629.0,
+"day": "2026-09-09",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Русская рыбалка 4. Crazy F&T",
+"link": "https://telegram.me/rf4crazyft/80144",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+391.0,
+0,
+0,
+0,
+0,
+1,
+0,
+9.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 698.0,
+"subs": 11620.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Русская рыбалка 4 / Точки клёва РР4",
+"link": "https://telegram.me/RussianFishRR4/73086",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+499.0,
+0,
+0,
+0,
+0,
+1,
+0,
+5.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 808.0,
+"subs": 12215.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Диалоги про рыбалку | Рыбалка",
+"link": "https://telegram.me/rf4crazyft/80144",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1538.0,
+0,
+0,
+0,
+0,
+1,
+0,
+16.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1209.0,
+"subs": 38217.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Рыбацкий канал. Рыбалка",
+"link": "https://telegram.me/rybalka_kanal_fishing/16144",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+4895.0,
+0,
+0,
+0,
+0,
+1,
+0,
+83.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 6103.0,
+"subs": 108336.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Рыбанутые-Рыбалка",
+"link": "https://telegram.me/rybanutyye/11538",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1538.0,
+0,
+0,
+0,
+0,
+1,
+0,
+36.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1104.0,
+"subs": 43317.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "РЫБАЛКА РОСТОВ И ОБЛАСТЬ🐟",
+"link": "https://telegram.me/Rostov_Fishing/11148",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2097.0,
+0,
+0,
+0,
+0,
+1,
+0,
+22.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1809.0,
+"subs": 6435.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Рыбаки Майкопа. Рыбалка в Майкопе",
+"link": "https://telegram.me/Ribalka_Maykop/17738",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1398.0,
+0,
+0,
+0,
+0,
+1,
+0,
+13.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1222.0,
+"subs": 3639.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Астраханская рыбалка и охота",
+"link": "https://telegram.me/astrafishing30/11025",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1398.0,
+0,
+0,
+0,
+0,
+1,
+0,
+36.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1255.0,
+"subs": 10312.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "РЫБАКИ КУБАНЬ🪝АДЫГЕЯ | ОТЧЕТЫ",
+"link": "https://telegram.me/Fishing_Kuban_Adygea/24822",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+699.0,
+0,
+0,
+0,
+0,
+1,
+0,
+19.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 707.0,
+"subs": 12514.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "РЫБАЛКА В МОСКВЕ И ПОДМОСКОВЬЕ",
+"link": "https://telegram.me/rubalkamoskva/43703",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+692.0,
+0,
+0,
+0,
+0,
+1,
+0,
+85.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 816.0,
+"subs": 8775.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Рыбанутый | Рыбалка",
+"link": "https://telegram.me/fishercl/5229",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2265.0,
+0,
+0,
+0,
+0,
+1,
+0,
+44.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1806.0,
+"subs": 22216.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Огород и дача - большая удача!",
+"link": "https://telegram.me/ogorodidacha/8491",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1328.0,
+0,
+0,
+0,
+0,
+1,
+0,
+5.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1046.0,
+"subs": 43840.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Русская рыбалка 4 / Включите клёв!",
+"link": "https://t.me/RF4_Vkluchite_klev/45979",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+839.0,
+0,
+0,
+0,
+0,
+1,
+0,
+2.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 457.0,
+"subs": 7016.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Сайт trigger-fish.ru",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка Псковского Региона",
+"link": "https://vk.ru/wall-196696134_51066",
+"date": "10.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+714.0,
+0,
+0,
+0,
+12.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": null,
+"ckey": null,
+"reach": 0,
+"subs": 0,
+"day": "2026-09-10",
+"utmp": {},
+"src": "tilda"
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Диалоги про рыбалку | Рыбалка",
+"link": "https://telegram.me/+L2e_5UlGpMw0M2My",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1538.0,
+0,
+0,
+0,
+0,
+1,
+0,
+14.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1729.0,
+"subs": 38174.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "На даче пригодится!",
+"link": "https://telegram.me/Nadacheprigoditca/13514",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1818.0,
+0,
+0,
+0,
+0,
+1,
+0,
+9.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 953.0,
+"subs": 20143.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Машериша (Masherisha)",
+"link": "https://telegram.me/masherisha_art/2499",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3216.0,
+0,
+0,
+0,
+0,
+1,
+0,
+28.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 2739.0,
+"subs": 8374.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Our Flow 🌷 Цветы для всех",
+"link": "https://telegram.me/ourflowe/2510",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+447.0,
+0,
+0,
+0,
+0,
+1,
+0,
+14.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 406.0,
+"subs": 2146.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Отчёты Рыбалка СПб",
+"link": "https://telegram.me/fishingspb1/64502",
+"date": "10.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+990.0,
+0,
+0,
+0,
+0,
+1,
+0,
+47.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1200.0,
+"subs": 12415.0,
+"day": "2026-09-10",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Мы и природа|We and nature🌎",
+"link": "https://telegram.me/we_and_nature/16940",
+"date": "11.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1398.0,
+0,
+0,
+0,
+0,
+1,
+0,
+6.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1978.0,
+"subs": 12512.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Лена по делу",
+"link": "https://telegram.me/lena_po_dely/1623",
+"date": "11.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1818.0,
+0,
+0,
+0,
+0,
+1,
+0,
+46.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1878.0,
+"subs": 17193.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Nika Zubra & Comandante Yoll",
+"link": "https://telegram.me/nika_zubra/23248",
+"date": "11.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+5594.0,
+0,
+0,
+0,
+0,
+1,
+0,
+26.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 5898.0,
+"subs": 27476.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "ИЗ ГОРОДА В ДЕРЕВНЮ",
+"link": "https://t.me/izgorodavderevny/7283",
+"date": "11.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+839.0,
+0,
+0,
+0,
+0,
+1,
+0,
+1.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1192.0,
+"subs": 9244.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Цветы и растения",
+"link": "https://t.me/cvety_uhod/12119",
+"date": "11.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+839.0,
+0,
+0,
+0,
+0,
+1,
+0,
+9.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 794.0,
+"subs": 21189.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Цветы Мира",
+"link": "https://telegram.me/world_plants/7874",
+"date": "11.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+699.0,
+0,
+0,
+0,
+0,
+1,
+0,
+22.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1723.0,
+"subs": 17988.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Комнатные растения",
+"link": "https://t.me/ogorod_ot_nevzgod/357",
+"date": "11.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1258.0,
+0,
+0,
+0,
+0,
+1,
+0,
+24.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 988.0,
+"subs": 14393.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка-Казань-Fishing",
+"link": "https://telegram.me/rybalka_kazan_fishing/1156301",
+"date": "11.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1818.0,
+0,
+0,
+0,
+0,
+1,
+0,
+47.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 1998.0,
+"subs": 10984.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Kazanfisher - рыболовный клуб.Рыбалка, Казань,",
+"link": "https://telegram.me/kazanfisher_team/2142",
+"date": "11.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+559.0,
+0,
+0,
+0,
+0,
+1,
+0,
+15.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 509.0,
+"subs": 2411.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Русская Рыбалка 4 • Фарм • Троф • Мальцевидзе",
+"link": "https://telegram.me/pp4farmtrof/194400",
+"date": "11.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1118.0,
+0,
+0,
+0,
+0,
+1,
+0,
+17.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 554.0,
+"subs": 15521.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Сообщество Сахалинских рыбаков",
+"link": "https://telegram.me/+ZdtF1m2QOMMzMGYy",
+"date": "11.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1006.0,
+0,
+0,
+0,
+0,
+1,
+0,
+13.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 2006.0,
+"subs": 5630.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "ДАЧНИКИ объявления Мга • 45 км • Горы • Келкол",
+"link": "https://t.me/avito_dacha/17306",
+"date": "11.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+769.0,
+0,
+0,
+0,
+0,
+1,
+0,
+8.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 703.0,
+"subs": 3837.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "🎣 Рыбалка Сахалин ДВ",
+"link": "https://t.me/rybalkasakhalin/18267",
+"date": "11.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3496.0,
+0,
+0,
+0,
+0,
+1,
+0,
+13.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 2300.0,
+"subs": 16565.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Анархия Чат | Crazy F&T Русская рыбалка 4",
+"link": "https://telegram.me/anarchyCFT/2703042",
+"date": "11.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+293.0,
+0,
+0,
+0,
+0,
+1,
+0,
+9.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 556.0,
+"subs": 1927.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Промысловик AleX",
+"link": "https://t.me/PromyslovikAlexs/8467",
+"date": "11.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3076.0,
+0,
+0,
+0,
+0,
+1,
+0,
+14.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 2700.0,
+"subs": 10950.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка на фидер в СПб",
+"link": "https://telegram.me/feeder_spb/10584",
+"date": "11.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+377.0,
+0,
+0,
+0,
+0,
+1,
+0,
+24.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 532.0,
+"subs": 2797.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Рыбаки ДВ | рыбалка на Дальнем Востоке",
+"link": "https://telegram.me/rybakidv/30684",
+"date": "11.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+979.0,
+0,
+0,
+0,
+0,
+1,
+0,
+6.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 1100.0,
+"subs": 13701.0,
+"day": "2026-09-11",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "YouTube",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка с Дрюней",
+"link": "https://youtu.be/R3q3sui6k-U?si=_MpYbGfULobnh0e5",
+"date": "13.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+28750.0,
+5,
+5.0,
+7450.0,
+157.0,
+1,
+7454,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "V2",
+"camp": "vendor_org_4202727_drunea11",
+"ckey": [
+"camp",
+"vendor_org_4202727_drunea11"
+],
+"reach": 20000.0,
+"subs": 37400.0,
+"day": "2026-09-13",
+"utmp": {
+"camp": "vendor_org_4202727_drunea11",
+"term": "130926_m1",
+"src": "youtube",
+"med": "video"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка Донецк ДНР",
+"link": "https://t.me/rybalka_dnr/4674",
+"date": "12.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2097.0,
+0,
+0,
+0,
+0,
+1,
+0,
+122.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 5300.0,
+"subs": 15554.0,
+"day": "2026-09-12",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Сайт trigger-fish.ru",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Рыбанутые",
+"link": "https://vk.ru/wall-181975310_344645",
+"date": "12.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+357.0,
+0,
+0,
+0,
+21.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": null,
+"ckey": null,
+"reach": 1551.0,
+"subs": 72100.0,
+"day": "2026-09-12",
+"utmp": {},
+"src": "tilda"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Сайт trigger-fish.ru",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка в Калининграде и области - РЫБАЛТИКА",
+"link": "https://vk.ru/wall-130046921_20245",
+"date": "13.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+714.0,
+0,
+0,
+0,
+19.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t3",
+"camp": null,
+"ckey": null,
+"reach": 3065.0,
+"subs": 15300.0,
+"day": "2026-09-13",
+"utmp": {},
+"src": "tilda"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Грибы и рыбалка в Подмосковье",
+"link": "https://max.ru/club187241993/AaCeu90lPgM",
+"date": "14.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1118.0,
+1,
+1.0,
+1300.0,
+14.0,
+1,
+1300,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_max_m1",
+"ckey": [
+"term",
+"club187241993"
+],
+"reach": 1207.0,
+"subs": 3791.0,
+"day": "2026-09-14",
+"utmp": {
+"camp": "vendor_org_4202727_max_m1",
+"term": "club187241993",
+"src": "site",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_max_m1",
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Охота и рыбалка",
+"link": "https://max.ru/udachnaya_rybalca/AaCeqiG5BXY",
+"date": "14.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+5594.0,
+0,
+0.0,
+0.0,
+21.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_max_m1",
+"ckey": [
+"term",
+"udachnaya_rybalca"
+],
+"reach": 5850.0,
+"subs": 19166.0,
+"day": "2026-09-14",
+"utmp": {
+"camp": "vendor_org_4202727_max_m1",
+"term": "udachnaya_rybalca",
+"src": "blog",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_max_m1",
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Мы и природа|We and nature",
+"link": "https://max.ru/we_and_nature/AaCgikGxAcM",
+"date": "15.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1888.0,
+0,
+1.0,
+1300.0,
+23.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_max_m1",
+"ckey": [
+"term",
+"we_and_nature"
+],
+"reach": 4003.0,
+"subs": 7099.0,
+"day": "2026-09-15",
+"utmp": {
+"camp": "vendor_org_4202727_max_m1",
+"term": "we_and_nature",
+"src": "blog",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_max_m1",
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "РЫБАКИ СТАВРОПОЛЬЯ",
+"link": "https://max.ru/Fishing_Stavropol/AaCegr08VAM",
+"date": "14.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+629.0,
+5,
+5.0,
+6300.0,
+47.0,
+1,
+6300,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_max_m1",
+"ckey": [
+"term",
+"Fishing_Stavropol"
+],
+"reach": 1140.0,
+"subs": 4191.0,
+"day": "2026-09-14",
+"utmp": {
+"camp": "vendor_org_4202727_max_m1",
+"term": "Fishing_Stavropol",
+"src": "blog",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_max_m1",
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Простая Рыбалка 🐟",
+"link": "https://max.ru/zvuksekta/AaCeu-nvYgM",
+"date": "14.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+293.0,
+0,
+0.0,
+0.0,
+6.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_max_m1",
+"ckey": [
+"term",
+"zvuksekta"
+],
+"reach": 1396.0,
+"subs": 1625.0,
+"day": "2026-09-14",
+"utmp": {
+"camp": "vendor_org_4202727_max_m1",
+"term": "zvuksekta",
+"src": "blog",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_max_m1",
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "ОХОТА И РЫБАЛКА В ЯКУТИИ",
+"link": "https://max.ru/sakhahunter/AaCdbZpWOQQ",
+"date": "14.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+5594.0,
+0,
+0.0,
+0.0,
+7.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_max_m1",
+"ckey": [
+"term",
+"sakhahunter"
+],
+"reach": 4651.0,
+"subs": 9102.0,
+"day": "2026-09-14",
+"utmp": {
+"camp": "vendor_org_4202727_max_m1",
+"term": "sakhahunter",
+"src": "blog",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_max_m1",
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Душевная рыбалка",
+"link": "https://max.ru/sl_fishing/AaCeufQUegM",
+"date": "14.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1678.0,
+1,
+1.0,
+1300.0,
+27.0,
+1,
+1300,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_max_m1",
+"ckey": [
+"term",
+"sl_fishing"
+],
+"reach": 1129.0,
+"subs": 7533.0,
+"day": "2026-09-14",
+"utmp": {
+"camp": "vendor_org_4202727_max_m1",
+"term": "sl_fishing",
+"src": "blog",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_max_m1",
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Охота / Рыбалка / Отдых",
+"link": "https://max.ru/join/-MJhyPPkgreSIoYuLu0lh-AJuR-cShsiv9NjhUZbTuM",
+"date": "15.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2377.0,
+2,
+2.0,
+2600.0,
+39.0,
+1,
+2600,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_max_m1",
+"ckey": [
+"src",
+"blog/cpc"
+],
+"reach": 2223.0,
+"subs": 9200.0,
+"day": "2026-09-15",
+"utmp": {
+"camp": "vendor_org_4202727_max_m1",
+"src": "blog",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_max_m1",
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка в Москве и Подмосковье",
+"link": "https://max.ru/channel_fishing_Moscow/AaChLwGhf8M",
+"date": "15.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1258.0,
+2,
+2.0,
+3650.0,
+42.0,
+1,
+3650,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_max_m1",
+"ckey": [
+"term",
+"fishing_Moscow"
+],
+"reach": 1244.0,
+"subs": 2424.0,
+"day": "2026-09-15",
+"utmp": {
+"camp": "vendor_org_4202727_max_m1",
+"term": "fishing_Moscow",
+"src": "blog",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_max_m1",
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "С полем! | Охота и рыбалка",
+"link": "https://max.ru/join/TAz62IvarhreupeVWAwOLTP6R8EY_0-2O7jKs9CK0tM",
+"date": "14.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+293.0,
+0,
+1.0,
+1300.0,
+12.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_max_m1",
+"ckey": [
+"term",
+"TAz62IvarhreupeVWAwOLTP6R8EY_0-2O7jKs9CK0tM"
+],
+"reach": 794.0,
+"subs": 2301.0,
+"day": "2026-09-14",
+"utmp": {
+"camp": "vendor_org_4202727_max_m1",
+"term": "TAz62IvarhreupeVWAwOLTP6R8EY_0-2O7jKs9CK0tM",
+"src": "blog",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_max_m1",
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка и Отдых",
+"link": "https://max.ru/se13290293_biz/AaCeTVMzDAM",
+"date": "14.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+349.0,
+0,
+0.0,
+0.0,
+23.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_max_m1",
+"ckey": [
+"term",
+"se13290293_biz"
+],
+"reach": 752.0,
+"subs": 1921.0,
+"day": "2026-09-14",
+"utmp": {
+"camp": "vendor_org_4202727_max_m1",
+"term": "se13290293_biz",
+"src": "blog",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_max_m1",
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка 25 - Рыбалка Приморский край и ДВ",
+"link": "https://max.ru/channel_Ribalka25/AaCdNvQqTAM",
+"date": "14.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1118.0,
+0,
+0.0,
+0.0,
+13.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_max_m1",
+"ckey": [
+"term",
+"channel_Ribalka25"
+],
+"reach": 1954.0,
+"subs": 1129.0,
+"day": "2026-09-14",
+"utmp": {
+"camp": "vendor_org_4202727_max_m1",
+"term": "channel_Ribalka25",
+"src": "blog",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_max_m1",
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "УДАЧНАЯ РЫБАЛКА",
+"link": "https://max.ru/rybalkaudachnaya/AaCerkLSaj4",
+"date": "14.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2797.0,
+4,
+3.0,
+3801.0,
+24.0,
+1,
+5329,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_max_m1",
+"ckey": [
+"term",
+"rybalkaudachnaya"
+],
+"reach": 1233.0,
+"subs": 7057.0,
+"day": "2026-09-14",
+"utmp": {
+"camp": "vendor_org_4202727_max_m1",
+"term": "rybalkaudachnaya",
+"src": "blog",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_max_m1",
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Макс Анапский",
+"link": "https://t.me/maksanapskii/23947",
+"date": "15.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3496.0,
+1,
+1.0,
+1300.0,
+15.0,
+1,
+1300,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t4",
+"camp": "vendor_org_4202727_maksanapskii",
+"ckey": [
+"camp",
+"vendor_org_4202727_maksanapskii"
+],
+"reach": 3548.0,
+"subs": 6800.0,
+"day": "2026-09-15",
+"utmp": {
+"camp": "vendor_org_4202727_maksanapskii",
+"term": "14_09_m1",
+"src": "telegram",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Алексей Жуковский",
+"link": "https://telegram.me/aliakseizhukouski/17517",
+"date": "14.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1765.0,
+0,
+0.0,
+0.0,
+8.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t4",
+"camp": "vendor_org_4202727_aliakseizhukouski",
+"ckey": [
+"camp",
+"vendor_org_4202727_aliakseizhukouski"
+],
+"reach": 2765.0,
+"subs": 6938.0,
+"day": "2026-09-14",
+"utmp": {
+"camp": "vendor_org_4202727_aliakseizhukouski",
+"term": "14_09_m1",
+"src": "telegram",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Военная сводка",
+"link": "https://telegram.me/Voennaja_svodka/20391",
+"date": "14.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+13986.0,
+3,
+4.0,
+5068.0,
+55.0,
+1,
+3800,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t4",
+"camp": "vendor_org_4202727_Voennaja_svodka",
+"ckey": [
+"camp",
+"vendor_org_4202727_Voennaja_svodka"
+],
+"reach": 23500.0,
+"subs": 180565.0,
+"day": "2026-09-14",
+"utmp": {
+"camp": "vendor_org_4202727_Voennaja_svodka",
+"term": "14_09_m1",
+"src": "telegram",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "ТОЧКИ КЛЁВА РУССКАЯ РЫБАЛКА 4",
+"link": "https://max.ru/rf4map/AaCkwGLubAw",
+"date": "15.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+489.0,
+0,
+0.0,
+0,
+10.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t5",
+"camp": "vendor_org_4202727_rf4map",
+"ckey": [
+"camp",
+"vendor_org_4202727_rf4map"
+],
+"reach": 1247.0,
+"subs": 6900.0,
+"day": "2026-09-15",
+"utmp": {
+"camp": "vendor_org_4202727_rf4map",
+"term": "max_15_09_m1",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбаки ДВ | рыбалка на Дальнем Востоке",
+"link": "https://max.ru/rybakidv/AaCng4PDO8w",
+"date": "16.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1398.0,
+0,
+0.0,
+0,
+8.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t5",
+"camp": "vendor_org_4202727_rybakidv",
+"ckey": [
+"camp",
+"vendor_org_4202727_rybakidv"
+],
+"reach": 1112.0,
+"subs": 2900.0,
+"day": "2026-09-16",
+"utmp": {
+"camp": "vendor_org_4202727_rybakidv",
+"term": "max_15_09_m1",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "МОЯ ДАЧА САД ОГОРОД",
+"link": "https://max.ru/izgorodavderevny/AaCmcOYnN7s",
+"date": "16.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+979.0,
+0,
+0.0,
+0,
+14.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t5",
+"camp": "vendor_org_4202727_izgorodavderevny",
+"ckey": [
+"camp",
+"vendor_org_4202727_izgorodavderevny"
+],
+"reach": 1741.0,
+"subs": 8000.0,
+"day": "2026-09-16",
+"utmp": {
+"camp": "vendor_org_4202727_izgorodavderevny",
+"term": "max_m1_15_09",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Донецк",
+"link": "https://max.ru/Donetsk_Detka/AaCqxKe8Z4w",
+"date": "16.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2097.0,
+0,
+1.0,
+1300.0,
+8.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t5",
+"camp": "vendor_org_4202727_Donetsk_Detka",
+"ckey": [
+"camp",
+"vendor_org_4202727_Donetsk_Detka"
+],
+"reach": 2293.0,
+"subs": 8700.0,
+"day": "2026-09-16",
+"utmp": {
+"camp": "vendor_org_4202727_Donetsk_Detka",
+"term": "max_m1_15_09",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Батя на Даче",
+"link": "https://max.ru/join/RsYvXIhAcs28ZYjx1GDjtbwyOTN2xXZ0YnLF78jfGHY",
+"date": "16.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2797.0,
+1,
+1.0,
+1300.0,
+9.0,
+1,
+1300,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t5",
+"camp": "vendor_org_4202727_batya_na_dache",
+"ckey": [
+"camp",
+"vendor_org_4202727_batya_na_dache"
+],
+"reach": 2919.0,
+"subs": 24100.0,
+"day": "2026-09-16",
+"utmp": {
+"camp": "vendor_org_4202727_batya_na_dache",
+"term": "max_m1_15_09",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Механик со Стажем",
+"link": "https://max.ru/join/MJcSVIhM6mK80nI-q_CGTCGftgGmi9f2euWkcQp00Yc",
+"date": "16.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+10489.0,
+2,
+9.0,
+11403.0,
+65.0,
+1,
+2600,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t5",
+"camp": "vendor_org_4202727_mehanik_so_stazhem",
+"ckey": [
+"camp",
+"vendor_org_4202727_mehanik_so_stazhem"
+],
+"reach": 18326.0,
+"subs": 39700.0,
+"day": "2026-09-16",
+"utmp": {
+"camp": "vendor_org_4202727_mehanik_so_stazhem",
+"term": "max_m1_15_09",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыболовная барахолка СПб. и ЛО",
+"link": "https://max.ru/snasti_bu_spb/AaCmcPGxDcw",
+"date": "16.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+469.0,
+0,
+0.0,
+0.0,
+7.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t5",
+"camp": "vendor_org_4202727_snasti_bu_spb",
+"ckey": [
+"camp",
+"vendor_org_4202727_snasti_bu_spb"
+],
+"reach": 412.0,
+"subs": 10000.0,
+"day": "2026-09-16",
+"utmp": {
+"camp": "vendor_org_4202727_snasti_bu_spb",
+"term": "max_m1_15_09",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка в Ростове на Дону | Ростовской области",
+"link": "https://max.ru/Rostov_Fisher/AaCmcP7PM8w",
+"date": "16.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1188.0,
+1,
+3.0,
+3600.0,
+53.0,
+1,
+1300,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t5",
+"camp": "vendor_org_4202727_Rostov_Fisher",
+"ckey": [
+"camp",
+"vendor_org_4202727_Rostov_Fisher"
+],
+"reach": 1911.0,
+"subs": 2100.0,
+"day": "2026-09-16",
+"utmp": {
+"camp": "vendor_org_4202727_Rostov_Fisher",
+"term": "max_m1_15_09",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Русская Рыбалка",
+"link": "https://max.ru/channel_rus_fishin/AaCkvgLBXgw",
+"date": "15.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1678.0,
+0,
+0.0,
+0.0,
+20.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t5",
+"camp": "vendor_org_4202727_channel_rus_fishin",
+"ckey": [
+"camp",
+"vendor_org_4202727_channel_rus_fishin"
+],
+"reach": 2098.0,
+"subs": 3000.0,
+"day": "2026-09-15",
+"utmp": {
+"camp": "vendor_org_4202727_channel_rus_fishin",
+"term": "max_m1_1509",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Жизнь в приволжской деревне 2.0",
+"link": "https://max.ru/channel_rus_fishin/AaCkvgLBXgw",
+"date": "17.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+9020.0,
+0,
+1.0,
+1529.0,
+53.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_privolgie116",
+"ckey": [
+"camp",
+"vendor_org_4202727_privolgie116"
+],
+"reach": 7912.0,
+"subs": 17016.0,
+"day": "2026-09-17",
+"utmp": {
+"camp": "vendor_org_4202727_privolgie116",
+"term": "max_1709",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Арсенал",
+"link": "https://max.ru/join/TvQLS0w4ME6NxyFNFjDJjcnKXkUrxNLCLkSdEVoL9gk",
+"date": "17.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+5034.0,
+1,
+3.0,
+3801.0,
+53.0,
+1,
+1529,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_arsenal",
+"ckey": [
+"camp",
+"vendor_org_4202727_arsenal"
+],
+"reach": 4496.0,
+"subs": 15500.0,
+"day": "2026-09-17",
+"utmp": {
+"camp": "vendor_org_4202727_arsenal",
+"term": "max_1709",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Сделано Руками",
+"link": "https://max.ru/join/Z7chQaJt8p5-nsPCNk8sYRpdyM8NwTfQU-HmTzZ0V0w",
+"date": "18.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+12857.0,
+1,
+0.0,
+0,
+22.0,
+1,
+1529,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_sdelano_rukami",
+"ckey": [
+"camp",
+"vendor_org_4202727_sdelano_rukami"
+],
+"reach": 19937.0,
+"subs": 30400.0,
+"day": "2026-09-18",
+"utmp": {
+"camp": "vendor_org_4202727_sdelano_rukami",
+"term": "max_1709",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Самодельная техника",
+"link": "https://max.ru/join/5oLcrtQvPyr_ciBlL2jvUs4TgNOKWX64aHUG0t2qmG0",
+"date": "18.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+6433.0,
+1,
+1.0,
+1529.0,
+24.0,
+1,
+1529,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_samodelnaya_tehnika",
+"ckey": [
+"camp",
+"vendor_org_4202727_samodelnaya_tehnika"
+],
+"reach": 7512.0,
+"subs": 23800.0,
+"day": "2026-09-18",
+"utmp": {
+"camp": "vendor_org_4202727_samodelnaya_tehnika",
+"term": "max_1709",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Teletehnik",
+"link": "https://max.ru/join/aQIK8oU6sFdQJSu7igCkIeu_CDyedoyLUJQPEh3ULOI",
+"date": "18.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+7552.0,
+2,
+2.0,
+3058.0,
+44.0,
+1,
+3129,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_Teletehnik",
+"ckey": [
+"camp",
+"vendor_org_4202727_Teletehnik"
+],
+"reach": 8247.0,
+"subs": 44100.0,
+"day": "2026-09-18",
+"utmp": {
+"camp": "vendor_org_4202727_Teletehnik",
+"term": "max_1709",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "В КУРСКОЙ ДЕРЕВНЕ",
+"link": "https://max.ru/ch_600bd9ea0424210ae70922c8/AaCuL5OYS6M",
+"date": "17.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+9790.0,
+1,
+0.0,
+0.0,
+36.0,
+1,
+1800,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_v_kurskoi_derevne",
+"ckey": [
+"camp",
+"vendor_org_4202727_v_kurskoi_derevne"
+],
+"reach": 15602.0,
+"subs": 12900.0,
+"day": "2026-09-17",
+"utmp": {
+"camp": "vendor_org_4202727_v_kurskoi_derevne",
+"term": "max_1709",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Жизнь между городом и дачей",
+"link": "https://max.ru/city_and_house/AaCz9jnRSEo",
+"date": "18.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+11328.0,
+0,
+0.0,
+0.0,
+38.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_city_and_house",
+"ckey": [
+"camp",
+"vendor_org_4202727_city_and_house"
+],
+"reach": 8980.0,
+"subs": 25100.0,
+"day": "2026-09-18",
+"utmp": {
+"camp": "vendor_org_4202727_city_and_house",
+"term": "max_1709",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Руки Мастера | Советы ТГ",
+"link": "https://telegram.me/ruki_mastera_sovety/1945",
+"date": "17.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+979.0,
+0,
+0,
+0,
+0,
+1,
+0,
+3.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1024.0,
+"subs": 9974.0,
+"day": "2026-09-17",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Жизнь в лесной деревне - СашаЛера",
+"link": "https://telegram.me/vderevnes/9477",
+"date": "19.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+839.0,
+0,
+0,
+0,
+0,
+1,
+0,
+21.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 3332.0,
+"subs": 4848.0,
+"day": "2026-09-19",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "ЦЕХ",
+"link": "https://t.me/c/1922772046/6537",
+"date": "18.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3356.0,
+0,
+0,
+0,
+0,
+1,
+0,
+91.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 5567.0,
+"subs": 41757.0,
+"day": "2026-09-18",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Лобня",
+"link": "https://telegram.me/lobnya/43412",
+"date": "18.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+4055.0,
+0,
+0,
+0,
+0,
+1,
+0,
+25.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 4157.0,
+"subs": 28707.0,
+"day": "2026-09-18",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Красноармейский Крафт",
+"link": "https://telegram.me/kraftyou/50335",
+"date": "18.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3636.0,
+0,
+0,
+0,
+0,
+1,
+0,
+35.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 3967.0,
+"subs": 18773.0,
+"day": "2026-09-18",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "НашаSтройка",
+"link": "https://telegram.me/nashastroika161/4141",
+"date": "17.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1678.0,
+0,
+0,
+0,
+0,
+1,
+0,
+7.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1971.0,
+"subs": 5412.0,
+"day": "2026-09-17",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Будни Натальи и Александра",
+"link": "https://t.me/budni_natali_aleksandr/7768",
+"date": "17.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+769.0,
+0,
+0,
+0,
+0,
+1,
+0,
+20.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 893.0,
+"subs": 3714.0,
+"day": "2026-09-17",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Мы тут крестиком вышиваем | Схемы в электронно",
+"link": "https://telegram.me/vishivaemtut/30446",
+"date": "17.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+559.0,
+0,
+0,
+0,
+0,
+1,
+0,
+2.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1444.0,
+"subs": 11194.0,
+"day": "2026-09-17",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Вязание - схемы и мастер-классы",
+"link": "https://telegram.me/mkVyazanie/33752",
+"date": "17.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+293.0,
+0,
+0,
+0,
+0,
+1,
+0,
+2.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 332.0,
+"subs": 14275.0,
+"day": "2026-09-17",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Вязание и рукоделие: УЗЕЛОК",
+"link": "https://telegram.me/uzelok_knit/16500",
+"date": "17.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+419.0,
+0,
+0,
+0,
+0,
+1,
+0,
+3.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1096.0,
+"subs": 10058.0,
+"day": "2026-09-17",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Вязание крючком. Crochet patterns",
+"link": "https://telegram.me/crochet_ing/4717",
+"date": "17.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+839.0,
+0,
+0,
+0,
+0,
+1,
+0,
+2.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 795.0,
+"subs": 12777.0,
+"day": "2026-09-17",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Дорога перемен. Семья Сабылиных на юге",
+"link": "https://telegram.me/sabylinaeladar/7932",
+"date": "18.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+849.0,
+0,
+0,
+0,
+0,
+1,
+0,
+2.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1123.0,
+"subs": 2518.0,
+"day": "2026-09-18",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Полезные РАЗВИВАШКИ Евгении",
+"link": "https://telegram.me/evgeniyalemasova/19402",
+"date": "18.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1778.0,
+0,
+0,
+0,
+0,
+1,
+0,
+7.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1146.0,
+"subs": 17313.0,
+"day": "2026-09-18",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Российское Качество",
+"link": "https://t.me/c/1945008246/1834",
+"date": "18.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+5314.0,
+0,
+0,
+0,
+0,
+1,
+0,
+27.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 5471.0,
+"subs": 63145.0,
+"day": "2026-09-18",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Мамы/Мамочки ДНР",
+"link": "https://t.me/mamavdnr/57522",
+"date": "18.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+909.0,
+0,
+0,
+0,
+0,
+1,
+0,
+11.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 1100.0,
+"subs": 15543.0,
+"day": "2026-09-18",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "gd",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Амигуруми - вязаные игрушки",
+"link": "https://t.me/amigurumchik/20812",
+"date": "18.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+657.0,
+0,
+0,
+0,
+0,
+1,
+0,
+8.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t1",
+"camp": null,
+"ckey": null,
+"reach": 979.0,
+"subs": 13655.0,
+"day": "2026-09-18",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "TikTok",
+"act": "Инфлюенс-посев",
+"name": "derevenski_parenek",
+"link": "https://vt.tiktok.com/ZSq764vEJ/",
+"date": "19.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+63600.0,
+41.0,
+39.0,
+30693.0,
+1869.0,
+1,
+32267.0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "V3",
+"camp": null,
+"ckey": null,
+"reach": 930000.0,
+"subs": 5200000.0,
+"day": "2026-09-19",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "На рыбалку с Ле",
+"link": "https://youtu.be/fcPBgKsHmfw?si=dy0LJ-QJv8u77J6p",
+"date": "21.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+53000.0,
+0,
+0.0,
+0,
+30.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "V2",
+"camp": "vendor_org_4202727_rybalkale",
+"ckey": [
+"camp",
+"vendor_org_4202727_rybalkale"
+],
+"reach": 7000.0,
+"subs": 425300.0,
+"day": "2026-09-21",
+"utmp": {
+"camp": "vendor_org_4202727_rybalkale",
+"term": "200926_m1",
+"src": "youtube",
+"med": "video"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Моя дача",
+"link": "https://max.ru/join/OYD5ieoRtXEi3U0yh1aPaO2FCTqWCdj19yiHrDBUYGk",
+"date": "23.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+23774.0,
+2,
+2.0,
+3058.0,
+150.0,
+1,
+3058,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_OYD5ieoRtXEi3U0yh1aPaO2FCTqWCdj19yiHrDBUYGk",
+"ckey": [
+"camp",
+"vendor_org_4202727_OYD5ieoRtXEi3U0yh1aPaO2FCTqWCdj19yiHrDBUYGk"
+],
+"reach": 37101.0,
+"subs": 604146.0,
+"day": "2026-09-23",
+"utmp": {
+"camp": "vendor_org_4202727_OYD5ieoRtXEi3U0yh1aPaO2FCTqWCdj19yiHrDBUYGk",
+"term": "max_m1_220926",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Татарин на Юге",
+"link": "https://telega.in/analytics/images/cebcb05ac6?screen=https%3A%2F%2Fstorage.yandexcloud.net%2Ftelega-stat-screenshots%2Fattachments%2Fscreenshot%2F7508398852523508595%2Fscreenshot.e688cc0c.jpg",
+"date": "22.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+559.0,
+0,
+0.0,
+0,
+6.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_tatarin23",
+"ckey": [
+"camp",
+"vendor_org_4202727_tatarin23"
+],
+"reach": 1009.0,
+"subs": 1820.0,
+"day": "2026-09-22",
+"utmp": {
+"camp": "vendor_org_4202727_tatarin23",
+"term": "max_m1_220926",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "АВТОХАКИ",
+"link": "https://max.ru/ruki_mastera_sovety/AaDH7WFZfHI",
+"date": "22.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2335.0,
+0,
+0.0,
+0,
+16.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_ruki_mastera_sovety",
+"ckey": [
+"camp",
+"vendor_org_4202727_ruki_mastera_sovety"
+],
+"reach": 1277.0,
+"subs": 4688.0,
+"day": "2026-09-22",
+"utmp": {
+"camp": "vendor_org_4202727_ruki_mastera_sovety",
+"term": "max_m1_220926",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Батькович",
+"link": "https://max.ru/ruki_mastera_sovety/AaDH7WFZfHI",
+"date": "22.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+13986.0,
+3,
+2.0,
+3058.0,
+115.0,
+1,
+4858,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_batka_ru",
+"ckey": [
+"camp",
+"vendor_org_4202727_batka_ru"
+],
+"reach": 22100.0,
+"subs": 45500.0,
+"day": "2026-09-22",
+"utmp": {
+"camp": "vendor_org_4202727_batka_ru",
+"term": "max_m1_220926",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Derevenski_parenek",
+"link": "https://vk.ru/clip-211368519_456242518?c=1",
+"date": "24.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+31800.0,
+13,
+9.0,
+15003.0,
+239.0,
+1,
+22021,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v2",
+"camp": "vendor_org_4202727_сlub211368519",
+"ckey": [
+"camp",
+"vendor_org_4202727_сlub211368519"
+],
+"reach": 66400.0,
+"subs": 257000.0,
+"day": "2026-09-24",
+"utmp": {
+"camp": "vendor_org_4202727_сlub211368519",
+"term": "m1_240926",
+"src": "vk",
+"med": "blog"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK (пост)",
+"act": "Инфлюенс-посев",
+"name": "Солнце на крючке",
+"link": "https://max.ru/channel_Solnce_na_kruchke_ultralight/AaDTCFyucH0",
+"date": "24.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0.0,
+0,
+0.0,
+0,
+2.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_Solnce_na_kruchke_ultralight",
+"ckey": [
+"camp",
+"vendor_org_4202727_Solnce_na_kruchke_ultralight"
+],
+"reach": 265.0,
+"subs": 7100.0,
+"day": "2026-09-24",
+"utmp": {
+"camp": "vendor_org_4202727_Solnce_na_kruchke_ultralight",
+"term": "max_m1_240926",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Solnce_na_kruchke_ultralight",
+"link": "https://vk.ru/wall-226729822_4587",
+"date": "24.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0.0,
+0,
+0.0,
+0,
+11.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": null,
+"camp": "vendor_org_4202727_club226729822",
+"ckey": [
+"term",
+"240926_m1"
+],
+"reach": 776.0,
+"subs": 498.0,
+"day": "2026-09-24",
+"utmp": {
+"camp": "vendor_org_4202727_club226729822",
+"term": "240926_m1",
+"src": "vk",
+"med": "blog"
+},
+"camp0": "vendor_org_4202727_club226729822",
+"src": "api",
+"shared": {
+"key": "240926_m1",
+"n": 2,
+"o": 1
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Dzen (пост)",
+"act": "Инфлюенс-посев",
+"name": "solnce_na_kruchke_ultralight",
+"link": "https://dzen.ru/b/arUCvUYkNx2FY860?share_to=link",
+"date": "24.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0.0,
+1,
+0,
+0,
+0.0,
+1,
+1800,
+0.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_solnce_na_kruchke_ultralight",
+"ckey": [
+"term",
+"240926_m1"
+],
+"reach": 17.0,
+"subs": 118.0,
+"day": "2026-09-24",
+"utmp": {
+"camp": "vendor_org_4202727_solnce_na_kruchke_ultralight",
+"term": "240926_m1",
+"src": "dzen",
+"med": "blog"
+},
+"camp0": "vendor_org_4202727_solnce_na_kruchke_ultralight",
+"src": "api",
+"shared": {
+"key": "240926_m1",
+"n": 2,
+"o": 1
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "YouTube",
+"act": "Инфлюенс-посев",
+"name": "Солнце на крючке",
+"link": "https://www.youtube.com/watch?v=y8Wu8lq9we0",
+"date": "27.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+16600.0,
+0,
+0,
+0,
+0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "v2",
+"camp": null,
+"ckey": null,
+"reach": 3400.0,
+"subs": 11400.0,
+"day": "2026-09-27",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK (ролик)",
+"act": "Инфлюенс-посев",
+"name": "Солнце на крючке",
+"link": "https://vkvideo.ru/video-226729822_456239677",
+"date": "27.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+5300.0,
+32,
+5.0,
+10855.0,
+35.0,
+1,
+61316,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v2",
+"camp": "vendor_org_4202727_club226729822",
+"ckey": [
+"term",
+"270926_m1"
+],
+"reach": 488.0,
+"subs": 7100.0,
+"day": "2026-09-27",
+"utmp": {
+"camp": "vendor_org_4202727_club226729822",
+"term": "270926_m1",
+"src": "vk",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_club226729822",
+"src": "api",
+"shared": {
+"key": "270926_m1",
+"n": 2,
+"o": 32
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Rutube",
+"act": "Инфлюенс-посев",
+"name": "Солнце на крючке",
+"link": "https://rutube.ru/video/53c1d681dd04b48722e3a17a2baa0fe6",
+"date": "27.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+5300.0,
+12,
+4.0,
+7200.0,
+30.0,
+1,
+22529,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v2",
+"camp": "vendor_org_4202727_channel25410100",
+"ckey": [
+"camp",
+"vendor_org_4202727_channel25410100"
+],
+"reach": 242.0,
+"subs": 2389.0,
+"day": "2026-09-27",
+"utmp": {
+"camp": "vendor_org_4202727_channel25410100",
+"term": "270926_m1",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Dzen (ролик)",
+"act": "Инфлюенс-посев",
+"name": "solnce_na_kruchke_ultralight",
+"link": "https://dzen.ru/video/watch/6ab69e9a87af81210c3e2eaf",
+"date": "27.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0.0,
+0,
+0.0,
+0,
+0.0,
+1,
+0,
+0.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v2",
+"camp": "vendor_org_4202727_solnce_na_kruchke_ultralight",
+"ckey": [
+"term",
+"270926_m1"
+],
+"reach": 23.0,
+"subs": 118.0,
+"day": "2026-09-27",
+"utmp": {
+"camp": "vendor_org_4202727_solnce_na_kruchke_ultralight",
+"term": "270926_m1",
+"src": "dzen",
+"med": "cpc"
+},
+"camp0": "vendor_org_4202727_solnce_na_kruchke_ultralight",
+"src": "api",
+"shared": {
+"key": "270926_m1",
+"n": 2,
+"o": 32
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "YouTube",
+"act": "Инфлюенс-посев",
+"name": "@just_hook_up",
+"link": "https://youtube.com/shorts/o9MwXD4ZssQ?si=sIwW2sel72LLTqLv6",
+"date": "27.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+11300.0,
+0,
+0.0,
+0,
+3.0,
+1,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v4",
+"camp": "vendor_org_4202727_just_hook_up",
+"ckey": [
+"term",
+"200926_m1"
+],
+"reach": 3700.0,
+"subs": 207000.0,
+"day": "2026-09-27",
+"utmp": {
+"camp": "vendor_org_4202727_just_hook_up",
+"term": "200926_m1",
+"src": "youtube",
+"med": "video"
+},
+"camp0": "vendor_org_4202727_just_hook_up",
+"src": "api",
+"shared": {
+"key": "200926_m1",
+"n": 2,
+"o": 1
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "@just_hook_up",
+"link": "https://vk.ru/wall-223331432_10243",
+"date": "27.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+5300.0,
+1,
+0,
+0,
+21.0,
+1,
+2729,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"scn": "v4",
+"camp": "vendor_org_4202727_just_hook_up",
+"ckey": [
+"term",
+"200926_m1"
+],
+"reach": 10100.0,
+"subs": 207000.0,
+"day": "2026-09-27",
+"utmp": {
+"camp": "vendor_org_4202727_just_hook_up",
+"term": "200926_m1",
+"src": "vk",
+"med": "video"
+},
+"camp0": "vendor_org_4202727_just_hook_up",
+"src": "api",
+"shared": {
+"key": "200926_m1",
+"n": 2,
+"o": 1
+}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "TikTok",
+"act": "Инфлюенс-посев",
+"name": "@justhookup",
+"link": "https://vt.tiktok.com/ZSb61DAFd/",
+"date": "27.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+5300.0,
+1.0,
+1.0,
+1222.0,
+9.0,
+1,
+1222.0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "v4",
+"camp": null,
+"ckey": null,
+"reach": 10900.0,
+"subs": 844000.0,
+"day": "2026-09-27",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "АЧЗС / Антон, а, че звал сларк?",
+"link": "https://t.me/acheslark/15802",
+"date": "24.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+419.0,
+0,
+0,
+0,
+0,
+1,
+0,
+5.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 111.0,
+"subs": 2843.0,
+"day": "2026-09-24",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "🐾Рыболовный | охотничий | рыбак | охотник | о ",
+"link": "https://t.me/ohota_rybalka_v_rossii/4103",
+"date": "24.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+419.0,
+0,
+0,
+0,
+0,
+1,
+0,
+3.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 799.0,
+"subs": 1606.0,
+"day": "2026-09-24",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Огород и дача - большая удача!",
+"link": "https://telegram.me/ogorodidacha/8511",
+"date": "24.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1129.0,
+0,
+0,
+0,
+0,
+1,
+0,
+4.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 1274.0,
+"subs": 43731.0,
+"day": "2026-09-24",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Отчеты с Рыбалок",
+"link": "https://telegram.me/otchety_s_rybalok/20101",
+"date": "24.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1818.0,
+0,
+0,
+0,
+0,
+1,
+0,
+11.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 323.0,
+"subs": 2886.0,
+"day": "2026-09-24",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Астрахань. Коротко",
+"link": "https://t.me/c/1488811469/5350",
+"date": "24.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+5594.0,
+0,
+0,
+0,
+0,
+1,
+0,
+18.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 2695.0,
+"subs": 37237.0,
+"day": "2026-09-24",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Супер Новости Новороссийска",
+"link": "https://t.me/novosti_novoross/91628",
+"date": "24.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+6153.0,
+0,
+0,
+0,
+0,
+1,
+0,
+122.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 6010.0,
+"subs": 74724.0,
+"day": "2026-09-24",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "ВЯТСКАЯ РЫБАЛКА - Киров и область",
+"link": "https://telegram.me/fishes_43/9154",
+"date": "24.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+839.0,
+0,
+0,
+0,
+0,
+1,
+0,
+19.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 454.0,
+"subs": 4288.0,
+"day": "2026-09-24",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Девяностые",
+"link": "https://t.me/Life90x/13660",
+"date": "24.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3356.0,
+0,
+0,
+0,
+0,
+1,
+0,
+3.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 3520.0,
+"subs": 53232.0,
+"day": "2026-09-24",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Black History",
+"link": "https://t.me/Black_History/15227",
+"date": "24.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3615.0,
+0,
+0,
+0,
+0,
+1,
+0,
+23.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 4914.0,
+"subs": 93658.0,
+"day": "2026-09-24",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "ДАЧНИКИ объявления Мга • Павлово • 45км • Горы",
+"link": "https://t.me/avito_dacha/17637",
+"date": "24.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+979.0,
+0,
+0,
+0,
+0,
+1,
+0,
+11.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 738.0,
+"subs": 3853.0,
+"day": "2026-09-24",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "PRO СВАРКУ",
+"link": "https://t.me/c/2625083120/1160",
+"date": "25.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+4055.0,
+0,
+0,
+0,
+0,
+1,
+0,
+14.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 2700.0,
+"subs": 11305.0,
+"day": "2026-09-25",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Краснодар рыбалка. Рыбаки Кубани",
+"link": "https://telegram.me/Ribaki_Kubani/380895",
+"date": "25.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2797.0,
+0,
+0,
+0,
+0,
+1,
+0,
+22.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 2944.0,
+"subs": 8944.0,
+"day": "2026-09-25",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Типичное Белово",
+"link": "https://telegram.me/vbelovo/26899",
+"date": "25.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1678.0,
+0,
+0,
+0,
+0,
+1,
+0,
+6.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 3990.0,
+"subs": 34116.0,
+"day": "2026-09-25",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Большая Кубань",
+"link": "https://telegram.me/big_kub/34131",
+"date": "25.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1258.0,
+0,
+0,
+0,
+0,
+1,
+0,
+36.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 1433.0,
+"subs": 60517.0,
+"day": "2026-09-25",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Воронеж VRN",
+"link": "https://t.me/vrn36v/39407",
+"date": "25.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2377.0,
+0,
+0,
+0,
+0,
+1,
+0,
+11.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 4400.0,
+"subs": 70539.0,
+"day": "2026-09-25",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "НВП ⚡️ Мужской ВБ",
+"link": "https://telegram.me/nahodki_Wildberriesy/10844",
+"date": "25.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3913.0,
+0,
+0,
+0,
+0,
+1,
+0,
+36.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 4960.0,
+"subs": 80011.0,
+"day": "2026-09-25",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Мегаполис | Питер - Городская сеть информирова",
+"link": "https://telegram.me/Megapolisonline/145900",
+"date": "25.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+6993.0,
+0,
+0,
+0,
+0,
+1,
+0,
+54.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 6800.0,
+"subs": 77413.0,
+"day": "2026-09-25",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "ЖИЗНЬ НА ЮГЕ",
+"link": "https://telegram.me/giznnauge/4818",
+"date": "25.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+979.0,
+0,
+0,
+0,
+0,
+1,
+0,
+1.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 733.0,
+"subs": 1508.0,
+"day": "2026-09-25",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка на Волге | Самарская рыбалка",
+"link": "https://telegram.me/samarafish/20448",
+"date": "25.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1118.0,
+0,
+0,
+0,
+0,
+1,
+0,
+54.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 500.0,
+"subs": 7007.0,
+"day": "2026-09-25",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Город Орёл",
+"link": "https://telegram.me/Megapolisonline/145900",
+"date": "25.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3496.0,
+0,
+0,
+0,
+0,
+1,
+0,
+29.0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 7490.0,
+"subs": 101832.0,
+"day": "2026-09-25",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "km",
+"plat": "Бот",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Ставрополь Перспективный",
+"link": "https://t.me/perspectiv26/25235",
+"date": "28.09",
+"tag": "none",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1671.0,
+0,
+0,
+0,
+0,
+1,
+0,
+26.0
+]
+],
+"est": true,
+"scn": "t2",
+"camp": null,
+"ckey": null,
+"reach": 1883.0,
+"subs": 10608.0,
+"day": "2026-09-28",
+"utmp": {}
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Домашний мастер",
+"link": "https://telegram.me/dom_mas/3853",
+"date": "29.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+23776.0,
+1,
+0,
+0,
+0,
+1,
+1800,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_dom_mas",
+"ckey": [
+"camp",
+"vendor_org_4202727_dom_mas"
+],
+"reach": 0,
+"subs": 50351.0,
+"day": "2026-09-29",
+"utmp": {
+"camp": "vendor_org_4202727_dom_mas",
+"term": "ьфч_ь1_290926",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Telegram",
+"act": "Инфлюенс-посев",
+"name": "Дельные советы - Александр Абрамов",
+"link": "https://telegram.me/delnie_soveti/686",
+"date": "29.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+2797.0,
+0,
+0,
+0,
+0,
+1,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_delnie_soveti",
+"ckey": [
+"camp",
+"vendor_org_4202727_delnie_soveti"
+],
+"reach": 0,
+"subs": 9464.0,
+"day": "2026-09-29",
+"utmp": {
+"camp": "vendor_org_4202727_delnie_soveti",
+"term": "max_m1_290926",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Красный Сулин - Ростовская область",
+"link": "https://max.ru/sulinnews/AaDstw1oNek",
+"date": "29.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1958.0,
+2,
+0,
+0,
+0,
+1,
+3600,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_sulinnews",
+"ckey": [
+"camp",
+"vendor_org_4202727_sulinnews"
+],
+"reach": 0,
+"subs": 6858.0,
+"day": "2026-09-29",
+"utmp": {
+"camp": "vendor_org_4202727_sulinnews",
+"term": "max_m1_290926",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Хитрый Мастер",
+"link": "https://max.ru/slymaster/AaDr-76iHek",
+"date": "29.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3076.0,
+0,
+0,
+0,
+0,
+1,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_slymaster",
+"ckey": [
+"camp",
+"vendor_org_4202727_slymaster"
+],
+"reach": 0,
+"subs": 5106.0,
+"day": "2026-09-29",
+"utmp": {
+"camp": "vendor_org_4202727_slymaster",
+"term": "max_m1_290926",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Руки Мастера | Советы",
+"link": "https://max.ru/join/9qLFWCP7_Fof0z7MLsPf0HIb5RFVv_As1t9Vp-1f5do",
+"date": "29.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+3076.0,
+0,
+0,
+0,
+0,
+1,
+0,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_rukimastera",
+"ckey": [
+"camp",
+"vendor_org_4202727_rukimastera"
+],
+"reach": 0,
+"subs": 10124.0,
+"day": "2026-09-29",
+"utmp": {
+"camp": "vendor_org_4202727_rukimastera",
+"term": "max_m1_290926",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Самоделки 🛠 Инструменты",
+"link": "https://max.ru/join/2ekcRW3OmRouMMfpcoGvuu-A8kA9ZCue_A1oZBBlufo",
+"date": "29.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+1538.0,
+1,
+0,
+0,
+0,
+1,
+1800,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_samodelki",
+"ckey": [
+"camp",
+"vendor_org_4202727_samodelki"
+],
+"reach": 0,
+"subs": 4061.0,
+"day": "2026-09-29",
+"utmp": {
+"camp": "vendor_org_4202727_samodelki",
+"term": "max_m1_290926",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "ОчУмелые ручки",
+"link": "https://max.ru/join/Xrfy8Z06jPnDVDF4s6MN8pg22ScbSOmVW3hUcZycXmk",
+"date": "29.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+4475.0,
+2,
+0,
+0,
+0,
+1,
+3600,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_ohumelye_ruchki",
+"ckey": [
+"camp",
+"vendor_org_4202727_ohumelye_ruchki"
+],
+"reach": 0,
+"subs": 30956.0,
+"day": "2026-09-29",
+"utmp": {
+"camp": "vendor_org_4202727_ohumelye_ruchki",
+"term": "max_m1_290926",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Всё про рыбалку 🎣",
+"link": "https://max.ru/club220202870/AaDtDeklTek",
+"date": "29.09",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+620.0,
+2,
+0,
+0,
+0,
+1,
+3600,
+0
+]
+],
+"est": false,
+"scn": "t6",
+"camp": "vendor_org_4202727_club220202870",
+"ckey": [
+"camp",
+"vendor_org_4202727_club220202870"
+],
+"reach": 0,
+"subs": 1103.0,
+"day": "2026-09-29",
+"utmp": {
+"camp": "vendor_org_4202727_club220202870",
+"term": "max_m1_290926",
+"src": "blog",
+"med": "cpc"
+},
+"src": "api"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Wildberries",
+"chan": "Самовыкупы",
+"act": "Самовыкупы",
+"sys": true,
+"info": true,
+"name": "Самовыкупы менеджера по маркетплейсам — в итог не входят",
+"link": null,
+"date": "весь месяц",
+"tag": "sys",
+"mgr": "Анастасия",
+"w": [
+[
+0,
+12.0,
+12.0,
+0,
+0,
+0,
+14171,
+0
+],
+[
+0,
+0.0,
+0.0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+13.0,
+13.0,
+0,
+0,
+0,
+15352,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Самовыкупы",
+"act": "Самовыкупы",
+"sys": true,
+"info": true,
+"name": "Самовыкупы менеджера по маркетплейсам — в итог не входят",
+"link": null,
+"date": "весь месяц",
+"tag": "sys",
+"mgr": "Анастасия",
+"w": [
+[
+0,
+4.0,
+4.0,
+0,
+0,
+0,
+5787,
+0
+],
+[
+0,
+5.0,
+5.0,
+0,
+0,
+0,
+7234,
+0
+],
+[
+0,
+30.0,
+30.0,
+0,
+0,
+0,
+43405,
+0
+],
+[
+0,
+24.0,
+24.0,
+0,
+0,
+0,
+34724,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Wildberries",
+"chan": "Внутренняя реклама WB",
+"act": "Внутренняя реклама",
+"sys": true,
+"src": "api",
+"est": false,
+"name": "Кампании WB — из API",
+"link": null,
+"date": "весь месяц",
+"tag": "sys",
+"mgr": "—",
+"w": [
+[
+8480,
+68,
+0,
+0,
+1357,
+0,
+80303,
+0
+],
+[
+11805,
+95,
+0,
+0,
+1889,
+0,
+112189,
+0
+],
+[
+26253,
+210,
+0,
+0,
+4201,
+0,
+247996,
+0
+],
+[
+15774,
+127,
+0,
+0,
+2524,
+0,
+149979,
+0
+],
+[
+6990,
+56,
+0,
+0,
+1118,
+0,
+66132,
+0
+]
+]
+},
+{
+"m": "2026-09",
+"prod": "appl",
+"plat": "Wildberries",
+"chan": "Внутренняя реклама WB",
+"act": "Внутренняя реклама",
+"sys": true,
+"src": "api",
+"est": false,
+"name": "Кампании WB — из API",
+"link": null,
+"date": "весь месяц",
+"tag": "sys",
+"mgr": "—",
+"w": [
+[
+253,
+0,
+0,
+0,
+16,
+0,
+0,
+0
+],
+[
+352,
+0,
+0,
+0,
+22,
+0,
+0,
+0
+],
+[
+781,
+0,
+0,
+0,
+49,
+0,
+0,
+0
+],
+[
+470,
+0,
+0,
+0,
+29,
+0,
+0,
+0
+],
+[
+208,
+0,
+0,
+0,
+13,
+0,
+0,
+0
+]
+]
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Внутренняя реклама Ozon",
+"act": "Внутренняя реклама",
+"sys": true,
+"src": "api",
+"est": false,
+"name": "Продвижение в поиске Ozon — из API",
+"link": null,
+"date": "весь месяц",
+"tag": "sys",
+"mgr": "—",
+"w": [
+[
+10399,
+120,
+0,
+0,
+1497,
+0,
+173621,
+0
+],
+[
+15471,
+175,
+0,
+0,
+2227,
+0,
+253197,
+0
+],
+[
+30539,
+311,
+0,
+0,
+4396,
+0,
+449967,
+0
+],
+[
+58691,
+445,
+0,
+0,
+8448,
+0,
+643843,
+0
+],
+[
+42136,
+293,
+0,
+0,
+6065,
+0,
+423923,
+0
+]
+]
+},
+{
+"m": "2026-09",
+"prod": "appl",
+"plat": "Ozon",
+"chan": "Внутренняя реклама Ozon",
+"act": "Внутренняя реклама",
+"sys": true,
+"src": "api",
+"est": false,
+"name": "Продвижение в поиске Ozon — из API",
+"link": null,
+"date": "весь месяц",
+"tag": "sys",
+"mgr": "—",
+"w": [
+[
+621,
+1,
+0,
+0,
+41,
+0,
+3695,
+0
+],
+[
+924,
+1,
+0,
+0,
+62,
+0,
+5375,
+0
+],
+[
+1825,
+1,
+0,
+0,
+122,
+0,
+9559,
+0
+],
+[
+3508,
+2,
+0,
+0,
+234,
+0,
+13622,
+0
+],
+[
+2518,
+2,
+0,
+0,
+168,
+0,
+9009,
+0
+]
+]
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбалка | Рыбанутые | Охота | Туризм — заказы по метке публикации от 26.08",
+"link": "https://max.ru/rybanutyye/AaA8rBz7BJg",
+"date": "26.08",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+38,
+0,
+0,
+0,
+0,
+53908,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"src": "api",
+"tail": true,
+"camp": "vendor_org_4202727_rybanutyye",
+"ckey": [
+"camp",
+"vendor_org_4202727_rybanutyye"
+],
+"camp_orig": [
+"Рыбалка | Рыбанутые | Охота | Туризм",
+"2026-08"
+]
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "syilers2019 — заказы по метке публикации от 27.08",
+"link": "https://max.ru/syilers2019/AaBC_lixIxo",
+"date": "27.08",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+8,
+0,
+0,
+0,
+0,
+13122,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"src": "api",
+"tail": true,
+"camp": "vendor_org_4202727_syilers2019",
+"ckey": [
+"camp",
+"vendor_org_4202727_syilers2019"
+],
+"camp_orig": [
+"syilers2019",
+"2026-08"
+]
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "YouTube",
+"act": "Инфлюенс-посев",
+"name": "Fishing-Life TV — заказы по метке публикации от 28.08",
+"link": "https://www.youtube.com/watch?v=IpPwpwE1GPc&t=100s",
+"date": "28.08",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+8,
+0,
+0,
+0,
+0,
+12039,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"src": "api",
+"tail": true,
+"camp": "vendor_org_4202727_Fishing-Life",
+"ckey": [
+"camp",
+"vendor_org_4202727_Fishing-Life"
+],
+"camp_orig": [
+"Fishing-Life TV",
+"2026-08"
+]
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "Fishing-Life TVvk — заказы по метке публикации от 30.08",
+"link": "https://vkvideo.ru/video-226894765_456239497",
+"date": "30.08",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+10,
+0,
+0,
+0,
+0,
+11940,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"src": "api",
+"tail": true,
+"camp": "vendor_org_4202727_Fishing-Life TVvk",
+"ckey": [
+"camp",
+"vendor_org_4202727_Fishing-Life TVvk"
+],
+"camp_orig": [
+"Fishing-Life TVvk",
+"2026-08"
+]
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Рыбацкий канал | Рыбалка — заказы по метке публикации от 26.08",
+"link": "https://max.ru/ribalka_fishing24/AaA8rCnOepg",
+"date": "26.08",
+"tag": "none",
+"mgr": "Елена",
+"w": [
+[
+0,
+4,
+0,
+0,
+0,
+0,
+6105,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"src": "api",
+"tail": true,
+"camp": "vendor_org_4202727_ribalka_fishing24",
+"ckey": [
+"camp",
+"vendor_org_4202727_ribalka_fishing24"
+],
+"camp_orig": [
+"Рыбацкий канал | Рыбалка",
+"2026-08"
+]
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "VK",
+"act": "Инфлюенс-посев",
+"name": "VK: vanorybak — заказы по метке публикации от 22.08",
+"link": "https://vkvideo.ru/video-230055583_456239251?list=2e0f7584ab690ad42a",
+"date": "22.08",
+"tag": "utm",
+"mgr": "Мария",
+"w": [
+[
+0,
+1,
+0,
+0,
+0,
+0,
+1200,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"src": "api",
+"tail": true,
+"camp": "vendor_org_4202727",
+"ckey": [
+"term",
+"vanorybak"
+],
+"camp_orig": [
+"VK: vanorybak",
+"2026-08"
+]
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Бот Клевая карта",
+"act": "Бот → продажи",
+"name": "Бот «Клевая карта»: заказы на Ozon по меткам klevaya_karta, Kiev_karta",
+"link": null,
+"date": "весь месяц",
+"tag": "utm",
+"mgr": "—",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+1,
+0,
+0,
+0,
+0,
+1436,
+0
+],
+[
+0,
+1,
+0,
+0,
+0,
+0,
+1436,
+0
+],
+[
+0,
+1,
+0,
+0,
+0,
+0,
+1436,
+0
+],
+[
+0,
+2,
+0,
+0,
+0,
+0,
+2874,
+0
+]
+],
+"est": false,
+"src": "api",
+"bot": "Клевая карта"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Ozon",
+"chan": "Органика",
+"act": "Органика",
+"sys": true,
+"name": "Остаток: факт площадки минус внутренняя реклама, посевы и самовыкупы",
+"link": null,
+"date": "весь месяц",
+"tag": "sys",
+"mgr": "—",
+"w": [
+[
+0,
+54,
+86,
+124428,
+0,
+0,
+75465,
+0
+],
+[
+0,
+161,
+256,
+370390,
+0,
+0,
+225343,
+0
+],
+[
+0,
+183,
+291,
+421030,
+0,
+0,
+255529,
+0
+],
+[
+0,
+183,
+291,
+421030,
+0,
+0,
+255529,
+0
+],
+[
+0,
+79,
+124,
+179408,
+0,
+0,
+109514,
+0
+]
+],
+"est": false
+},
+{
+"m": "2026-09",
+"prod": "appl",
+"plat": "Wildberries",
+"chan": "Органика",
+"act": "Органика",
+"sys": true,
+"name": "Остаток: факт площадки минус внутренняя реклама, посевы и самовыкупы",
+"link": null,
+"date": "весь месяц",
+"tag": "sys",
+"mgr": "—",
+"w": [
+[
+0,
+2,
+2,
+13149,
+0,
+0,
+13156,
+0
+],
+[
+0,
+1,
+1,
+6575,
+0,
+0,
+6578,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+6,
+5,
+32873,
+0,
+0,
+39466,
+0
+]
+],
+"est": false
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Wildberries",
+"chan": "Органика",
+"act": "Органика",
+"sys": true,
+"name": "Остаток: факт площадки минус внутренняя реклама, посевы и самовыкупы",
+"link": null,
+"date": "весь месяц",
+"tag": "sys",
+"mgr": "—",
+"w": [
+[
+0,
+54,
+81,
+92884,
+0,
+0,
+63219,
+0
+],
+[
+0,
+120,
+181,
+207555,
+0,
+0,
+141830,
+0
+],
+[
+0,
+137,
+207,
+237369,
+0,
+0,
+161620,
+0
+],
+[
+0,
+137,
+207,
+237369,
+0,
+0,
+161620,
+0
+],
+[
+0,
+58,
+88,
+100911,
+0,
+0,
+69264,
+0
+]
+],
+"est": false
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Сайт trigger-fish.ru",
+"chan": "MAX",
+"act": "Инфлюенс-посев",
+"name": "Метка rubathzkiy — размещение не найдено в таблицах",
+"link": null,
+"date": "—",
+"tag": "utm",
+"mgr": "—",
+"w": [
+[
+0,
+3,
+2,
+3540.0,
+0,
+0,
+4720.0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"src": "tilda",
+"camp": "rubathzkiy"
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Сайт trigger-fish.ru",
+"chan": "Органика",
+"act": "Органика",
+"sys": true,
+"name": "Заказы с сайта без метки",
+"link": null,
+"date": "—",
+"tag": "sys",
+"mgr": "—",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+1,
+1,
+1180.0,
+0,
+0,
+1180.0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false,
+"src": "tilda"
+},
+{
+"m": "2026-09",
+"prod": "appl",
+"plat": "Авито",
+"chan": "Внутренняя реклама Авито",
+"act": "Авито",
+"sys": true,
+"name": "План есть, фактических данных пока нет",
+"link": null,
+"date": "—",
+"tag": "sys",
+"mgr": "—",
+"w": [
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": true
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Авито",
+"chan": "Внутренняя реклама Авито",
+"act": "Авито",
+"name": "Объявления Авито — API (отменено 9, в пути 11)",
+"link": null,
+"date": "—",
+"tag": "avito",
+"mgr": "—",
+"w": [
+[
+65,
+0,
+0,
+0,
+34,
+0,
+0,
+0
+],
+[
+14658,
+6,
+5,
+2683,
+5075,
+0,
+3426,
+0
+],
+[
+21701,
+21,
+12,
+10440,
+13335,
+0,
+18083,
+0
+],
+[
+17177,
+7,
+1,
+870,
+10429,
+0,
+6090,
+0
+],
+[
+6869,
+6,
+1,
+100,
+4118,
+0,
+4450,
+0
+]
+],
+"est": false,
+"src": "avito",
+"leads": [
+5,
+42,
+115,
+49,
+16
+],
+"msgs": 226,
+"calls": 1
+},
+{
+"m": "2026-09",
+"prod": "atf",
+"plat": "Авито",
+"chan": "Самовыкупы",
+"act": "Самовыкупы",
+"sys": true,
+"info": true,
+"name": "Самовыкупы Авито (число от Виталия) — в итог не входят",
+"link": null,
+"date": "весь месяц",
+"tag": "sys",
+"mgr": "—",
+"w": [
+[
+0,
+3,
+3,
+0,
+0,
+0,
+300,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+[
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+]
+],
+"est": false
+}
+],
+"meta_fact": {
+"2026-09|Wildberries|appl": [
+9,
+8,
+59200
+],
+"2026-09|Wildberries|atf": [
+1087,
+789,
+1283675
+],
+"2026-09|Ozon|atf": [
+2625,
+1576,
+3797949
+]
+},
+"plans": {
+"prod": {
+"atf": {
+"b": 1800000,
+"o": 3378,
+"buy": 3209,
+"rev": 2566990
+},
+"appl": {
+"b": 120000,
+"o": 53,
+"buy": 49,
+"rev": 270111
+},
+"gd": {
+"b": 55000,
+"r": 423
+},
+"km": {
+"b": 150000,
+"r": 1000
+}
+},
+"plat": {
+"atf": {
+"Авито": {
+"b": 150000,
+"o": 300
+}
+},
+"appl": {
+"Авито": {
+"b": 20000,
+"o": 19
+}
+}
+},
+"chan": {
+"atf": {
+"Внутренняя реклама WB": {
+"b": 70000,
+"o": 467
+},
+"Внутренняя реклама Ozon": {
+"b": 70000,
+"o": 467
+}
+}
+},
+"act": {
+"Инфлюенс-маркетинг": {
+"atf": {
+"b": 1200000,
+"o": 1714
+},
+"appl": {
+"b": 100000,
+"o": 33
+},
+"gd": {
+"b": 55000,
+"o": 423
+},
+"km": {
+"b": 150000,
+"o": 1000
+}
+},
+"Авито": {
+"atf": {
+"b": 150000,
+"o": 300
+},
+"appl": {
+"b": 20000,
+"o": 19
+}
+},
+"SEO": {
+"atf": {
+"b": 150000,
+"o": 30
+}
+},
+"ВБ внутренняя": {
+"atf": {
+"b": 70000,
+"o": 467
+}
+},
+"Ozon внутренняя": {
+"atf": {
+"b": 70000,
+"o": 467
+}
+},
+"Конкурс репостов": {
+"atf": {
+"b": 160000,
+"o": 400
+}
+}
+}
+},
+"pend": {
+"2026-09|Мария": [
+12,
+101400.0
+]
+},
+"selfbuy": {
+"wb": 220,
+"oz": 19
+},
+"check": {
+"el": [
+556026.0,
+208.0,
+177.0,
+300963.0
+],
+"ma": [
+141943.0,
+120.0,
+115.0,
+77005.0
+]
+},
+"_note": "Эталон сентября из дашборда от 01.10. Пересобранный сборщик сверяется с ним по структуре и расходу; цифры из API могут немного отличаться — окно атрибуции Ozon продолжает дописывать заказы."
+}
